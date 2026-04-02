@@ -1,0 +1,1143 @@
+LNUM	ORIGINE	RENVOI	DESTINATION
+L001	aéroport	dispositif	dispositif
+L002	aéroport	échelle	échelle
+L003	aéroport	mobilité	mobilité
+L004	aéroport	transport	transport
+L005	agéographique	écritures géographiques	écritures géographiques
+L006	agéographique	espace	espace
+L007	agéographique	métagéographie	métagéographie
+L008	aire culturelle	créolisation	créolisation
+L009	aire culturelle	culture	culture
+L010	aire culturelle	identité	identité
+L011	aire culturelle	métagéographie	métagéographie
+L012	aire culturelle	orientalisme	orientalisme
+L013	aire culturelle	région	région
+L014	aires protégées	autochtonie	autochtonie
+L015	aires protégées	habitat	habitat
+L016	aires protégées	nature	nature
+L017	aires protégées	parc	parc
+L018	aires protégées	sauvage	sauvage
+L019	alcool	drogue	drogue
+L020	alcool	vin	vin
+L021	alimentation	cueillette	cueillette
+L022	alimentation	élevage	élevage
+L023	alimentation	faim	faim
+L024	alimentation	paysans et agriculteurs	paysans et agriculteurs
+L025	alimentation	ruralités	ruralités
+L026	aménagement du territoire	pouvoirs locaux	pouvoirs locaux
+L027	aménagement du territoire	territoire	territoire(s)
+L028	anarchie	capitalisme	capitalisme
+L029	anarchie	engagement	engagement
+L030	anarchie	enseignement de la géographie	enseignement de la géographie
+L031	anarchie	luttes environnementales	luttes environnementales
+L032	anarchie	pouvoir	pouvoir
+L033	animaux	corridors écologiques	corridor écologique
+L034	animaux	humains/non humains	humains/non-humains
+L035	animaux	zoo	zoo
+L036	armées	drone	drone
+L037	armées	géopolitique	géopolitique
+L038	armées	politique	armées
+L039	armées	pouvoir	pouvoir
+L040	art	dessin	dessin
+L041	art	imaginaire	imaginaire
+L042	art	musée	musée
+L043	art	photographie	photographie
+L044	art	représentation	représentations
+L045	atlas	bibliothèque de géographie	bibliothèque de géographie
+L046	atlas	cartes et plans (département de la BNF)	cartes et plans (département de la BNF)
+L047	atlas	continent	continent
+L048	atlas	imaginaire	imaginaire
+L049	atlas	monde	monde
+L050	autochtonie	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L051	autochtonie	ontologie	ontologie
+L052	autocorrélation	concentration	concentration
+L053	autocorrélation	statistique	statistique
+L054	automobile	échelle	échelle
+L055	automobile	mobilité	mobilité
+L056	automobile	transport	transport
+L057	bande dessinée	art	art
+L058	bande dessinée	dessin	dessin
+L059	bande dessinée	imaginaire	imaginaire
+L060	bande dessinée	représentations	représentations
+L061	banlieue	distance	distance
+L062	banlieue	métropolisation	métropolisation
+L063	banlieue	périurbain	périurbain
+L064	banlieue	ségrégation	ségrégation
+L065	banlieue	urbain	urbain
+L066	barrage	eau	eau
+L067	barrage	hydrosystème	hydrosystème
+L068	barrage	restauration écologique	restauration écologique
+L069	bibliothèque de géographie	cartes et plans (département de la BNF)	cartes et plans (département de la BNF)
+L070	bibliothèque de géographie	enseignement de la géographie	enseignement de la géographie
+L071	biodiversité	corridor écologique	corridor écologique
+L072	biodiversité	écologie	écologie
+L073	biodiversité	espèces invasives	espèces invasives
+L074	biodiversité	nature	nature
+L075	biodiversité	restauration écologique	restauration écologique
+L076	bled	communs	communs
+L077	bled	habiter	habiter
+L078	bled	ruralités	ruralités
+L079	bled	village	village
+L080	cabane	habitat	habitat
+L081	cabane	itinéraires	itinéraires
+L082	cabane	squat	squat
+L083	cabane	tourisme	tourisme
+L084	camp	domination	domination
+L085	camp	enfermement	enfermement
+L086	camp	esclavage	esclavages
+L087	camp	pouvoir	pouvoir
+L088	camp	prison	prison
+L089	capitalisme	classe	classe sociale
+L090	capitalisme	désindustrialisation/réindustrialisation	désindustrialisation/réindustrialisation
+L091	capitalisme	développement	développement
+L092	capitalisme	domination	domination
+L093	capitalisme	inégalités spatiales	inégalités spatiales
+L094	carte	cartographie critique	cartographie critique
+L095	carte	enseignement de la géographie	enseignement de la géographie
+L096	carte	inégalités spatiales	inégalités spatiales
+L097	cartes et plans (département de la BNF)	bibliothèque de géographie	bibliothèque de géographie
+L098	cartes et plans (département de la BNF)	cartographie critique	cartographie critique
+L099	cartes et plans (département de la BNF)	enseignement de la géographie	enseignement de la géographie
+L100	cartes et plans (département de la BNF)	géohistoire	géohistoire
+L101	système	centre-périphérie	centre-périphérie
+L102	système	épistémologie de la géographie	épistémologie de la géographie
+L103	système	espace	espace
+L104	système	hydrosystème	hydrosystème
+L105	système	interaction spatiale	interaction spatiale
+L106	technique	cartographie critique	cartographie critique
+L107	technique	extractivisme	extractivisme
+L108	technique	transport	transport
+L109	temps	épistémologie de la géographie	épistémologie de la géographie
+L110	temps	géohistoire	géohistoire
+L111	cartographie critique	dispositif	dispositif
+L112	temps	histoire et géographie	histoire et géographie
+L113	temps	identité	identité
+L114	temps	trajectoire	trajectoire
+L115	terrain	écritures géographiques	écritures géographiques
+L116	terrain	épistémologie de la géographie	épistémologie de la géographie
+L117	terrain	éthique et géographie	éthique et géographie
+L118	terrain	expérience	expérience
+L119	territoire(s)	contrôler	contrôler
+L120	territoire(s)	état	état
+L121	territoire(s)	géopolitique	géopolitique
+L122	cartographie critique	géopolitique	géopolitique
+L123	territoire(s)	pouvoir	pouvoir
+L124	territoire(s)	représentations	représentations
+L125	terroir	élevage	élevage
+L126	terroir	habiter	habiter
+L127	terroir	paysans et agriculteurs	paysans et agriculteurs
+L128	terroir	ruralités	ruralités
+L129	terroir	village	village
+L130	terrorisme	conflit	conflit
+L131	terrorisme	état	état
+L132	terrorisme	géopolitique	géopolitique
+L133	cartographie critique	politique	cartographie critique
+L134	terrorisme	pouvoir	pouvoir
+L135	terrorisme	violence	violence
+L136	théâtre	culture	culture
+L137	théâtre	dispositif	dispositif
+L138	théâtre	imaginaire	imaginaire
+L139	théâtre	patrimoine	patrimoine
+L140	tiers-lieu	communs	communs
+L141	toilettes	aménagement du territoire	aménagement du territoire
+L142	toilettes	corps	corps
+L143	toilettes	genre	genre
+L144	cartographie critique	pouvoir	pouvoir
+L145	toponymie	lieu	lieu
+L146	tourisme	mondialisation	mondialisation
+L147	tourisme	plage	plage
+L148	tourisme	tourismophobie	tourismophobie/touristophobie
+L149	tourismophobie/touristophobie	mondialisation	mondialisation
+L150	tourismophobie/touristophobie	plage	plage
+L151	tourismophobie/touristophobie	tourisme	tourisme
+L152	tournant spatial	épistémologie de la géographie	épistémologie de la géographie
+L153	tournant spatial	espace	espace
+L154	tournant spatial	histoire-géographie	histoire et géographie
+L155	casino	contrôle	contrôler
+L156	tournant spatial	mondialisation	mondialisation
+L157	tournant spatial	post-	post(-)
+L158	train	gare	gare
+L159	train	tourisme	tourisme
+L160	trajectoire	famille	famille
+L161	trajectoire	habiter	habiter
+L162	trajectoire	migration	migration
+L163	trajectoire	mobilité	mobilité
+L164	trajectoire	territoire(s)	territoire(s)
+L165	transition	changement climatique	changement climatique
+L166	casino	dispositif	dispositif
+L167	transition	environnement	environnement
+L168	transition	gouvernance	gouvernance
+L169	transnationalisme	cosmopolitisme	cosmopolitisme
+L170	transnationalisme	migration	migration
+L171	transnationalisme	mondialisation	mondialisation
+L172	transport	aéroport	aéroport
+L173	transport	conteneur	conteneur
+L174	transport	logistique	logistique
+L175	transport	mobilité	mobilité
+L176	transport	vélo	vélo
+L177	casino	inégalités	inégalités sociales
+L178	travail	firme transnationale	firme transnationale
+L179	travail	industrie	industrie
+L180	travail	mondialisation	mondialisation
+L181	travail	services publics	services publics
+L182	travail	ubérisation	ubérisation
+L183	ubérisation	capitalisme	capitalisme
+L184	ubérisation	internet	internet
+L185	ubérisation	numérique	numérique
+L186	ubérisation	travail	travail
+L187	urbain	banlieue	banlieue
+L188	casino	mafia	mafia
+L189	urbain	capitalisme	capitalisme
+L190	urbain	exode rural/urbain	exode (rural/urbain)
+L191	urbain	métropolisation	métropolisation
+L192	urbain	mondialisation	mondialisation
+L193	urbain	ville	ville
+L194	utopie	idéologie	idéologie
+L195	utopie	imaginaire	imaginaire
+L196	utopie	lieu	lieu
+L197	vélo	automobile	automobile
+L198	vélo	marche	marche
+L199	centre-périphérie	clusters et systèmes productifs	clusters et systèmes productifs locaux
+L200	vélo	mobilité	mobilité
+L201	vélo	transport	transport
+L202	viande	alimentation	alimentation
+L203	viande	chasse	chasse
+L204	viande	élevage	élevage
+L205	viande	faim	faim
+L206	viande	filière	filière
+L207	vieillesse et jeunesse	croissance et déclin démographique	croissance et déclin démographique
+L208	vieillesse et jeunesse	inégalités	inégalités sociales
+L209	vieillesse et jeunesse	population(s)	population(s)
+L210	centre-périphérie	concentration	concentration
+L211	vieillesse et jeunesse	trajectoire	trajectoire
+L212	village	élevage	élevage
+L213	village	paysans et agriculteurs	paysans et agriculteurs
+L214	village	périurbain	périurbain
+L215	village	ruralités	ruralités
+L216	village	terroir	terroir
+L217	ville	cité	cité
+L218	ville	habitat	habitat
+L219	ville	habiter	habiter
+L220	ville	métropolisation	métropolisation
+L221	centre-périphérie	interaction spatiale	interaction spatiale
+L222	vin	alcool	alcool
+L223	vin	filière	filière
+L224	vin	patrimoine	patrimoine
+L225	vin	paysage	paysage
+L226	vin	terroir	terroir
+L227	violence	conflit	conflit
+L228	violence	criminalité	criminalité
+L229	violence	état	état
+L230	violence	mafia	mafia
+L231	violence	pouvoir	pouvoir
+L232	centre-périphérie	marge/marginalité	marge/marginalité
+L233	voisinage	habiter	habiter
+L234	voisinage	trajectoire	trajectoire
+L235	volcan	géomorphologie	géomorphologie
+L236	volcan	montagne	montagne
+L237	volcan	risques	risques
+L238	zad (zone à défendre)	aménagement du territoire	aménagement du territoire
+L239	zad (zone à défendre)	inégalités spatiales	inégalités spatiales
+L240	zad (zone à défendre)	justice	justice
+L241	zad (zone à défendre)	luttes environnementales	luttes environnementales
+L242	zad (zone à défendre)	pouvoir	pouvoir
+L243	centre-périphérie	pôle/polarité	pôle/polarité
+L244	zad (zone à défendre)	utopie	utopie
+L245	zones franches	gouvernance	gouvernance
+L246	zones franches	mondialisation	mondialisation
+L247	zones franches	néolibéralisme	néolibéralisme
+L248	zones franches	territoire	territoire(s)
+L249	zones humides	biodiversité	biodiversité
+L250	zones humides	écologie	écologie
+L251	zones humides	environnement	environnement
+L252	zones humides	ressource	ressource
+L253	zones humides	risques	risques
+L254	changement climatique	biodiversité	biodiversité
+L255	zoo	animaux	animaux
+L256	zoo	nature	nature
+L257	zoo	tourisme	tourisme
+L258	changement climatique	écologie	écologie
+L259	changement climatique	environnement	environnement
+L260	changement climatique	risques	risques
+L261	changement climatique	transition	transition
+L262	chasse	animaux	animaux
+L263	chasse	sauvage	sauvage
+L264	chasse	viande	viande
+L265	cheval	alimentation	alimentation
+L266	cheval	animaux	animaux
+L267	cheval	élevage	élevage
+L268	cheval	transport	transport
+L269	cimetière	corps	corps
+L270	cimetière	émotions	émotions
+L271	cimetière	habiter	habiter
+L272	cimetière	patrimoine	patrimoine
+L273	cimetière	sacré	sacré
+L274	cinéma documentaire	géographie audiovisuelle	géographie audiovisuelle
+L275	cinéma documentaire	son	son
+L276	cité	banlieue	banlieue
+L277	cité	habiter	habiter
+L278	cité	logement	logement
+L279	cité	quartier	quartier
+L280	cité	ville	ville
+L281	classe sociale	capitalisme	capitalisme
+L282	classe sociale	gentrification	gentrification
+L283	climats et climatologie	capitalisme	capitalisme
+L284	climats et climatologie	domination	domination
+L285	climats et climatologie	inégalités spatiales	inégalités spatiales
+L286	climats et climatologie	luttes environnementales	luttes environnementales
+L287	clusters et systèmes productifs locaux	désindustrialisation/réindustrialisation	désindustrialisation/réindustrialisation
+L288	clusters et systèmes productifs locaux	développement local	développement local
+L289	clusters et systèmes productifs locaux	filière industrie	filière
+L290	clusters et systèmes productifs locaux	pôle/polarité	pôle/polarité
+L291	colonial/postcolonial/décolonial	autochtonie	autochtonie
+L292	colonial/postcolonial/décolonial	continent	continent
+L293	colonial/postcolonial/décolonial	esclavages	esclavages
+L294	colonial/postcolonial/décolonial	ontologie	ontologie
+L295	commerce	aménagement du territoire	aménagement du territoire
+L296	commerce	concentration	concentration
+L297	commerce	conteneur	conteneur
+L298	commerce	mobilité	mobilité
+L299	communs	gouvernance	gouvernance
+L300	communs	justice	justice
+L301	communs	luttes environnementales	luttes environnementales
+L302	communs	ressource	ressource
+L303	communs	ZAD	zad (zone à défendre)
+L304	comparaison	échelle	échelle
+L305	comparaison	modèles	modélisation
+L306	comparaison	mondialisation	mondialisation
+L307	comparaison	nord-sud	nord-sud
+L308	comparaison	urbain	urbain
+L309	concentration	autocorrélation	autocorrélation
+L310	concentration	modèle	modélisation
+L311	concentration	statistique	statistique
+L312	conflit	armées	armées
+L313	conflit	géopolitique	géopolitique
+L314	conflit	luttes environnementales	luttes environnementales
+L315	conflit	réfugié	réfugié
+L316	conflit	violence	violence
+L317	conteneur	firmes internationales	firme transnationale
+L318	conteneur	mondialisation	mondialisation
+L319	conteneur	océan et mers	océan et mers
+L320	conteneur	port	port
+L321	conteneur	transport	transport
+L322	continent	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L323	continent	métagéographie	métagéographie
+L324	continent	mondialisation	mondialisation
+L325	continent	nord-sud	nord-sud
+L326	continent	océans et mer	océan et mers
+L327	continent	pouvoir	pouvoir
+L328	contrôler	enfermement	enfermement
+L329	contrôler	justice	justice
+L330	contrôler	pouvoir	pouvoir
+L331	contrôler	sécurité	sécurité
+L332	contrôler	terrorisme	terrorisme
+L333	corps	émotion	émotions
+L334	corps	féminisme	féminisme
+L335	corps	genre	genre
+L336	corridor écologique	aires protégées	aires protégées
+L337	corridor écologique	animaux	animaux
+L338	corridor écologique	environnement	environnement
+L339	corridor écologique	forêt	forêt
+L340	corridor écologique	sauvage	sauvage
+L341	cosmopolitisme	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L342	cosmopolitisme	créolisation	créolisation
+L343	cosmopolitisme	diaspora	diaspora
+L344	cosmopolitisme	migration	migration
+L345	cosmopolitisme	transnationalisme	transnationalisme
+L346	couleurs (géographie des)	dessin	dessin
+L347	couleurs (géographie des)	paysage	paysage
+L348	couleurs (géographie des)	photographies	photographie
+L349	créolisation	diaspora	diaspora
+L350	créolisation	esclavages	esclavages
+L351	créolisation	langue	langue
+L352	créolisation	migration	migration
+L353	créolisation	race	race
+L354	criminalité	drogue	drogue
+L355	criminalité	mafia	mafia
+L356	criminalité	police	police
+L357	criminalité	sécurité	sécurité
+L358	criminalité	violence	violence
+L359	croissance et déclin démographique	exode (rural/urbain)	exode (rural/urbain)
+L360	croissance et déclin démographique	famille	famille
+L361	croissance et déclin démographique	peuplement	peuplement
+L362	croissance et déclin démographique	population(s)	population(s)
+L363	croissance et déclin démographique	vieillesse et jeunesse	vieillesse et jeunesse
+L364	cueillette	alimentation	alimentation
+L365	cueillette	chasse	chasse
+L366	cueillette	nature	nature
+L367	cueillette	nomadisme	nomadisme et sédentarité
+L368	cueillette	pêche	pêche
+L369	cueillette	sédentarité	cueillette
+L370	cuesta	géomorphologie	géomorphologie
+L371	cuesta	relief	relief
+L372	culture	art	art
+L373	culture	épistémologie de la géographie	épistémologie de la géographie
+L374	culture	identité	identité
+L375	culture	imaginaire	imaginaire
+L376	culture	musée	musée
+L377	culture	pouvoirs locaux	pouvoirs locaux
+L378	culture	représentations	représentations
+L379	cyberespace	conflit	conflit
+L380	cyberespace	criminalité	criminalité
+L381	cyberespace	dispositif	dispositif
+L382	cyberespace	géopolitique	géopolitique
+L383	cyberespace	numérique	numérique
+L384	déchet	écologie	écologie
+L385	déchet	environnement	environnement
+L386	description	écritures géographiques	écritures géographiques
+L387	désert	centre-périphérie	centre-périphérie
+L388	désert	eau	eau
+L389	désert	écologie	écologie
+L390	désert	nomadisme	nomadisme et sédentarité
+L391	désert	oasis	oasis
+L392	désert	sédentarité	désert
+L393	désindustrialisation/réindustrialisation	développement local	développement local
+L394	désindustrialisation/réindustrialisation	filière	filière
+L395	désindustrialisation/réindustrialisation	industrie	industrie
+L396	désindustrialisation/réindustrialisation	néolibéralisme	néolibéralisme
+L397	désindustrialisation/réindustrialisation	pôle/polarité	pôle/polarité
+L398	dessin	art	art
+L399	dessin	bande dessinée	bande dessinée
+L400	dessin	cinéma documentaire	cinéma documentaire
+L401	dessin	couleurs (géographie des)	couleurs (géographie des)
+L402	dessin	photographie	photographie
+L403	dessin	son	son
+L404	déterminisme	environnement	environnement
+L405	déterminisme	milieu	milieu
+L406	déterminisme	nature	nature
+L407	déterminisme	système	système
+L408	développement	centre-périphérie	centre-périphérie
+L409	développement	émergence	émergence
+L410	développement	humanitaire	humanitaire
+L411	développement	inégalités spatiales	inégalités spatiales
+L412	développement	pauvreté	pauvreté
+L413	développement local	capitalisme	capitalisme
+L414	développement local	gouvernance	gouvernance
+L415	développement local	néolibéralisme	néolibéralisme
+L416	développement local	pouvoir	pouvoir
+L417	développement local	pouvoirs locaux	pouvoirs locaux
+L418	diaspora	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L419	diaspora	migration	migration
+L420	diaspora	mobilité	mobilité
+L421	diaspora	mondialisation	mondialisation
+L422	diaspora	transnationalisme	transnationalisme
+L423	dictionnaire	agéographique	agéographique
+L424	dictionnaire	dispositif	dispositif
+L425	dictionnaire	écriture	écritures géographiques
+L426	dictionnaire	langue	langue
+L427	dispositif	domination	domination
+L428	dispositif	pouvoir	pouvoir
+L429	dispositif	prison	prison
+L430	dispositif	zoo	zoo
+L431	distance	échelle	échelle
+L432	distance	interaction spatiale	interaction spatiale
+L433	distance	itinéraires	itinéraires
+L434	distance	local	local
+L435	distance	mobilité	mobilité
+L436	distance	transport	transport
+L437	domination	handicap	handicap
+L438	domination	inégalités sociales	inégalités sociales
+L439	domination	intersectionnalité	intersectionnalité
+L440	domination	pouvoir	pouvoir
+L441	domination	sexualités	sexualités
+L442	données	cartographie critique	cartographie critique
+L443	données	géolocalisation	géolocalisation
+L444	données	statistique	statistique
+L445	données	technique	technique
+L446	drogue	agriculture	drogue
+L447	drogue	alcool	alcool
+L448	drogue	commerce	commerce
+L449	drone	conflit	conflit
+L450	drone	géopolitique	géopolitique
+L451	drone	pouvoir	pouvoir
+L452	eau	hydrosystème	hydrosystème
+L453	eau	inondation	inondations
+L454	eau	océan et mers	océan et mers
+L455	échelle	lieu	lieu
+L456	échelle	mondialisation	mondialisation
+L457	échelle	région	région
+L458	échelle	ville	ville
+L459	école	enfermement	enfermement
+L460	école	enseignement de la géographie	enseignement de la géographie
+L461	école	inégalités sociales	inégalités sociales
+L462	école	vieillesse et jeunesse	vieillesse et jeunesse
+L463	écologie	biodiversité	biodiversité
+L464	écologie	restauration écologique	restauration écologique
+L465	écritures géographiques	art	art
+L466	écritures géographiques	dessin	dessin
+L467	écritures géographiques	enseignement de la géographie	enseignement de la géographie
+L468	écritures géographiques	épistémologie de la géographie	épistémologie de la géographie
+L469	écritures géographiques	représentations	représentations
+L470	élevage	alimentation	alimentation
+L471	élevage	paysans et agriculteurs	paysans et agriculteurs
+L472	élevage	ruralités	ruralités
+L473	élevage	terroir	terroir
+L474	élevage	village	village
+L475	élite(s)	finance	finance
+L476	élite(s)	inégalités sociales	inégalités sociales
+L477	élite(s)	mobilité	mobilité
+L478	élite(s)	pouvoir	pouvoir
+L479	élite(s)	transnationalisme	transnationalisme
+L480	émergence	centre-périphérie	centre-périphérie
+L481	émergence	développement	développement
+L482	émergence	industrie	industrie
+L483	émergence	mondialisation	mondialisation
+L484	émergence	ressource	ressource
+L485	émotions	cinéma documentaire	cinéma documentaire
+L486	émotions	corps	corps
+L487	empire	état	état
+L488	empire	pouvoir	pouvoir
+L489	énergie	barrage	barrage
+L490	enfermement	camp	camp
+L491	enfermement	domination	domination
+L492	enfermement	pouvoir	pouvoir
+L493	enfermement	prison	prison
+L494	engagement	anarchie	anarchie
+L495	engagement	éthique et géographie	éthique et géographie
+L496	engagement	féminisme	féminisme
+L497	engagement	luttes environnementales	luttes environnementales
+L498	engagement	pouvoir	pouvoir
+L499	enseignement de la géographie	agéographie	agéographique
+L500	enseignement de la géographie	comparaison	comparaison
+L501	enseignement de la géographie	description	description
+L502	enseignement de la géographie	dictionnaire	dictionnaire
+L503	enseignement de la géographie	école	école
+L504	environnement	biodiversité	biodiversité
+L505	environnement	écologie	écologie
+L506	environnement	luttes environnementales	luttes environnementales
+L507	épidémie	santé	santé
+L508	épistémologie de la géographie	échelle	échelle
+L509	épistémologie de la géographie	lieu	lieu
+L510	épistémologie de la géographie	métagéographie	métagéographie
+L511	épistémologie de la géographie	ontologie	ontologie
+L512	épistémologie de la géographie	région	région
+L513	esclavages	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L514	esclavages	race	race
+L515	esclavages	sucre	sucre
+L516	esclavages	violence	violence
+L517	espace	échelle	échelle
+L518	espace	interaction spatiale	interaction spatiale
+L519	espace	lieu	lieu
+L520	espace	système	système
+L521	espace domestique	handicap	handicap
+L522	espace domestique	inégalités sociales	inégalités sociales
+L523	espace domestique	police	police
+L524	espace domestique	pouvoir	pouvoir
+L525	espace domestique	sexualités	sexualités
+L526	espaces publics	genre	genre
+L527	espaces publics	rue	rue
+L528	espaces publics	urbain	urbain
+L529	espèces invasives	écologie	écologie
+L530	espèces invasives	nature	nature
+L531	état	contrôler	contrôler
+L532	état	géopolitique	géopolitique
+L533	état	pouvoir	pouvoir
+L534	état	services publics	services publics
+L535	état	territoire(s)	territoire(s)
+L536	éthique et géographie	domination	domination
+L537	éthique et géographie	engagement	engagement
+L538	éthique et géographie	inégalités sociales	inégalités sociales
+L539	éthique et géographie	post(-)	post(-)
+L540	ethnie/ethnicité	conflit	conflit
+L541	ethnie/ethnicité	géopolitique	géopolitique
+L542	ethnie/ethnicité	identité	identité
+L543	ethnie/ethnicité	imaginaire	imaginaire
+L544	ethnie/ethnicité	territoire(s)	territoire(s)
+L545	événement	culture	culture
+L546	événement	espace public	espaces publics
+L547	événement	fêtes/festival	fêtes/festivals
+L548	événement	modèle	modélisation
+L549	exode (rural/urbain)	croissance et déclin démographique	croissance et déclin démographique
+L550	exode (rural/urbain)	migration	migration
+L551	exode (rural/urbain)	population(s)	population(s)
+L552	exode (rural/urbain)	ruralités	ruralités
+L553	exode (rural/urbain)	ville	ville
+L554	expérience	ontologie	ontologie
+L555	exploration	itinéraires	itinéraires
+L556	exploration	utopie	utopie
+L557	extractivisme	capitalisme	capitalisme
+L558	extractivisme	développement	développement
+L559	extractivisme	mine	mine
+L560	extractivisme	mondialisation	mondialisation
+L561	extractivisme	ressource	ressource
+L562	faim	alimentation	alimentation
+L563	faim	développement	développement
+L564	faim	humanitaire	humanitaire
+L565	faim	inégalités sociales	inégalités sociales
+L566	faim	paysans et agriculteurs	paysans et agriculteurs
+L567	famille	habiter	habiter
+L568	famille	identité	identité
+L569	famille	mobilité	mobilité
+L570	famille	trajectoire	trajectoire
+L571	féminisme	engagement	engagement
+L572	féminisme	genre	genre
+L573	féminisme	intersectionnalité	intersectionnalité
+L574	féminisme	sexualités	sexualités
+L575	fêtes/festivals	espaces publics	espaces publics
+L576	fêtes/festivals	événement	événement
+L577	fêtes/festivals	musique	musique
+L578	filière	commerce	commerce
+L579	filière	industrie	industrie
+L580	filière	logistique	logistique
+L581	filière	mondialisation	mondialisation
+L582	filière	paysans et agriculteurs	paysans et agriculteurs
+L583	films et séries TV	cinéma documentaire	cinéma documentaire
+L584	films et séries TV	géographie audiovisuelle	géographie audiovisuelle
+L585	finance	firme transnationale	firme transnationale
+L586	finance	métropolisation	métropolisation
+L587	finance	mondialisation	mondialisation
+L588	finance	néolibéralisme	néolibéralisme
+L589	firme transnationale	commerce	commerce
+L590	firme transnationale	conteneur	conteneur
+L591	firme transnationale	désindustrialisation/réindustrialisation	désindustrialisation/réindustrialisation
+L592	firme transnationale	mondialisation	mondialisation
+L593	firme transnationale	néolibéralisme	néolibéralisme
+L594	fiscalité	capitalisme	capitalisme
+L595	fiscalité	finance	finance
+L596	fiscalité	gouvernance	gouvernance
+L597	fiscalité	pouvoirs locaux	pouvoirs locaux
+L598	folie	handicap	handicap
+L599	folie	identité	identité
+L600	folie	santé	santé
+L601	foncier	agriculture	foncier
+L602	foncier	capitalisme	capitalisme
+L603	foncier	communs	communs
+L604	foncier	ressource	ressource
+L605	foncier	urbain	urbain
+L606	forêt	environnement	environnement
+L607	forêt	friches	friches
+L608	forêt	risques	risques
+L609	forêt	sauvage	sauvage
+L610	friches	environnement	environnement
+L611	friches	urbain	urbain
+L612	frontière	conflit	conflit
+L613	frontière	cyberespace	cyberespace
+L614	frontière	état	état
+L615	frontière	géopolitique	géopolitique
+L616	frontière	limite	limite et discontinuité
+L617	gare	mobilité	mobilité
+L618	gare	pôle/polarité	pôle/polarité
+L619	gare	tourisme	tourisme
+L620	gare	train	train
+L621	gare	transport	transport
+L622	génocide	conflit	conflit
+L623	genre	corps	corps
+L624	genre	domination	domination
+L625	genre	identité	identité
+L626	genre	intersectionnalité	intersectionnalité
+L627	genre	sexualités	sexualités
+L628	gentrification	capitalisme	capitalisme
+L629	gentrification	logement	logement
+L630	gentrification	ségrégation	ségrégation
+L631	gentrification	tourisme	tourisme
+L632	gentrification	urbain	urbain
+L633	géographie audiovisuelle	cinéma documentaire	cinéma documentaire
+L634	géographie audiovisuelle	films et séries TV	films et séries TV
+L635	géographie audiovisuelle	photographie	photographie
+L636	géographie audiovisuelle	représentations	représentations
+L637	géographie audiovisuelle	son	son
+L638	géohistoire	enseignement de la géographie	enseignement de la géographie
+L639	géohistoire	épistémologie de la géographie	épistémologie de la géographie
+L640	géohistoire	histoire et géographie	histoire et géographie
+L641	géohistoire	temps	temps
+L642	géolocalisation	cyberespace	cyberespace
+L643	géolocalisation	données	données
+L644	géolocalisation	numérique	numérique
+L645	géolocalisation	sécurité	sécurité
+L646	géomorphologie	cuesta	cuesta
+L647	géomorphologie	relief	relief
+L648	géopolitique	conflit	conflit
+L649	géopolitique	épistémologie de la géographie	épistémologie de la géographie
+L650	géopolitique	état	état
+L651	géopolitique	pouvoir	pouvoir
+L652	géopolitique	territoire(s)	territoire(s)
+L653	glaciaire	changement climatique	changement climatique
+L654	glaciaire	montagne	montagne
+L655	glaciaire	polaire	polaire
+L656	gouvernance	justice	justice
+L657	gouvernance	marge/marginalité	marge/marginalité
+L658	gouvernance	territoire(s)	territoire(s)
+L659	gouvernance	ville	ville
+L660	grand prédateur	aires protégées	aires protégées
+L661	grand prédateur	habiter	habiter
+L662	grand prédateur	humain/non-humain	humains/non-humains
+L663	grand prédateur	sauvage	sauvage
+L664	grand prédateur	zoo	zoo
+L665	grotte	géomorphologie	géomorphologie
+L666	grotte	karst	karst
+L667	grotte	tourisme	tourisme
+L668	habitat	cité	cité
+L669	habitat	habiter	habiter
+L670	habitat	quartier	quartier
+L671	habitat	village	village
+L672	habitat	ville	ville
+L673	habiter	gentrification	gentrification
+L674	habiter	habitat	habitat
+L675	habiter	logement	logement
+L676	habiter	peuplement	peuplement
+L677	habiter	ville	ville
+L678	handicap	domination	domination
+L679	handicap	inégalités sociales	inégalités sociales
+L680	handicap	inégalités spatiales	inégalités spatiales
+L681	handicap	justice	justice
+L682	handicap	santé	santé
+L683	histoire et géographie	enseignement de la géographie	enseignement de la géographie
+L684	histoire et géographie	géohistoire	géohistoire
+L685	holocène	paléoenvironnement	paléoenvironnement
+L686	horizon	limite	limite et discontinuité
+L687	horizon	paysage	paysage
+L688	horizon	représentations	représentations
+L689	horizon	skyline	skyline
+L690	humains/non-humains	animaux	animaux
+L691	humains/non-humains	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L692	humains/non-humains	ontologie	ontologie
+L693	humanitaire	camp	camp
+L694	humanitaire	développement	développement
+L695	humanitaire	faim	faim
+L696	humanitaire	mondialisation	mondialisation
+L697	humanitaire	réfugié	réfugié
+L698	hydrosystème	eau	eau
+L699	hydrosystème	zones humides	zones humides
+L700	identité	aire culturelle	aire culturelle
+L701	identité	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L702	identité	métagéographie	métagéographie
+L703	identité	nation	nation
+L704	identité	sexualités	sexualités
+L705	idéologie	capitalisme	capitalisme
+L706	idéologie	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L707	idéologie	néolibéralisme	néolibéralisme
+L708	idéologie	ontologie	ontologie
+L709	île	littoral	littoral
+L710	île	océan et mers	océan et mers
+L711	imaginaire	espace	espace
+L712	imaginaire	lieu	lieu
+L713	imaginaire	patrimoine	patrimoine
+L714	imaginaire	tourisme	tourisme
+L715	industrie	clusters et systèmes productifs locaux	clusters et systèmes productifs locaux
+L716	industrie	désindustrialisation/réindustrialisation	désindustrialisation/réindustrialisation
+L717	industrie	filière	filière
+L718	industrie	pollution	pollution
+L719	industrie	travail	travail
+L720	inégalités sociales	domination	domination
+L721	inégalités sociales	handicap	handicap
+L722	inégalités sociales	inégalités spatiales	inégalités spatiales
+L723	inégalités sociales	intersectionnalité	intersectionnalité
+L724	inégalités sociales	justice	justice
+L725	inégalités spatiales	centre-périphérie	centre-périphérie
+L726	inégalités spatiales	handicap	handicap
+L727	inégalités spatiales	inégalités sociales	inégalités sociales
+L728	inégalités spatiales	intersectionnalité	intersectionnalité
+L729	inégalités spatiales	justice	justice
+L730	inégalités spatiales	santé	santé
+L731	informalité	domination	domination
+L732	informalité	inégalités spatiales	inégalités spatiales
+L733	informalité	marge/marginalité	marge/marginalité
+L734	informalité	peuplement	peuplement
+L735	informalité	travail	travail
+L736	inondations	eau	eau
+L737	inondations	hydrosystème	hydrosystème
+L738	interaction spatiale	espace	espace
+L739	interaction spatiale	système	système
+L740	internet	cyberespace	cyberespace
+L741	internet	données	données
+L742	internet	mondialisation	mondialisation
+L743	internet	numérique	numérique
+L744	intersectionnalité	genre	genre
+L745	intersectionnalité	identité	identité
+L746	intersectionnalité	inégalités sociales	inégalités sociales
+L747	intersectionnalité	justice	justice
+L748	intersectionnalité	race	race
+L749	intersectionnalité	sexualités	sexualités
+L750	itinéraires	migration	migration
+L751	itinéraires	mobilité	mobilité
+L752	itinéraires	patrimoine	patrimoine
+L753	itinéraires	tourisme	tourisme
+L754	itinéraires	transport	transport
+L755	jardin	émotions	émotions
+L756	jardin	paysage	paysage
+L757	justice	domination	domination
+L758	justice	handicap	handicap
+L759	justice	inégalités sociales	inégalités sociales
+L760	justice	intersectionnalité	intersectionnalité
+L761	justice	pouvoir	pouvoir
+L762	karst	géomorphologie	géomorphologie
+L763	karst	grotte	grotte
+L764	karst	hydrosystème	hydrosystème
+L765	langue	dictionnaire	dictionnaire
+L766	langue	enseignement de la géographie	enseignement de la géographie
+L767	langue	épistémologie de la géographie	épistémologie de la géographie
+L768	langue	imaginaire	imaginaire
+L769	langue	toponymie	toponymie
+L770	lieu	espace	espace
+L771	lieu	imaginaire	imaginaire
+L772	lieu	territoire	territoire(s)
+L773	limite et discontinuité	frontière	frontière
+L774	littoral	limite	limite et discontinuité
+L775	littoral	océan et mers	océan et mers
+L776	littoral	plage	plage
+L777	littoral	polder	polder
+L778	local	désindustrialisation/réindustrialisation	désindustrialisation/réindustrialisation
+L779	local	développement local	développement local
+L780	local	lieu	lieu
+L781	local	pouvoirs locaux	pouvoirs locaux
+L782	logement	gentrification	gentrification
+L783	logement	habitat	habitat
+L784	logement	inégalités sociales	inégalités sociales
+L785	logement	marge/marginalité	marge/marginalité
+L786	logement	peuplement	peuplement
+L787	logistique	conteneur	conteneur
+L788	logistique	filière	filière
+L789	logistique	marché	marché
+L790	logistique	port	port
+L791	logistique	transport	transport
+L792	luttes environnementales	conflit	conflit
+L793	luttes environnementales	marge/marginalité	marge/marginalité
+L794	luttes environnementales	violence	violence
+L795	mafia	criminalité	criminalité
+L796	mafia	état	état
+L797	mafia	informalité	informalité
+L798	mafia	pouvoir	pouvoir
+L799	mafia	violence	violence
+L800	maillage/maille	données	données
+L801	maillage/maille	pouvoirs locaux	pouvoirs locaux
+L802	maillage/maille	statistique	statistique
+L803	marche	automobile	automobile
+L804	marche	mobilité	mobilité
+L805	marché	commerce	commerce
+L806	marché	logistique	logistique
+L807	marge/marginalité	domination	domination
+L808	marge/marginalité	justice	justice
+L809	marge/marginalité	pauvreté	pauvreté
+L810	marge/marginalité	pouvoir	pouvoir
+L811	marge/marginalité	violence	violence
+L812	matérialité	ontologie	ontologie
+L813	matérialité	sable	sable
+L814	métagéographie	continent	continent
+L815	métagéographie	enseignement de la géographie	enseignement de la géographie
+L816	métagéographie	épistémologie de la géographie	épistémologie de la géographie
+L817	métropolisation	centre-périphérie	centre-périphérie
+L818	métropolisation	interaction spatiale	interaction spatiale
+L819	métropolisation	mondialisation	mondialisation
+L820	métropolisation	transnationalisme	transnationalisme
+L821	migration	diaspora	diaspora
+L822	migration	famille	famille
+L823	migration	mobilité	mobilité
+L824	migration	réfugié	réfugié
+L825	migration	transnationalisme	transnationalisme
+L826	milieu	épistémologie de la géographie	épistémologie de la géographie
+L827	milieu	espace	espace
+L828	milieu	territoire	territoire(s)
+L829	milieu	terroir	terroir
+L830	mine	extractivisme	extractivisme
+L831	mine	ressource	ressource
+L832	mobilité	migration	migration
+L833	mobilité	trajectoire	trajectoire
+L834	mobilité	transport	transport
+L835	modèle urbain	comparaison	comparaison
+L836	modèle urbain	échelle	échelle
+L837	modèle urbain	transnationalisme	transnationalisme
+L838	modélisation	cartographie critique	cartographie critique
+L839	modélisation	interaction spatiale	interaction spatiale
+L840	modélisation	modèle urbain	modèle urbain
+L841	modélisation	statistique	statistique
+L842	modélisation	système	système
+L843	monde	changement climatique	changement climatique
+L844	monde	métagéographie	métagéographie
+L845	monde	mondialisation	mondialisation
+L846	mondialisation	continent	continent
+L847	mondialisation	désindustrialisation/réindustrialisation	désindustrialisation/réindustrialisation
+L848	mondialisation	finance	finance
+L849	mondialisation	métropolisation	métropolisation
+L850	mondialisation	mobilité	mobilité
+L851	mondialisation	transnationalisme	transnationalisme
+L852	montagne	relief	relief
+L853	montagne	tourisme	tourisme
+L854	monument	culture	culture
+L855	monument	identité	identité
+L856	monument	patrimoine	patrimoine
+L857	monument	territoire(s)	territoire(s)
+L858	mort	cimetière	cimetière
+L859	mort	culture	culture
+L860	mort	marge/marginalité	marge/marginalité
+L861	mort	religion	religion
+L862	multisituée (approche)	comparaison	comparaison
+L863	multisituée (approche)	mobilité	mobilité
+L864	multisituée (approche)	terrain	terrain
+L865	multisituée (approche)	transnationalisme	transnationalisme
+L866	mur	camp	camp
+L867	mur	enfermement	enfermement
+L868	mur	frontière	frontière
+L869	mur	limite	limite et discontinuité
+L870	mur	pouvoir	pouvoir
+L871	mur	sécurité	sécurité
+L872	musée	art	art
+L873	musée	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L874	musée	culture	culture
+L875	musique	culture	culture
+L876	musique	fêtes/festival	fêtes/festivals
+L877	musique	identité	identité
+L878	musique	imaginaire	imaginaire
+L879	musique	représentations	représentations
+L880	nation	géopolitique	géopolitique
+L881	nation	identité	identité
+L882	nation	imaginaire	imaginaire
+L883	nature	écologie	écologie
+L884	nature	environnement	environnement
+L885	nature	ontologie	ontologie
+L886	nature	sauvage	sauvage
+L887	néolibéralisme	capitalisme	capitalisme
+L888	néolibéralisme	développement local	développement local
+L889	néolibéralisme	gouvernance	gouvernance
+L890	néolibéralisme	idéologie	idéologie
+L891	néolibéralisme	pouvoir	pouvoir
+L892	nomadisme et sédentarité	désert	désert
+L893	nomadisme et sédentarité	élevage	élevage
+L894	nomadisme et sédentarité	état	état
+L895	nomadisme et sédentarité	migration	migration
+L896	nomadisme et sédentarité	oasis	oasis
+L897	nord-sud	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L898	nord-sud	continent	continent
+L899	nord-sud	métagéographie	métagéographie
+L900	nuit	capitalisme	capitalisme
+L901	nuit	habiter	habiter
+L902	nuit	ville	ville
+L903	numérique	carte critique	cartographie critique
+L904	numérique	cyberespace	cyberespace
+L905	numérique	technique	technique
+L906	oasis	désert	désert
+L907	oasis	environnement	environnement
+L908	oasis	interaction spatiale	interaction spatiale
+L909	oasis	lieu	lieu
+L910	océan et mers	continent	continent
+L911	océan et mers	environnement	environnement
+L912	océan et mers	frontière	frontière
+L913	océan et mers	hydrosystème	hydrosystème
+L914	océan et mers	littoral	littoral
+L915	océan et mers	pêche	pêche
+L916	océan et mers	pollution	pollution
+L917	océan et mers	port	port
+L918	ontologie	animaux	animaux
+L919	ontologie	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L920	ontologie	environnement	environnement
+L921	ontologie	esclavages	esclavages
+L922	orientalisme	aire culturelle	aire culturelle
+L923	orientalisme	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L924	orientalisme	métagéographie	métagéographie
+L925	orientalisme	région	région
+L926	outre-mer	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L927	outre-mer	océan et mers	océan et mers
+L928	paléoenvironnement	holocène	holocène
+L929	parc	aires protégées	aires protégées
+L930	parc	limite	limite et discontinuité
+L931	patrimoine	aire culturelle	aire culturelle
+L932	patrimoine	ressource	ressource
+L933	patrimoine	tourisme	tourisme
+L934	pauvreté	développement	développement
+L935	pauvreté	faim	faim
+L936	pauvreté	marge/marginalité	marge/marginalité
+L937	pauvreté	ressource	ressource
+L938	pauvreté	toilettes	toilettes
+L939	paysage	cuesta	cuesta
+L940	paysage	émotions	émotions
+L941	paysage	géomorphologie	géomorphologie
+L942	paysage	jardin	jardin
+L943	paysans et agriculteurs	alimentation	alimentation
+L944	paysans et agriculteurs	élevage	élevage
+L945	paysans et agriculteurs	ruralités	ruralités
+L946	paysans et agriculteurs	terroir	terroir
+L947	paysans et agriculteurs	village	village
+L948	pêche	océan et mers	océan et mers
+L949	pêche	port	port
+L950	pergélisol	changement climatique	changement climatique
+L951	pergélisol	géomorphologie	géomorphologie
+L952	périurbain	habitat	habitat
+L953	périurbain	logement	logement
+L954	périurbain	mobilité	mobilité
+L955	périurbain	territoire(s)	territoire(s)
+L956	périurbain	ville	ville
+L957	peuplement	domination	domination
+L958	peuplement	inégalités spatiales	inégalités spatiales
+L959	peuplement	population(s)	population(s)
+L960	peuplement	quartier	quartier
+L961	peuplement	ségrégation	ségrégation
+L962	photographie	art	art
+L963	photographie	musée	musée
+L964	photographie	paysage	paysage
+L965	photographie	représentations	représentations
+L966	plage	littoral	littoral
+L967	plage	paysage	paysage
+L968	plage	ressource	ressource
+L969	plage	sable	sable
+L970	plage	tourisme	tourisme
+L971	plaine	géomorphologie	géomorphologie
+L972	plaine	relief	relief
+L973	plastique	déchet	déchet
+L974	plastique	extractivisme	extractivisme
+L975	plastique	matérialité	matérialité
+L976	plastique	pollution	pollution
+L977	polaire	autochtonie	autochtonie
+L978	polaire	centre-périphérie	centre-périphérie
+L979	polaire	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L980	polaire	exploration	exploration
+L981	polaire	géopolitique	géopolitique
+L982	polder	eau	eau
+L983	polder	inondations	inondations
+L984	polder	littoral	littoral
+L985	pôle/polarité	clusters et systèmes productifs locaux	clusters et systèmes productifs locaux
+L986	pôle/polarité	concentration	concentration
+L987	pôle/polarité	interaction spatiale	interaction spatiale
+L988	pôle/polarité	marge/marginalité	marge/marginalité
+L989	police	criminalité	criminalité
+L990	police	sécurité	sécurité
+L991	pollution	environnement	environnement
+L992	pollution	nature	nature
+L993	pollution	plastique	plastique
+L994	population(s)	croissance et déclin démographique	croissance et déclin démographique
+L995	population(s)	exode (rural/urbain)	exode (rural/urbain)
+L996	population(s)	migration	migration
+L997	population(s)	peuplement	peuplement
+L998	population(s)	vieillesse et jeunesse	vieillesse et jeunesse
+L999	port	conteneur	conteneur
+L1000	port	littoral	littoral
+L1001	port	océan et mers	océan et mers
+L1002	port	outre-mer	outre-mer
+L1003	port	transport	transport
+L1004	post(-)	cartographie critique	cartographie critique
+L1005	post(-)	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L1006	post(-)	épistémologie de la géographie	épistémologie de la géographie
+L1007	post(-)	tournant spatial	tournant spatial
+L1008	pouvoir	conflit	conflit
+L1009	pouvoir	continent	continent
+L1010	pouvoir	domination	domination
+L1011	pouvoir	inégalités	inégalités sociales
+L1012	pouvoir	police	police
+L1013	pouvoir	pouvoirs locaux	pouvoirs locaux
+L1014	pouvoirs locaux	développement local	développement local
+L1015	pouvoirs locaux	gouvernance	gouvernance
+L1016	pouvoirs locaux	justice	justice
+L1017	pouvoirs locaux	pouvoir	pouvoir
+L1018	pouvoirs locaux	territoire(s)	territoire(s)
+L1019	prison	camp	camp
+L1020	prison	domination	domination
+L1021	prison	environnement	environnement
+L1022	prison	inégalités	inégalités sociales
+L1023	prostitution	sexualités	sexualités
+L1024	quartier	cité	cité
+L1025	quartier	espaces publics	espaces publics
+L1026	quartier	pouvoirs locaux	pouvoirs locaux
+L1027	quartier	ville	ville
+L1028	race	capitalisme	capitalisme
+L1029	race	domination	domination
+L1030	race	esclavages	esclavages
+L1031	race	inégalités sociales	inégalités sociales
+L1032	race	intersectionnalité	intersectionnalité
+L1033	réfugié	camp	camp
+L1034	réfugié	conflit	conflit
+L1035	réfugié	migration	migration
+L1036	région	aire culturelle	aire culturelle
+L1037	région	cartographie critique	cartographie critique
+L1038	région	frontière	frontière
+L1039	région	métagéographie	métagéographie
+L1040	région	monde	monde
+L1041	relief	cuesta	cuesta
+L1042	relief	géomorphologie	géomorphologie
+L1043	relief	glaciaire	glaciaire
+L1044	relief	karst	karst
+L1045	relief	montagne	montagne
+L1046	religion	aire culturelle	aire culturelle
+L1047	religion	cartographie critique	cartographie critique
+L1048	religion	culture	culture
+L1049	religion	sacré	sacré
+L1050	représentations	art	art
+L1051	représentations	culture	culture
+L1052	représentations	films et séries TV	films et séries TV
+L1053	représentations	géographie audiovisuelle	géographie audiovisuelle
+L1054	représentations	identité	identité
+L1055	représentations	imaginaire	imaginaire
+L1056	représentations	photographie	photographie
+L1057	représentations	rue	rue
+L1058	ressource	communs	communs
+L1059	ressource	développement	développement
+L1060	ressource	extractivisme	extractivisme
+L1061	ressource	marché	marché
+L1062	ressource	mine	mine
+L1063	ressource	mondialisation	mondialisation
+L1064	restauration écologique	luttes environnementales	luttes environnementales
+L1065	risques	littoral	littoral
+L1066	risques	volcan	volcan
+L1067	route	automobile	automobile
+L1068	route	itinéraires	itinéraires
+L1069	route	rue	rue
+L1070	route	tourisme	tourisme
+L1071	route	transport	transport
+L1072	rue	espaces publics	espaces publics
+L1073	rue	habitat	habitat
+L1074	rue	quartier	quartier
+L1075	rue	urbain	urbain
+L1076	ruines	monument	monument
+L1077	ruines	patrimoine	patrimoine
+L1078	ruines	tourisme	tourisme
+L1079	ruralités	habiter	habiter
+L1080	ruralités	paysans et agriculteurs	paysans et agriculteurs
+L1081	ruralités	terroir	terroir
+L1082	ruralités	tourisme	tourisme
+L1083	ruralités	village	village
+L1084	sable	extractivisme	extractivisme
+L1085	sable	matérialité	matérialité
+L1086	sacré	humains/non-humains	humains/non-humains
+L1087	sacré	identité	identité
+L1088	sacré	imaginaire	imaginaire
+L1089	sacré	patrimoine	patrimoine
+L1090	sacré	territoire(s)	territoire(s)
+L1091	santé	épidémie	épidémie
+L1092	santé	handicap	handicap
+L1093	santé	inégalités sociales	inégalités sociales
+L1094	santé	inégalités spatiales	inégalités spatiales
+L1095	sauvage	aires protégées	aires protégées
+L1096	sauvage	biodiversité	biodiversité
+L1097	sauvage	marge/marginalité	marge/marginalité
+L1098	sécurité	criminalité	criminalité
+L1099	sécurité	justice	justice
+L1100	sécurité	pouvoir	pouvoir
+L1101	sécurité	risques	risques
+L1102	sécurité	ville	ville
+L1103	ségrégation	habitat	habitat
+L1104	ségrégation	inégalités spatiales	inégalités spatiales
+L1105	ségrégation	quartier	quartier
+L1106	ségrégation	race	race
+L1107	services publics	développement local	développement local
+L1108	services publics	gouvernance	gouvernance
+L1109	services publics	néolibéralisme	néolibéralisme
+L1110	services publics	pouvoir	pouvoir
+L1111	services publics	pouvoirs locaux	pouvoirs locaux
+L1112	sexualités	domination	domination
+L1113	sexualités	identité	identité
+L1114	sexualités	inégalités sociales	inégalités sociales
+L1115	sexualités	intersectionnalité	intersectionnalité
+L1116	sexualités	justice	justice
+L1117	skyline	horizon	horizon
+L1118	skyline	patrimoine	patrimoine
+L1119	skyline	représentations	représentations
+L1120	skyline	urbain	urbain
+L1121	sol	agriculture	sol
+L1122	sol	ressource	ressource
+L1123	sol	vin	vin
+L1124	son	biodiversité	biodiversité
+L1125	son	géographie audiovisuelle	géographie audiovisuelle
+L1126	son	imaginaire	imaginaire
+L1127	son	musique	musique
+L1128	sport	parc	parc
+L1129	sport	tourisme	tourisme
+L1130	squat	habitat	habitat
+L1131	squat	logement	logement
+L1132	squat	marge/marginalité	marge/marginalité
+L1133	statistique	distance	distance
+L1134	statistique	données	données
+L1135	statistique	espace	espace
+L1136	statistique	modèle urbain	modèle urbain
+L1137	statistique	représentations	représentations
+L1138	sucre	agriculture	sucre
+L1139	sucre	colonial/postcolonial/décolonial	colonial/postcolonial/décolonial
+L1140	sucre	esclavages	esclavages
+L1141	sucre	filière	filière
+L1142	sucre	ressource	ressource

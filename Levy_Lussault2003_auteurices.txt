@@ -1,0 +1,111 @@
+LNUM	AUTEURICE	NOM_Prenom	GENRE	ROLE
+L001	AB	BERQUE_Augustin	M	Auteurice
+L002	AG	GUEDEZ_Annie	F	Auteurice
+L003	AJMB	BERNARD_Alain J.-M.	M	Auteurice
+L004	AM	MICOUD_André	M	Auteurice
+L005	AMGG	GERIN-GRATALOUP_Anne-Marie	F	Auteurice
+L006	AS	STROHL_Anne	F	Auteurice
+L007	AT	TURCO_Angelo	M	Auteurice
+L008	AV	VOLVEY_Anne	F	Auteurice
+L009	BB	BEAUDE_Boris	M	Auteurice
+L010	BC	COLLIGNON_Béatrice	F	Auteurice
+L011	BD	DEBARBIEUX_Bernard	M	Auteurice
+L012	BW	WERLEN_Benno	M	Auteurice
+L013	CAS	ARBARET-SCHULZ_Christiane	F	Auteurice
+L014	CBB	BEGORRE-BRET_Cyrille	M	Auteurice
+L015	CCa	CALENGE_Christian	M	Auteurice
+L016	CCh	CHIVALLON_Christine	F	Auteurice
+L017	CD	DELACROIX_Christian	M	Auteurice
+L018	CDA	d’ALESSANDRO_Cristina	F	Auteurice
+L019	CE	EMELIANOFF_Cyria	F	Auteurice
+L020	CG	GRATALOUP_Christian	M	Comité de pilotage
+L021	CH	HANCOCK_Claire	F	Auteurice
+L022	CL	LIAUZU_Claude	M	Auteurice
+L023	CR	RUBY_Christian	M	Auteurice
+L024	DC	CRETON_Dominique	F	Auteurice
+L025	DD	DESBONS_David	M	Auteurice
+L026	DH	HIERNAUX-NICOLAS_Daniel	M	Auteurice
+L027	DLT	LAPLACE-TREYTURE_Danielle	F	Auteurice
+L028	DR	RETAILLE_Denis	M	Comité de pilotage
+L029	DW	WOLFF_Denis	M	Auteurice
+L030	EC	CASTI_Emanuela	F	Auteurice
+L031	EE	EVENO_Emmanuel	M	Auteurice
+L032	ET	TRICOIRE_Emmanuelle	F	Auteurice
+L033	FA	ASCHER_François	M	Auteurice
+L034	FAu	AURIAC_François	M	Auteurice
+L035	FB	BELLIVIER_Florence	F	Auteurice
+L036	FD	DOSSE_François	M	Auteurice
+L037	FDD	DURAND-DASTES_François	M	Auteurice
+L038	FH	HAEGEL_Florence	F	Auteurice
+L039	FME	MORICONI-EBRARD_François	M	Comité de pilotage
+L040	FP	PLET_Françoise	F	Conseil scientifique
+L041	GB	BENKO_Georges	M	Auteurice
+L042	GD	DEMATTEIS_Giuseppe	M	Auteurice
+L043	GDM	DI MEO _Guy	M	Auteurice
+L044	GP	PREVELAKIS_Georges	M	Auteurice
+L045	GS	SALEM_Gérard	M	Auteurice
+L046	HBL	BLAIS_Hélène	F	Auteurice
+L047	HBr	BRYANT_Heather	M	Auteurice
+L048	HG	GALINIE_Henri	M	Auteurice
+L049	HLB	LE BRAS_Hervé	M	Auteurice
+L050	HR	REGNAULD_Henri	M	Auteurice
+L051	IJ	JOSEPH_Isaac	M	Auteurice
+L052	ILL	LABOULAIS-LESAGE_Isabelle	F	Auteurice
+L053	JA	AGNEW_John	M	Auteurice
+L054	JBM	MINNAERT_Jean-Baptiste	M	Auteurice
+L055	JBR	RACINE_Jean-Bernard	M	Auteurice
+L056	JC	CHARMES_Jacques	M	Auteurice
+L057	JCG	GAY_Jean-Christophe	M	Auteurice
+L058	JFP	PRADEAU_Jean-François	M	Auteurice
+L059	JFS	STASZAK_Jean-François	M	Comité de pilotage
+L060	JH	HOOCK_Jochen	M	Auteurice
+L061	JL	LEVY_Jacques	M	Direction
+L062	JLM	MATHIEU_Jean-Louis	M	Auteurice
+L063	JLT	TISSIER_Jean-Louis	M	Auteurice
+L064	JMB	BALDNER_Jean-Marie	M	Auteurice
+L065	JMOf	OFFNER_Jean-Marc	M	Auteurice
+L066	JMOh	OHNET_Jean-Marc	M	Auteurice
+L067	JNE	ENTRIKIN_J. Nicholas 	M	Auteurice
+L068	JPB	BORD_Jean-Paul	M	Auteurice
+L069	JPF	FERRIER_Jean-Paul	M	Auteurice
+L070	LC	CAILLY_Laurent	M	Auteurice
+L071	LDa	DAVEZIES_Laurent	M	Auteurice
+L072	LDe	DEVISME_Laurent	M	Auteurice
+L073	LM	MONDADA_Lorenza	F	Auteurice
+L074	LS	SANDERS_Lena	F	Conseil scientifique
+L075	MG	GRESILLON_Michel	M	Comité de pilotage
+L076	ML	LUSSAULT_Michel	M	Direction
+L077	MLQ	LEQUAN_Mai	F	Auteurice
+L078	MM	MARIE_Michel	M	Auteurice
+L079	MR	ROSEMBERG_Muriel	F	Auteurice
+L080	MS	STOCK_Mathis	M	Coordination éditoriale
+L081	OLa	LAZZAROTTI_Olivier	M	Auteurice
+L082	OLo	LOUISET_Odette	F	Auteurice
+L083	OO	ORAIN_Olivier	M	Auteurice
+L084	OS	SOUBEYRAN_Olivier	M	Comité de pilotage
+L085	PAm	AMPHOUX_Pascal	M	Auteurice
+L086	PAr	ARNOULD_Paul	M	Auteurice
+L087	PaV	VILLENEUVE_Paul	M	Auteurice
+L088	PC	CLAVAL_Paul	M	Auteurice
+L089	PG	GARCIA_Philippe	M	Auteurice
+L090	PH	HAMOU_Philippe	M	Auteurice
+L091	PhC	CADENE_Philippe	M	Auteurice
+L092	PhG	GUILLAUME_Philippe	M	Auteurice
+L093	PhV	VIOLIER_Philippe	M	Auteurice
+L094	PLG	LE GALES _Patrick	M	Auteurice
+L095	PP	PONCET_Patrick	M	Auteurice
+L096	PQ	QUODVERTE_Philippe	M	Auteurice
+L097	RD	DAGORN_René	M	Auteurice
+L098	RDK	DE KONINCK _Rodolphe	M	Auteurice
+L099	RG	NA	NA	NA
+L100	RH	HAESBERT_Rogério	M	Auteurice
+L101	RK	KNAFOU_Rémy	M	Comité de pilotage
+L102	ST	THIBAULT_Serge	M	Auteurice
+L103	SW	WACHTER_Serge	M	Auteurice
+L104	TP	PAQUOT_Thierry	M	Auteurice
+L105	TSJ	SAINT-JULIEN_Thérèse	F	Auteurice
+L106	VA	ADAMY_Valérie	F	Auteurice
+L107	VB	BERDOULAY_Vincent	M	Auteurice
+L108	VN	NOSEDA_Veronica	F	Auteurice
+L109	YG	GUERMOND_Yves	M	Auteurice
+L110	YLP	LEVY-PIARROUX_Yveline	F	Auteurice

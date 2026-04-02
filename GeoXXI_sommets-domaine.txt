@@ -1,0 +1,411 @@
+LNB	DOMAINES	NOTICE	ENTREE-recoded
+L001	développement*	autochtonie	autochtonie
+L002	développement*	capitalisme	capitalisme
+L003	développement*	désert	désert
+L004	développement*	désindustralisation/réindustrialisation	désindustralisation/réindustrialisation
+L005	développement*	développement	développement
+L006	développement*	école	école
+L007	développement*	émergence	émergence
+L008	développement*	esclavages	esclavages
+L009	développement*	extractivisme	extractivisme
+L010	développement*	faim	faim
+L011	développement*	humanitaire	humanitaire
+L012	développement*	informalité	informalité
+L013	développement*	néolibéralisme	néolibéralisme
+L014	développement*	nomadisme et sédentarité	nomadisme et sédentarité
+L015	développement*	pauvreté	pauvreté
+L016	développement*	ressource	ressource
+L017	développement*	sable	sable
+L018	développement*	services publics	services publics
+L019	développement*	technique	technique
+L020	économies*	capitalisme	capitalisme
+L021	économies*	classe (sociale…)	classe sociale
+L022	économies*	cluster	clusters et systèmes productifs locaux
+L023	économies*	commerce	commerce
+L024	économies*	communs	communs
+L025	économies*	conteneur	conteneur
+L026	économies*	criminalité	criminalité
+L027	économies*	désindustralisation/réindustrialisation	désindustralisation/réindustrialisation
+L028	économies*	développement local	développement local
+L029	économies*	drogue	drogue
+L030	économies*	élite	élite(s)
+L031	économies*	énergie	énergie
+L032	économies*	finance	finance
+L033	économies*	fiscalité/impôts	fiscalité
+L034	économies*	foncier	foncier
+L035	économies*	industrie	industrie
+L036	économies*	informalité	informalité
+L037	économies*	logement	logement
+L038	économies*	mafia	mafia
+L039	économies*	marché	marché
+L040	économies*	métropole, métropolisation	métropolisation
+L041	économies*	mondialisation	mondialisation
+L042	économies*	technique	technique
+L043	économies*	travail	travail
+L044	économies*	uberisation	ubérisation
+L045	économies*	zone franche	zones franches
+L046	lieux*	barrage	barrage
+L047	lieux*	bibliothèque de géographie	bibliothèque de géographie
+L048	lieux*	bled	bled
+L049	lieux*	cabane	cabane
+L050	lieux*	camp	camp
+L051	lieux*	casino	casino
+L052	lieux*	cimetière	cimetière
+L053	lieux*	école	école
+L054	lieux*	enfermement	enfermement
+L055	lieux*	forêt	forêt
+L056	lieux*	habitat	habitat
+L057	lieux*	habiter	habiter
+L058	lieux*	îles	île
+L059	lieux*	littoral	littoral
+L060	lieux*	local	local
+L061	lieux*	logement	logement
+L062	lieux*	mine	mine
+L063	lieux*	montagne	montagne
+L064	lieux*	monument	monument
+L065	lieux*	mur	mur
+L066	lieux*	musée	musée
+L067	lieux*	oasis	oasis
+L068	lieux*	outremer	outre-mer
+L069	lieux*	parc	parc
+L070	lieux*	plage	plage
+L071	lieux*	prison	prison
+L072	lieux*	quartier	quartier
+L073	lieux*	rue	rue
+L074	lieux*	ruines	ruines
+L075	lieux*	skyline	skyline
+L076	lieux*	squat	squat
+L077	lieux*	tiers lieu	tiers-lieu
+L078	lieux*	toilettes	toilettes
+L079	lieux*	volcan	volcan
+L080	lieux*	zoo	zoo
+L081	métagéographie*	agéographique	agéographique
+L082	métagéographie*	aménagement (du territoire)	aménagement du territoire
+L083	métagéographie*	centre-périphérie	centre-périphérie
+L084	métagéographie*	colonial, postcolonial, décolonial (approches)	colonial/postcolonial/décolonial
+L085	métagéographie*	cuesta	cuesta
+L086	métagéographie*	culture	culture
+L087	métagéographie*	déterminisme	déterminisme
+L088	métagéographie*	dictionnaire	dictionnaire
+L089	métagéographie*	distance	distance
+L090	métagéographie*	données	données
+L091	métagéographie*	échelle	échelle
+L092	métagéographie*	écritures géographiques	écritures géographiques
+L093	métagéographie*	engagement	engagement
+L094	métagéographie*	enseignement de la géographie	enseignement de la géographie
+L095	métagéographie*	environnement	environnement
+L096	métagéographie*	épistémologie de la géographie	épistémologie de la géographie
+L097	métagéographie*	espace	espace
+L098	métagéographie*	éthique et géographie	éthique et géographie
+L099	métagéographie*	expérience	expérience
+L100	métagéographie*	exploration	exploration
+L101	métagéographie*	féminisme	féminisme
+L102	métagéographie*	genre	genre
+L103	métagéographie*	géohistoire	géohistoire
+L104	métagéographie*	géomorphologie	géomorphologie
+L105	métagéographie*	histoire et géographie	histoire et géographie
+L106	métagéographie*	horizon	horizon
+L107	métagéographie*	identité	identité
+L108	métagéographie*	inégalités (spatiales)	inégalités spatiales
+L109	métagéographie*	intersectionnalité	intersectionnalité
+L110	métagéographie*	langue	langue
+L111	métagéographie*	lieu	lieu
+L112	métagéographie*	mailles/maillage	maillage/maille
+L113	métagéographie*	marge/marginalité	marge/marginalité
+L114	métagéographie*	métagéographie	métagéographie
+L115	métagéographie*	monde	monde
+L116	métagéographie*	nation	nation
+L117	métagéographie*	nord-sud	nord-sud
+L118	métagéographie*	ontologie	ontologie
+L119	métagéographie*	orientalisme	orientalisme
+L120	métagéographie*	pole/polarité	pôle/polarité
+L121	métagéographie*	post	post(-)
+L122	métagéographie*	race	race
+L123	métagéographie*	région	région
+L124	métagéographie*	représentations	représentations
+L125	métagéographie*	système	système
+L126	métagéographie*	temps	temps
+L127	métagéographie*	terrain	terrain
+L128	métagéographie*	territoire(s)	territoire(s)
+L129	métagéographie*	toponymie	toponymie
+L130	métagéographie*	tournant spatial	tournant spatial
+L131	méthodes*	autocorrélation	autocorrélation
+L132	méthodes*	bande dessinée	bande dessinée
+L133	méthodes*	comparaison	comparaison
+L134	méthodes*	concentration	concentration
+L135	méthodes*	description	description
+L136	méthodes*	déterminisme	déterminisme
+L137	méthodes*	données	données
+L138	méthodes*	échelle	échelle
+L139	méthodes*	enseignement de la géographie	enseignement de la géographie
+L140	méthodes*	épistémologie de la géographie	épistémologie de la géographie
+L141	méthodes*	éthique et géographie	éthique et géographie
+L142	méthodes*	films et séries TV	films et séries TV
+L143	méthodes*	géolocalisation	géolocalisation
+L144	méthodes*	interaction spatiale	interaction spatiale
+L145	méthodes*	internet	internet
+L146	méthodes*	local	local
+L147	méthodes*	modèles	modèle urbain
+L148	méthodes*	modélisation	modélisation
+L149	méthodes*	multi-située (approche)	multisituée (approche)
+L150	méthodes*	numérique	numérique
+L151	méthodes*	post	post(-)
+L152	méthodes*	son	son
+L153	méthodes*	statistiques	statistique
+L154	méthodes*	système	système
+L155	méthodes*	terrain	terrain
+L156	méthodes*	tournant spatial	tournant spatial
+L157	mobilités et transports*	aéroport et aviation	aéroport
+L158	mobilités et transports*	automobile	automobile
+L159	mobilités et transports*	banlieue	banlieue
+L160	mobilités et transports*	gare	gare
+L161	mobilités et transports*	habiter	habiter
+L162	mobilités et transports*	itinéraires	itinéraires
+L163	mobilités et transports*	logistique	logistique
+L164	mobilités et transports*	marche	marche
+L165	mobilités et transports*	métropole, métropolisation	métropolisation
+L166	mobilités et transports*	mobilité	mobilité
+L167	mobilités et transports*	nomadisme et sédentarité	nomadisme et sédentarité
+L168	mobilités et transports*	périurbain	périurbain
+L169	mobilités et transports*	port	port
+L170	mobilités et transports*	route	route
+L171	mobilités et transports*	technique	technique
+L172	mobilités et transports*	tourisme	tourisme
+L173	mobilités et transports*	train	train
+L174	mobilités et transports*	trajectoire	trajectoire
+L175	mobilités et transports*	transport	transport
+L176	mobilités et transports*	vélo	vélo
+L177	mondialisation*	centre-périphérie	centre-périphérie
+L178	mondialisation*	comparaison	comparaison
+L179	mondialisation*	créolisation	créolisation
+L180	mondialisation*	diaspora	diaspora
+L181	mondialisation*	drogue	drogue
+L182	mondialisation*	épidémie (pandémie)	épidémie
+L183	mondialisation*	esclavages	esclavages
+L184	mondialisation*	espace	espace
+L185	mondialisation*	filière	filière
+L186	mondialisation*	finance	finance
+L187	mondialisation*	firme transnationale	firme transnationale
+L188	mondialisation*	frontière	frontière
+L189	mondialisation*	inégalités (spatiales)	inégalités spatiales
+L190	mondialisation*	internet	internet
+L191	mondialisation*	métropole, métropolisation	métropolisation
+L192	mondialisation*	migration	migration
+L193	mondialisation*	modèles	modèle urbain
+L194	mondialisation*	monde	monde
+L195	mondialisation*	mondialisation	mondialisation
+L196	mondialisation*	multi-située (approche)	multisituée (approche)
+L197	mondialisation*	mur	mur
+L198	mondialisation*	nord-sud	nord-sud
+L199	mondialisation*	pêche	pêche
+L200	mondialisation*	ressource	ressource
+L201	mondialisation*	sucre	sucre
+L202	mondialisation*	tourismophobie	tourismophobie/touristophobie
+L203	mondialisation*	urbain	urbain
+L204	mondialisation*	zone franche	zones franches
+L205	natures et environnements*	aires protégées	aires protégées
+L206	natures et environnements*	animaux	animaux
+L207	natures et environnements*	biodiversité	biodiversité
+L208	natures et environnements*	changement climatique	changement climatique
+L209	natures et environnements*	chasse	chasse
+L210	natures et environnements*	climats	climats et climatologie
+L211	natures et environnements*	communs	communs
+L212	natures et environnements*	corridor écologique	corridor écologique
+L213	natures et environnements*	cuesta	cuesta
+L214	natures et environnements*	déchet	déchet
+L215	natures et environnements*	eau	eau
+L216	natures et environnements*	écologie	écologie
+L217	natures et environnements*	énergie	énergie
+L218	natures et environnements*	environnement	environnement
+L219	natures et environnements*	espèces invasives	espèces invasives
+L220	natures et environnements*	forêt	forêt
+L221	natures et environnements*	friches	friches
+L222	natures et environnements*	géomorphologie	géomorphologie
+L223	natures et environnements*	glaciaire	glaciaire
+L224	natures et environnements*	grotte	grotte
+L225	natures et environnements*	holocène	holocène
+L226	natures et environnements*	humain/non humain	humains/non-humains
+L227	natures et environnements*	hydro-systèmes	hydrosystème
+L228	natures et environnements*	hydrologie (fleuves, rivières, lacs et bassins)	NA
+L229	natures et environnements*	inondation	inondations
+L230	natures et environnements*	jardin	jardin
+L231	natures et environnements*	karst	karst
+L232	natures et environnements*	luttes environnementales	luttes environnementales
+L233	natures et environnements*	milieu	milieu
+L234	natures et environnements*	nature	nature
+L235	natures et environnements*	oasis	oasis
+L236	natures et environnements*	océan et mers	océan et mers
+L237	natures et environnements*	paléoenvironnement	paléoenvironnement
+L238	natures et environnements*	paysage	paysage
+L239	natures et environnements*	pergélisol	pergélisol
+L240	natures et environnements*	plaine	plaine
+L241	natures et environnements*	plastique	plastique
+L242	natures et environnements*	polder	polder
+L243	natures et environnements*	pollution	pollution
+L244	natures et environnements*	relief	relief
+L245	natures et environnements*	ressource	ressource
+L246	natures et environnements*	restauration écologique	restauration écologique
+L247	natures et environnements*	risques	risques
+L248	natures et environnements*	sable	sable
+L249	natures et environnements*	sauvage	sauvage
+L250	natures et environnements*	sol	sol
+L251	natures et environnements*	sucre	sucre
+L252	natures et environnements*	transition	transition
+L253	natures et environnements*	viande	viande
+L254	natures et environnements*	volcan	volcan
+L255	natures et environnements*	zones humides	zones humides
+L256	populations*	classe (sociale…)	classe sociale
+L257	populations*	conflit	conflit
+L258	populations*	contrôle	contrôler
+L259	populations*	cosmopolitisme	cosmopolitisme
+L260	populations*	créolisation	créolisation
+L261	populations*	criminalité	criminalité
+L262	populations*	croissance et déclin démographique	croissance et déclin démographique
+L263	populations*	diaspora	diaspora
+L264	populations*	domestique (espace)	espace domestique
+L265	populations*	élite	élite(s)
+L266	populations*	épidémie (pandémie)	épidémie
+L267	populations*	ethnie/ethnicité	ethnie/ethnicité
+L268	populations*	exode (rural/urbain)	exode (rural/urbain)
+L269	populations*	famille	famille
+L270	populations*	génocide	génocide
+L271	populations*	genre	genre
+L272	populations*	gentrification	gentrification
+L273	populations*	gouvernance	gouvernance
+L274	populations*	handicap	handicap
+L275	populations*	logement	logement
+L276	populations*	migration	migration
+L277	populations*	peuplement	peuplement
+L278	populations*	population(s)	population(s)
+L279	populations*	réfugié	réfugié
+L280	populations*	trajectoire	trajectoire
+L281	populations*	vieillesse et jeunesse	vieillesse et jeunesse
+L282	pouvoirs*	anarchie	anarchie
+L283	pouvoirs*	armées	armées
+L284	pouvoirs*	cité	cité
+L285	pouvoirs*	conflit	conflit
+L286	pouvoirs*	contrôle	contrôler
+L287	pouvoirs*	criminalité	criminalité
+L288	pouvoirs*	cyberespace	cyberespace
+L289	pouvoirs*	dispositif	dispositif
+L290	pouvoirs*	domination	domination
+L291	pouvoirs*	drones	drone
+L292	pouvoirs*	élite	élite(s)
+L293	pouvoirs*	empire	empire
+L294	pouvoirs*	énergie	énergie
+L295	pouvoirs*	engagement	engagement
+L296	pouvoirs*	esclavages	esclavages
+L297	pouvoirs*	état	état
+L298	pouvoirs*	ethnie/ethnicité	ethnie/ethnicité
+L299	pouvoirs*	féminisme	féminisme
+L300	pouvoirs*	frontière	frontière
+L301	pouvoirs*	génocide	génocide
+L302	pouvoirs*	géopolitique	géopolitique
+L303	pouvoirs*	gouvernance	gouvernance
+L304	pouvoirs*	handicap	handicap
+L305	pouvoirs*	idéologie	idéologie
+L306	pouvoirs*	intersectionnalité	intersectionnalité
+L307	pouvoirs*	justice	justice
+L308	pouvoirs*	limites	limite et discontinuité
+L309	pouvoirs*	mafia	mafia
+L310	pouvoirs*	mur	mur
+L311	pouvoirs*	néolibéralisme	néolibéralisme
+L312	pouvoirs*	peuplement	peuplement
+L313	pouvoirs*	polaire	polaire
+L314	pouvoirs*	police	police
+L315	pouvoirs*	pouvoir	pouvoir
+L316	pouvoirs*	pouvoirs locaux	pouvoirs locaux
+L317	pouvoirs*	sécurité	sécurité
+L318	pouvoirs*	services publics	services publics
+L319	pouvoirs*	sexualités	sexualités
+L320	pouvoirs*	terrorisme	terrorisme
+L321	pouvoirs*	transnationalisme	transnationalisme
+L322	pouvoirs*	violence	violence
+L323	pouvoirs*	ZAD	zad (zone à défendre)
+L324	représentations*	art	art
+L325	représentations*	atlas	atlas
+L326	représentations*	bande dessinée	bande dessinée
+L327	représentations*	carte (critique)	carte
+L328	représentations*	cartes et plans (département BNF)	cartes et plans (département de la BNF)
+L329	représentations*	cartographie (critique)	cartographie critique
+L330	représentations*	cinéma documentaire	cinéma documentaire
+L331	représentations*	continent	continent
+L332	représentations*	couleur	couleurs (géographie des)
+L333	représentations*	dessin	dessin
+L334	représentations*	écritures géographiques	écritures géographiques
+L335	représentations*	films et séries TV	films et séries TV
+L336	représentations*	géographie audiovisuelle	géographie audiovisuelle
+L337	représentations*	géolocalisation	géolocalisation
+L338	représentations*	horizon	horizon
+L339	représentations*	jardin	jardin
+L340	représentations*	modélisation	modélisation
+L341	représentations*	musique	musique
+L342	représentations*	patrimoine	patrimoine
+L343	représentations*	photographie	photographie
+L344	représentations*	représentations	représentations
+L345	représentations*	skyline	skyline
+L346	représentations*	territoire(s)	territoire(s)
+L347	représentations*	théâtre	théâtre
+L348	ruralités*	alimentation	alimentation
+L349	ruralités*	chasse	chasse
+L350	ruralités*	cueillette	cueillette
+L351	ruralités*	élevage	élevage
+L352	ruralités*	foncier	foncier
+L353	ruralités*	grand prédateur	grand prédateur
+L354	ruralités*	paysans et agriculteurs	paysans et agriculteurs
+L355	ruralités*	périurbain	périurbain
+L356	ruralités*	ruralités	ruralités
+L357	ruralités*	terroir	terroir
+L358	ruralités*	viande	viande
+L359	ruralités*	village	village
+L360	sociétés et cultures*	aire culturelle	aire culturelle
+L361	sociétés et cultures*	alcool	alcool
+L362	sociétés et cultures*	animaux	animaux
+L363	sociétés et cultures*	chasse	chasse
+L364	sociétés et cultures*	corps	corps
+L365	sociétés et cultures*	culture	culture
+L366	sociétés et cultures*	drogue	drogue
+L367	sociétés et cultures*	émotions	émotions
+L368	sociétés et cultures*	domestique (espace)	espace domestique
+L369	sociétés et cultures*	espace public	espaces publics
+L370	sociétés et cultures*	événements	événement
+L371	sociétés et cultures*	fêtes, festivals	fêtes/festivals
+L372	sociétés et cultures*	folie	folie
+L373	sociétés et cultures*	habiter	habiter
+L374	sociétés et cultures*	identité	identité
+L375	sociétés et cultures*	imaginaire	imaginaire
+L376	sociétés et cultures*	inégalités (sociales)	inégalités sociales
+L377	sociétés et cultures*	inégalités (spatiales)	inégalités spatiales
+L378	sociétés et cultures*	mort	mort
+L379	sociétés et cultures*	nuit	nuit
+L380	sociétés et cultures*	pauvreté	pauvreté
+L381	sociétés et cultures*	paysage	paysage
+L382	sociétés et cultures*	prostitution	prostitution
+L383	sociétés et cultures*	religion	religion
+L384	sociétés et cultures*	sacré	sacré
+L385	sociétés et cultures*	santé	santé
+L386	sociétés et cultures*	sexualités	sexualités
+L387	sociétés et cultures*	sport	sport
+L388	sociétés et cultures*	temps	temps
+L389	sociétés et cultures*	utopie	utopie
+L390	sociétés et cultures*	vin	vin
+L391	sociétés et cultures*	voisinage	voisinage
+L392	urbanités*	aménagement (du territoire)	aménagement du territoire
+L393	urbanités*	banlieue	banlieue
+L394	urbanités*	cité	cité
+L395	urbanités*	commerce	commerce
+L396	urbanités*	comparaison	comparaison
+L397	urbanités*	espace public	espaces publics
+L398	urbanités*	événements	événement
+L399	urbanités*	finance	finance
+L400	urbanités*	foncier	foncier
+L401	urbanités*	gentrification	gentrification
+L402	urbanités*	marge/marginalité	marge/marginalité
+L403	urbanités*	modèles	modèle urbain
+L404	urbanités*	périurbain	périurbain
+L405	urbanités*	pouvoirs locaux	pouvoirs locaux
+L406	urbanités*	quartier	quartier
+L407	urbanités*	rue	rue
+L408	urbanités*	ségrégation	ségrégation
+L409	urbanités*	urbain	urbain
+L410	urbanités*	ville	ville

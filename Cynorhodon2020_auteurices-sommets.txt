@@ -1,0 +1,406 @@
+LNUM	ENTREE	ORIGINE	AUTEURICE
+L001	Abeille	abeille	MAIRE_Éric
+L002	Acclimatation	acclimatation	ALEXANDRE_Frédéric
+L003	Actualisme ou uniformitarisme	actualisme ou uniformitarisme	JACOB-ROUSSEAU_Nicolas
+L004	Adaptation	adaptation	REBOTIER_Julien
+L005	Aéroport	aéroport	FRÉTIGNY_Jean-Baptiste
+L006	Âge de la Terre	âge de la terre	LEMARTINEL_Bertrand
+L007	Agriculture - Critique environnementale	agriculture	GISCLARD_Marie
+L008	Agriculture - Familiale	agriculture	GISCLARD_Marie
+L009	Agriculture - Familiale	agriculture	GOULET_Frédéric
+L010	Agriculture - Urbaine	agriculture	DARLY_Ségolène
+L011	Agriculture - Urbaine	agriculture	MCCLINTOCK_Nathan
+L012	Agriculture - Urbaine	agriculture	SOULARD_Christophe
+L013	Agriculture - Urbaine	agriculture	MAILLARD_Thomas
+L014	Agrobiodiversité	agrobiodiversité	RAIMOND_Christine
+L015	Agrobiodiversité	agrobiodiversité	GARINE_Éric
+L016	Agrobusiness	agrobusiness	BÜHLER_Ève-Anne
+L017	Agrobusiness	agrobusiness	MARIE_Maxime
+L018	Agroécologie	agroécologie	BONIN_Muriel
+L019	Aire protégée	aire protégée	ANDRÉ-LAMAT_Véronique
+L020	Aléa	aléa	HUGUET_Francis
+L021	Aléa	aléa	SIERRA_Alexis
+L022	Alimentation	alimentation	PADDEU_Flaminia
+L023	Amazonie	amazonie	ARNAULD-DE-SARTRE_Xavier
+L024	Aménagement du territoire	aménagement du territoire	ZANETTI_Thomas
+L025	Aménité environnementale	aménité environnementale	FLÉGEAU_Morgane
+L026	Animalité	animalité	CHANTELOUP_Laine
+L027	Animalité	animalité	MOUNET_Coralie
+L028	Antarctique	antarctique	CHANTELOUP_Laine
+L029	Anthropisation	anthropisation	ALEXANDRE_Frédéric
+L030	Anthropocène - Histoire du concept	anthropocène	GUYOT-TÉPHANY_Josselin
+L031	Anthropocène - En géographie française	anthropocène	FOURAULT-CAUET_Véronique
+L032	Anthropocentrisme	anthropocentrisme	TOLLIS_Claire
+L033	Anthropozoïque (ère)	anthropozoïque (ère)	PELLETIER_Philippe
+L034	Anticyclone mobile polaire (AMP)	anticyclone mobile polaire	SOTO_Didier
+L035	Apocalypse	apocalypse	PELLETIER_Philippe
+L036	Aral (mer d')	aral (mer d')	CARIOU_Alain
+L037	Arcadie	arcadie	JOLIET_Fabienne
+L038	Arctique	arctique	ANTOMARCHI_Véronique
+L039	Arctique	arctique	JOLIET_Fabienne
+L040	Art	art	ARGOUNÈS_Fabrice
+L041	Assurance	assurance	ANGELI-AGUITON_Sara
+L042	Atlantide	atlantide	CHEVALIER_Émilie
+L043	Autoroute	autoroute	DIETRICH_Judicaelle
+L044	Baleine	baleine	GUILLAUME_Jacques
+L045	Barrage (grand)	barrage (grand)	BLANCHON_David
+L046	Barrage vert	barrage vert	MUGELÉ_Ronan
+L047	Bestiaire	bestiaire	LUGLIA_Rémi
+L048	Bestiaire	bestiaire	MUXART_Virginie
+L049	Bestiaire	bestiaire	PELLETIER_Philippe
+L050	Bhopal (catastrophe de)	bhopal (catastrophe de)	KABA_Arnaud
+L051	Big Data environnemental	big data environnemental	GAUTREAU_Pierre
+L052	Biocarburant	biocarburant	MÉRENNE-SCHOUMAKER_Bernadette
+L053	Biocentrisme	biocentrisme	TOLLIS_Claire
+L054	Biodiversité - Histoire du concept	biodiversité	CLAVEL_Joanne
+L055	Biodiversité - Mesure	biodiversité	PELLETIER_Philippe
+L056	Biodiversité - Approche critique	biodiversité	PELLETIER_Philippe
+L057	Biogéographie - Histoire du concept	biogéographie	PELLETIER_Philippe
+L058	Biogéographie - Théorie de la biogéographie insulaire	biogéographie – théorie insulaire	GUYOT-TÉPHANY_Josselin
+L059	Biopiraterie	biopiraterie	AUBERTIN_Catherine
+L060	Biopiraterie	biopiraterie	PERRIN_Jessica
+L061	Biopolitique et biopouvoir	biopolitique et biopouvoir	KECK_Frédéric
+L062	Biosphère	biosphère	ALEXANDRE_Frédéric
+L063	Biosphère 2	biosphère 2	BLANCHON_David
+L064	Biotope	biotope	LEMARTINEL_Bertrand
+L065	Bombe atomique	bombe atomique	PELLETIER_Philippe
+L066	Buen Vivir	buen vivir	GAUTREAU_Pierre
+L067	Cage (les limites de notre)	cage (les limites de notre)	CAPDEPUY_Vincent
+L068	Camargue (la)	camargue (la)	PELLETIER_Philippe
+L069	Capacité de charge	capacité de charge	PELLETIER_Philippe
+L070	Capital environnemental	capital environnemental	RICHARD_Frédéric
+L071	Capital environnemental	capital environnemental	SAUMON_Gabrielle
+L072	Capital environnemental	capital environnemental	TOMMASI_Greta
+L073	Capitalocène	capitalocène	ARGOUNÈS_Fabrice
+L074	Capitalocène	capitalocène	PELLETIER_Philippe
+L075	Care	care	GUÉTAT_Hélène
+L076	Carte	carte	GAUTREAU_Pierre
+L077	Catastrophe	catastrophe	SIERRA_Alexis
+L078	Catastrophisme	catastrophisme	PELLETIER_Philippe
+L079	Ceinture verte	ceinture verte	ROUSSEL_Fabien
+L080	Changement et dérèglement climatiques	changement et dérèglement climatiques	VIGNEAU_Jean-Pierre
+L081	Chaos	chaos	BOUCHET_Freddy
+L082	Chasse	chasse	MOUNET_Coralie
+L083	Chasse	chasse	CHANTELOUP_Laine
+L084	Chat	chat	VIGNE_Jean-Denis
+L085	Cheval	cheval	GÉRARDOT_Maie
+L086	Chien	chien	TESTOT_Laurent
+L087	Climat (concept de)	climat (concept de)	PELLETIER_Philippe
+L088	Climatologie et météorologie	climatologie et météorologie	DUBREUIL_Vincent
+L089	Climatoscepticisme	climatoscepticisme	ALEXANDRE_Frédéric
+L090	Climatoscepticisme	climatoscepticisme	LEBEAU_Boris
+L091	Climatoscepticisme	climatoscepticisme	PELLETIER_Philippe
+L092	Climatoscepticisme	climatoscepticisme	ROUSSEL_Fabien
+L093	Climatoscepticisme	climatoscepticisme	SIERRA_Alexis
+L094	Climax et écosystème	climax et écosystème	ALEXANDRE_Frédéric
+L095	Club de Rome	club de rome	PELLETIER_Philippe
+L096	Communs	communs	GONIN_Alexis
+L097	Compensation	compensation	PETITIMBERT_Rémy
+L098	Conférences de Lake Success (1949)	conférences de lake success	PELLETIER_Philippe
+L099	Conflit environnemental	conflit environnemental	LASLAZ_Lionel
+L100	Connectivité/continuité écologique	connectivité/continuité écologique	CLAUZEL_Céline
+L101	Conservation	conservation	DEPRAZ_Samuel
+L102	Constructivisme	constructivisme	ORAIN_Olivier
+L103	Conteneur/container	conteneur/container	LEBEAU_Boris
+L104	Controverse - En sciences	controverse	BILLAUD_Jean-Paul
+L105	Controverse - Alpine	controverse - alpine	JACOB-ROUSSEAU_Nicolas
+L106	Controverse - Lynn White	controverse - lynn white	PELLETIER_Philippe
+L107	Controverse - Lynn White	controverse - lynn white	GRÉSILLON_Étienne
+L108	Courant marin	courant marin	SOTO_Didier
+L109	Crise environnementale	crise environnementale	SIERRA_Alexis
+L110	Croissance verte	croissance verte	LEBEAU_Boris
+L111	Croissance verte	croissance verte	MONTAGNÉ-VILLETTE_Solange
+L112	Cycle	cycle	RASSE_Michel
+L113	Darwinisme	darwinisme	LODÉ_Thierry
+L114	Déchet	déchet	DURAND_Mathieu
+L115	Décroissance	décroissance	MÈGE_Arnaud
+L116	Décroissance	décroissance	PAILLOUX_Anne-Laure
+L117	Déforestation	déforestation	ARNAULD-DE-SARTRE_Xavier
+L118	Déluge - Biblique	déluge	RASSE_Michel
+L119	Déluge - Représentation	déluge	METZGER_Alexis
+L120	Démographie	démographie	PELLETIER_Philippe
+L121	Densification	densification	DROZDZ_Martine
+L122	Dépolitisation	dépolitisation	COMBY_Jean-Baptiste
+L123	Désertification et dégradation des sols	désertification et dégradation des sols	ALEXANDRE_Frédéric
+L124	Dette écologique	dette écologique	LEBEAU_Boris
+L125	Développement - Histoire du concept	développement - histoire du concept	DUBRESSON_Alain
+L126	Développement - Développement durable	développement - durable	BLOT_Frédérique
+L127	Développement - Développement inégal	développement - inégal	DUBRESSON_Alain
+L128	Diplomatie environnementale	diplomatie environnementale	BAILLAT_Alice
+L129	Dispositif	dispositif	HÉRITIER_Stéphane
+L130	Droit de l'environnement	droit de l'environnement	BELAÏDI_Nadia
+L131	Droit de l'environnement	droit de l'environnement	MÉTÉNIER_Marie
+L132	Dust Bowl	dust bowl	METZGER_Alexis
+L133	Dust Bowl	dust bowl	TABEAUD_Martine
+L134	Eau - Cycle	eau	BLANCHON_David
+L135	Eau - Cycle	eau	BLOT_Frédérique
+L136	Eau - Hydropolitique	eau	BLANCHON_David
+L137	Eau - Hydropolitique	eau	BLOT_Frédérique
+L138	Échelle	échelle	LEMARTINEL_Bertrand
+L139	Écocide	écocide	BELAÏDI_Nadia
+L140	Écocide	écocide	MÉTÉNIER_Marie
+L141	Éco-efficience	éco-efficience	GAUTREAU_Pierre
+L142	Écologie savante - Histoire	écologie savante - histoire	PELLETIER_Philippe
+L143	Écologie savante - Écologie factorielle	écologie savante - écologie factorielle	PELLETIER_Philippe
+L144	Écologie savante - Écologie humaine	écologie savante - écologie humaine	JACQUÉ_Marie
+L145	Écologie savante - Écologie industrielle	écologie savante - écologie industrielle	BARLES_Sabine
+L146	Écologie savante - Écologie mésologique	écologie savante - écologie mésologique	ALEXANDRE_Frédéric
+L147	Écologie savante - Écologie thermodynamique	écologie savante - écologie thermodynamique	LEMARTINEL_Bertrand
+L148	Écologie savante - Écologie thermodynamique	écologie savante - écologie thermodynamique	PELLETIER_Philippe
+L149	Écologisme - Écologisme(s)	écologisme - écologisme(s)	BÉNOS_Rémi
+L150	Écologisme - Écologie politique — Histoire (1957-1979)	écologisme - écologie politique – histoire	PELLETIER_Philippe
+L151	Écologisme - Écocentrisme	écologisme - écocentrisme	DEPRAZ_Samuel
+L152	Écologisme - Écofascisme	écologisme - écofascisme	PELLETIER_Philippe
+L153	Écologisme - Écoféminisme	écologisme - écoféminisme	GUÉTAT_Hélène
+L154	Écologisme - Écomarxisme	écologisme - écomarxisme	PELLETIER_Philippe
+L155	Écologisme - Éconationalisme	écologisme - éconationalisme	LEROY_Victoria
+L156	Écologisme - Écologie sociale	écologisme - écologie sociale	BÉNOS_Rémi
+L157	Écologisme - Écologie sociale	écologisme - écologie sociale	PELLETIER_Philippe
+L158	Économie circulaire	économie circulaire	BARLES_Sabine
+L159	Économie verte	économie verte	DJAMA_Marcel
+L160	Écoquartier	écoquartier	DROZDZ_Martine
+L161	Écosystème	écosystème	ALEXANDRE_Frédéric
+L162	Écotourisme	écotourisme	LEFORT_Isabelle
+L163	Écoumène	écoumène	CAPDEPUY_Vincent
+L164	Éducation à l'environnement	éducation à l'environnement	VERGNOLLE-MAINAR_Christine
+L165	Effet de serre	effet de serre	VIGNEAU_Jean-Pierre
+L166	Effondrement de civilisation	effondrement de civilisation	JACOB-ROUSSEAU_Nicolas
+L167	El Niño	el niño	HUGUET_Francis
+L168	Empreinte écologique	empreinte écologique	PELLETIER_Philippe
+L169	Énergie - Société et climat	énergie	PALLE_Angélique
+L170	Énergie - Société et climat	énergie	RICHARD_Yann
+L171	Énergie - Fossile et nucléaire	énergie	MÉRENNE-SCHOUMAKER_Bernadette
+L172	Énergie - Renouvelable	énergie	MÉRENNE-SCHOUMAKER_Bernadette
+L173	Ensauvagement - Féralité	ensauvagement - féralité	BARRAUD_Régis
+L174	Ensauvagement - Ré-ensauvagement	ensauvagement - ré-ensauvagement	BARRAUD_Régis
+L175	Environnement	environnement	PELLETIER_Philippe
+L176	Environnement urbain	environnement urbain	METZGER_Pascale
+L177	Environnementalisme	environnementalisme	PELLETIER_Philippe
+L178	Environnementalité	environnementalité	GUYOT_Sylvain
+L179	Ère géologique	ère géologique	HUGUET_Francis
+L180	Érosion	érosion	HUGUET_Francis
+L181	Espèce - Histoire du concept	espèce - histoire du concept	ALEXANDRE_Frédéric
+L182	Espèce - Invasive/envahissante	espèce - invasive/envahissante	TASSIN_Jacques
+L183	Espèce - Menacée	espèce - menacée	BENHAMMOU_Farid
+L184	Esthétique écologique et paysagère	esthétique écologique et paysagère	SAHRAOUI_Yohan
+L185	Éthique environnementale	éthique environnementale	BEAU_Rémi
+L186	Éthologie	éthologie	MONDÉMÉ_Chloé
+L187	Expertise	expertise	GRANJOU_Céline
+L188	Extinction des espèces	extinction des espèces	BENHAMMOU_Farid
+L189	Extractivisme	extractivisme	DENOËL_Mathilde
+L190	Famine	famine	PULLIAT_Gwenn
+L191	Feu	feu	MÉTAILIÉ_Jean-Paul
+L192	Finitude	finitude	ROUSSEL_Fabien
+L193	Finitude	finitude	PELLETIER_Philippe
+L194	Forêt - Enjeux environnementaux	forêt	GAUTREAU_Pierre
+L195	Forêt - Enjeux environnementaux	forêt	VIARD-CRÉTAT_Aurore
+L196	Forêt - Primaire	forêt	AMELOT_Xavier
+L197	Friche	friche	GAUCHON_Christophe
+L198	Front écologique	front écologique	GUYOT_Sylvain
+L199	Frontière	frontière	GUYOT_Sylvain
+L200	Frontière	frontière	HAMEZ_Grégory
+L201	Frontière	frontière	PELLETIER_Philippe
+L202	Frontière	frontière	REDON_Marie
+L203	Fukushima	fukushima	AUGENDRE_Marie
+L204	Gaïa	gaïa	CHARTIER_Denis
+L205	Gamification écologique	gamification écologique	REDON_Marie
+L206	Genre et nature	genre et nature	ARGOUNÈS_Fabrice
+L207	Géo-ingénierie	géo-ingénierie	BÉNOS_Rémi
+L208	GIEC/IPCC	giec/ipcc	PELLETIER_Philippe
+L209	Glace et glacier	glace et glacier	BODIN_Xavier
+L210	Glace et glacier	glace et glacier	DELINE_Philip
+L211	Gouvernance environnementale mondiale	gouvernance environnementale mondiale	MAERTENS_Lucile
+L212	GP2I (grands projets inutiles et imposés)	gp2i (grands projets inutiles et imposés)	BÉNOS_Rémi
+L213	GP2I (grands projets inutiles et imposés)	gp2i (grands projets inutiles et imposés)	LEBEAU_Boris
+L214	GP2I (grands projets inutiles et imposés)	gp2i (grands projets inutiles et imposés)	MILANESI_Julien
+L215	GP2I (grands projets inutiles et imposés)	gp2i (grands projets inutiles et imposés)	PÉLENC_Jérôme
+L216	Greentrification	greentrification	RICHARD_Frédéric
+L217	Guerre	guerre	FAVRE_Johanne
+L218	Habitabilité	habitabilité	LEFORT_Isabelle
+L219	Harmonie	harmonie	LEFORT_Isabelle
+L220	Hiroshima et Fukushima	hiroshima et fukushima	PELLETIER_Philippe
+L221	Holisme	holisme	CHANTELOUP_Laine
+L222	Holisme	holisme	PELLETIER_Philippe
+L223	Hot Spot	hot spot	ANDRÉ-LAMAT_Véronique
+L224	Huile de palme	huile de palme	BRAD_Alina
+L225	Humanités environnementales	humanités environnementales	BLANC_Guillaume
+L226	Icône	icône	ARGOUNÈS_Fabrice
+L227	Icône	icône	REDON_Marie
+L228	Île	île	BERNARDIE-TAHIR_Nathalie
+L229	Île	île	GAY_Jean-Christophe
+L230	Imaginaire	imaginaire	BÉNOS_Rémi
+L231	Impact environnemental	impact environnemental	MOUNET_Jean-Pierre
+L232	Indicateur de développement	indicateur de développement	SÉBASTIEN_Léa
+L233	Industrialisme	industrialisme	ZANETTI_Thomas
+L234	Information environnementale	information environnementale	GAUTREAU_Pierre
+L235	Ingénierie écologique	ingénierie écologique	BÉNOS_Rémi
+L236	Ingérence écologique	ingérence écologique	ANDRÉ-LAMAT_Véronique
+L237	Ingérence écologique	ingérence écologique	MELLAC_Marie
+L238	Ingérence écologique	ingérence écologique	AMELOT_Xavier
+L239	Inondation (en France)	inondation (en france)	LEMARTINEL_Bertrand
+L240	Insecte	insecte	DORÉ_Antoine
+L241	Insularisme (syndrome de l')	insularisme (syndrome de l')	PELLETIER_Philippe
+L242	Insularité et biogéographie	insularité et biogéographie	GUYOT-TÉPHANY_Josselin
+L243	Insularité et biogéographie	insularité et biogéographie	PELLETIER_Philippe
+L244	Irréversibilité	irréversibilité	DEL-CORSO_Jean-Pierre
+L245	Jardin	jardin	ALEXANDRE_Frédéric
+L246	Jardin	jardin	PELLETIER_Philippe
+L247	Jour du dépassement (de la Terre)	jour du dépassement (de la terre)	LEBEAU_Boris
+L248	Justice environnementale	justice environnementale	BLANCHON_David
+L249	Karst et milieux souterrains	karst et milieux souterrains	GAUCHON_Christophe
+L250	Limite	limite	LEMARTINEL_Bertrand
+L251	Limite	limite	PELLETIER_Philippe
+L252	Lithium	lithium	SÉRANDOUR_Audrey
+L253	Lobbies	lobbies	ORSINI_Amandine
+L254	Loisir et récréation	loisir et récréation	BELLENGER_Marie-Cheree
+L255	Loisir et récréation	loisir et récréation	PERRIN-MALTERRE_Clémence
+L256	Loup	loup	TESTOT_Laurent
+L257	Lutte environnementale	lutte environnementale	MASSÉ_Pauline
+L258	Lutte environnementale	lutte environnementale	TOMASSI_Isabella
+L259	Malthusianisme - Les origines	malthusianisme	PELLETIER_Philippe
+L260	Malthusianisme - Après 1945	malthusianisme	PELLETIER_Philippe
+L261	Mangrove	mangrove	ANDRIEU_Julien
+L262	Marché du carbone	marché du carbone	MÉRENNE-SCHOUMAKER_Bernadette
+L263	Marée noire	marée noire	OIRY_Annaig
+L264	Média	média	COMBY_Émeline
+L265	Médiation scientifique environnementale	médiation scientifique environnementale	LEFORT_Isabelle
+L266	Mésologie	mésologie	LEFORT_Isabelle
+L267	Métabolisme urbain	métabolisme urbain	BARLES_Sabine
+L268	Migration	migration	BERNARDIE-TAHIR_Nathalie
+L269	Milieu	milieu	PELLETIER_Philippe
+L270	Mine	mine	TROCH_Kevin
+L271	Mobilité douce	mobilité douce	ADAM_Matthieu
+L272	Modèle - Modélisation	modèle - modélisation	VARENNE_Franck
+L273	Modèle - Climatique	modèle - climatique	SOTO_Didier
+L274	Modelé anthropique	modelé anthropique	JACOB-ROUSSEAU_Nicolas
+L275	Montée des eaux	montée des eaux	LONGÉPÉE_Esméralda
+L276	Mythe	mythe	ARGOUNÈS_Fabrice
+L277	Mythe	mythe	REDON_Marie
+L278	Naturalisme	naturalisme	LEFORT_Isabelle
+L279	Nature - Notion générique	nature	ROUSSEL_Fabien
+L280	Nature - Notion générique	nature	GRÉSILLON_Étienne
+L281	Nature - Notion générique	nature	ALEXANDRE_Frédéric
+L282	Nature - Place de l'Homme	nature - place de l'homme	PELLETIER_Philippe
+L283	Neiges du Kilimandjaro	neiges du kilimandjaro	BÉNOS_Rémi
+L284	Nénuphar (syndrome du)	nénuphar (syndrome du)	PELLETIER_Philippe
+L285	Néolibéralisation de la nature	néolibéralisation de la nature	BÜHLER_Ève-Anne
+L286	Néolibéralisation de la nature	néolibéralisation de la nature	GAUTREAU_Pierre
+L287	Néolithique	néolithique	RASSE_Michel
+L288	Nexus	nexus	BLANCHON_David
+L289	Niche écologique	niche écologique	LEROY_Olivier
+L290	Noosphère	noosphère	JACOB-ROUSSEAU_Nicolas
+L291	Noosphère	noosphère	PELLETIER_Philippe
+L292	North Sentinel	north sentinel	CAPDEPUY_Vincent
+L293	Nucléaire - Industrie	nucléaire	MEYER_Teva
+L294	Nucléaire - Déchet	nucléaire	GARCIER_Romain
+L295	Nudge vert	nudge vert	BLANCHON_David
+L296	Nuit et environnement nocturne	nuit et environnement nocturne	CHALLÉAT_Samuel
+L297	ONG	ong	CHARTIER_Denis
+L298	Ours polaire	ours polaire	BENHAMMOU_Farid
+L299	Overtourism	overtourism	ARGOUNÈS_Fabrice
+L300	Ozone	ozone	MARTIN_Nicolas
+L301	Paléoenvironnement	paléoenvironnement	SOTO_Didier
+L302	Pandémie	pandémie	KECK_Frédéric
+L303	Parc	parc	HÉRITIER_Stéphane
+L304	Participation	participation	LAVIGNE-DELVILLE_Philippe
+L305	Participation	participation	RIEGEL_Julie
+L306	Patrimoine naturel	patrimoine naturel	BÉNOS_Rémi
+L307	Paysage - Histoire épistémologique	paysage	LEFORT_Isabelle
+L308	Paysage - Histoire épistémologique	paysage	PELLETIER_Philippe
+L309	Paysage - Regard occidental	paysage	FRANCESCHI-ZAHARIA_Catherine
+L310	Marin	marin	PARRAIN_Camille
+L311	Paysan	paysan	CHALÉARD_Jean-Louis
+L312	Pêche	pêche	DE-LA-CROIX_Kévin
+L313	Pêche	pêche	MITROI_Veronica
+L314	Permaculture	permaculture	BONNET_Pierre
+L315	Peuple-Monde	peuple-monde	CAPDEPUY_Vincent
+L316	Pic pétrolier	pic pétrolier	DONNER_Nicolas
+L317	Pic pétrolier	pic pétrolier	MAGRIN_Géraud
+L318	Planification écologique	planification écologique	FLÉGEAU_Morgane
+L319	Plantationocène	plantationocène	BOUKHRIS_Linda
+L320	Plastique	plastique	DESVAUX_Pierre
+L321	Poitevin (marais)	poitevin (marais)	PELLETIER_Philippe
+L322	Polaire (monde)	polaire (monde)	CHANTELOUP_Laine
+L323	Political ecology	political ecology	BOULEAU_Gabrielle
+L324	Political ecology	political ecology	HAUTDIDIER_Baptiste
+L325	Pollution	pollution	JARRIGE_François
+L326	Pollution	pollution	LE-ROUX_Thomas
+L327	Population mondiale	population mondiale	PELLETIER_Philippe
+L328	Porc	porc	VIGNE_Jean-Denis
+L329	Post-vérité	post-vérité	DIEGUEZ_Sebastian
+L330	Poumon vert	poumon vert	ROUSSEL_Fabien
+L331	Précarité énergétique	précarité énergétique	LEBEAU_Boris
+L332	Précipitations	précipitations	SOTO_Didier
+L333	Prédation	prédation	BENHAMMOU_Farid
+L334	Prédation	prédation	CHANTELOUP_Laine
+L335	Principe de précaution	principe de précaution	BELAÏDI_Nadia
+L336	Principe de précaution	principe de précaution	MÉTÉNIER_Marie
+L337	Principe pollueur-payeur	principe pollueur-payeur	CHIU_Victoria
+L338	Productivisme	productivisme	PELLETIER_Philippe
+L339	Prophétie autoréalisatrice	prophétie autoréalisatrice	ARGOUNÈS_Fabrice
+L340	Prospective et scénarios	prospective et scénarios	DELAY_Étienne
+L341	Qualité environnementale	qualité environnementale	ROUSSEL_Fabien
+L342	Quaternaire	quaternaire	RASSE_Michel
+L343	Racisme environnemental	racisme environnemental	GUYOT_Sylvain
+L344	Rapport Meadows	rapport meadows	BLANCHON_David
+L345	Rapport Meadows	rapport meadows	PELLETIER_Philippe
+L346	Raubwirtschaft	raubwirtschaft	PELLETIER_Philippe
+L347	Reconstruction post-catastrophe (exemple de Katrina)	reconstruction post-catastrophe (exemple de katrina)	COTELLE_Pauline
+L348	Réfugié - Climatique	réfugié - climatique	BÉNOS_Rémi
+L349	Réfugié - Climatique	réfugié - climatique	PELLETIER_Philippe
+L350	Réfugié - Climatique	réfugié - climatique	ROUSSEL_Fabien
+L351	Réfugié - Environnemental	réfugié - environnemental	BÉNOS_Rémi
+L352	Réfugié - Environnemental	réfugié - environnemental	PELLETIER_Philippe
+L353	Réfugié - Environnemental	réfugié - environnemental	ROUSSEL_Fabien
+L354	Religion	religion	GRÉSILLON_Étienne
+L355	Religion	religion	SAJALOLI_Bertrand
+L356	Renaturation	renaturation	JACOB-ROUSSEAU_Nicolas
+L357	Résilience	résilience	METZGER_Pascale
+L358	Responsabilité sociale et environnementale des entreprises	responsabilité sociale et environnementale des entreprises	BOMMIER_Swann
+L359	Responsabilité sociale et environnementale des entreprises	responsabilité sociale et environnementale des entreprises	RENOUARD_Cécile
+L360	Ressource	ressource	BLOT_Frédérique
+L361	Restauration - Écologique	restauration - écologique	GERMAINE_Marie-Anne
+L362	Restauration - Des terrains en montagne	restauration - des terrains en montagne	ALEXANDRE_Frédéric
+L363	Rhétorique environnementale	rhétorique environnementale	CATELLANI_Andrea
+L364	Risque - Histoire du concept	risque	SIERRA_Alexis
+L365	Risque - Épistémologie	risque	COANUS_Thierry
+L366	Risque - Gestion	risque	SIERRA_Alexis
+L367	Robinson Crusoé (syndrome de)	robinson crusoé (syndrome de)	PELLETIER_Philippe
+L368	Sahel	sahel	ALEXANDRE_Frédéric
+L369	Santé environnementale	santé environnementale	LYSANIUK_Benjamin
+L370	Savoir autochtone	savoir autochtone	COLLIGNON_Béatrice
+L371	Sentinelle et lanceur d'alerte	sentinelle et lanceur d'alerte	BLANCHON_David
+L372	Service écosystémique	service écosystémique	ARNAULD-DE-SARTRE_Xavier
+L373	Sibérie	sibérie	VAGUET_Yvette
+L374	Social-darwinisme	social-darwinisme	PELLETIER_Philippe
+L375	Socio-écosystème	socio-écosystème	CHENORKIAN_Robert
+L376	Solidarité écologique	solidarité écologique	BLANCHON_David
+L377	Station de ski	station de ski	GAUCHON_Christophe
+L378	Submersion marine (en France)	submersion marine (en france)	LEMARTINEL_Bertrand
+L379	Tchad (lac)	tchad (lac)	MAGRIN_Géraud
+L380	Technique (machinisme et nature)	technique (machinisme et nature)	BLAY_Michel
+L381	Trame verte et bleue	trame verte et bleue	CORMIER_Laure
+L382	Transhumanisme	transhumanisme	MAGNET_Dimitri
+L383	Transition - Écologique	transition - écologique	VALEGEAS_François
+L384	Transition - Énergétique	transition - énergétique	LABUSSIÈRE_Olivier
+L385	Tsunami	tsunami	SCOCCIMARRO_Rémi
+L386	UICN et WWF	uicn et wwf	HÉRITIER_Stéphane
+L387	UICN et WWF	uicn et wwf	PELLETIER_Philippe
+L388	Union européenne	union européenne	COURCELLE_Thibault
+L389	Utopie	utopie	BÉNOS_Rémi
+L390	Vaisseau-Terre	vaisseau-terre	CAPDEPUY_Vincent
+L391	Végétarisme et véganisme	végétarisme et véganisme	MAESTRIPIERI_Nicolas
+L392	Végétarisme et véganisme	végétarisme et véganisme	LAFITTE_Jérôme
+L393	Vert	vert	ROUSSEL_Fabien
+L394	Ville - Durable	ville - durable	LEBEAU_Boris
+L395	Ville - Durable	ville - durable	REDON_Marie
+L396	Ville - Flottante	ville - flottante	CHEVALIER_Émilie
+L397	Ville - Intelligente	ville - intelligente	PEYROUX_Élisabeth
+L398	Vulnérabilité	vulnérabilité	QUENAULT_Béatrice
+L399	Vulnérabilité	vulnérabilité	SIERRA_Alexis
+L400	Wild et désert	wild et désert	PELLETIER_Philippe
+L401	Wilderness	wilderness	JOLIET_Fabienne
+L402	Xynthia (catastrophe de)	xynthia (catastrophe de)	LEMARTINEL_Bertrand
+L403	Yellowstone (parc de)	yellowstone (parc de)	HÉRITIER_Stéphane
+L404	ZAD (zone à défendre)	zad (zone à défendre)	PAILLOUX_Anne-Laure
+L405	Zone humide	zone humide	SAJALOLI_Bertrand

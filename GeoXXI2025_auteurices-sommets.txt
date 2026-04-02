@@ -1,0 +1,339 @@
+LNUM	ENTREE	AUTEURICE
+L001	aéroport	FRÉTIGNY_Jean-Baptiste
+L002	agéographique	MILHAUD-SAMARINA_Olivier
+L003	aire culturelle	VON-HIRSCHHAUSEN_Béatrice
+L004	aires protégées	BELAÏDI_Nadia
+L005	alcool	BONTE_Marie
+L006	alcool	BRUCKERT_Michael
+L007	alimentation	PADDEU_Flaminia
+L008	aménagement du territoire	DESJARDINS_Xavier
+L009	anarchie	FERRETTI_Federico
+L010	animaux	ESTEBANEZ_Jean
+L011	armées	BOULANGER_Philippe
+L012	art	GUINARD_Pauline
+L013	atlas	BERGONZI_Agnès
+L014	autochtonie	SEPULVEDA_Bastien
+L015	autocorrélation	COMMENGES_Hadrien
+L016	automobile	FLONNEAU_Mathieu
+L017	bande dessinée	FALL_J-Juliet
+L018	banlieue	LE-GOIX_Renaud
+L019	barrage	BARRAUD_Régis
+L020	bibliothèque de géographie	GARCIA_Joëlle
+L021	biodiversité	ALEXANDRE_Frédéric
+L022	bled	REBAÏ_Nasser
+L023	cabane	BOURDEAU_Philippe
+L024	camp	CLOCHARD_Olivier
+L025	capitalisme	FAUVEAUD_Gabriel
+L026	carte	ARNAUD_Jean-Luc
+L027	cartes et plans (département de la BNF)	NETCHINE_Eve
+L028	cartographie critique	NOUCHER_Matthieu
+L029	casino	LEBEAU_Boris
+L030	casino	REDON_Marie
+L031	centre-périphérie	MONTEIL_Grégory
+L032	changement climatique	SULTAN_Benjamin
+L033	chasse	GOREAU-PONCEAUD_Anthony
+L034	chasse	LEMOIGNE_Nicolas
+L035	cheval	GÉRARDOT_Maie
+L036	cimetière	VENDRYES_Clémence
+L037	cinéma documentaire	CHENET_Marie
+L038	cité	BURGEL_Guy
+L039	classe sociale	RIPOLL_Fabrice
+L040	classe sociale	RIVIÈRE_Jean
+L041	climats et climatologie	METZGER_Alexis
+L043	clusters et systèmes productifs locaux	GRANDCLEMENT_Antoine
+L042	clusters et systèmes productifs locaux	GRONDEAU_Alexandre
+L044	colonial/postcolonial/décolonial	HIRT_Irène
+L045	commerce	DELAGE_Matthieu
+L046	communs	GOEURY_David
+L047	comparaison	BOUDREAU_Julie-Anne
+L048	concentration	COMMENGES_Hadrien
+L049	concentration	FEUILLET_Thierry
+L050	conflit	CHAUVIN_Emmanuel
+L051	conflit	JONCHERAY_Mathilde
+L052	conteneur	LEBEAU_Boris
+L053	continent	ARGOUNÈS_Fabrice
+L054	contrôler	MILHAUD-SAMARINA_Olivier
+L055	corps	HANCOCK_Claire
+L056	corridor écologique	COHEN_Marianne
+L057	cosmopolitisme	PAGÈS-EL-KAROUI_Delphine
+L058	couleurs (géographie des)	ROUSSEL_Fabien
+L059	créolisation	RÉNO_Fred
+L060	criminalité	GERMES_Mélina
+L061	croissance et déclin démographique	DAVID_Olivier
+L063	cueillette	PADDEU_Flaminia
+L062	cueillette	ROUSSEL_Fabien
+L064	cuesta	GIUSTI_Christian
+L065	culture	DUPONT_Louis
+L066	cyberespace	CATTARUZZA_Amaël
+L067	déchet	DE-BERCEGOL_Rémi
+L068	description	SGARD_Anne
+L069	désert	BRACHET_Julien
+L070	désindustrialisation/réindustrialisation	EDELBLUTTE_Simon
+L071	dessin	HERRMANN_Lou
+L072	déterminisme	ORAIN_Olivier
+L073	développement	CHALÉARD_Jean-Louis
+L074	développement local	LEBEAU_Boris
+L075	diaspora	GOREAU-PONCEAUD_Anthony
+L076	dictionnaire	FOURAULT-CAUËT_Véronique
+L077	dispositif	ESTEBANEZ_Jean
+L078	distance	DUROUDIER_Sylvestre
+L079	domination	CLERVAL_Anne
+L080	données	LE-CORRE_Thibault
+L081	drogue	CHOUVY_Pierre-Arnaud
+L082	drone	KLAUSER_Francisco
+L083	drone	PEDROZO_Silvana
+L084	eau	MARIE-LANOË_François
+L085	échelle	DEBARBIEUX_Bernard
+L086	école	PONCEAUD-GOREAU_Émilie
+L087	écologie	ALEXANDRE_Frédéric
+L088	écritures géographiques	LEFORT_Isabelle
+L089	élevage	RIEUTORT_Laurent
+L090	élite(s)	DUPLAN_Karine
+L091	émergence	SANJUAN_Thierry
+L092	émotions	GUINARD_Pauline
+L093	empire	MUSSET_Alain
+L094	énergie	LABUSSIÈRE_Olivier
+L095	enfermement	OLLIVON_Franck
+L096	engagement	RIPOLL_Fabrice
+L097	enseignement de la géographie	LEININGER-FRÉZAL_Caroline
+L098	environnement	ALEXANDRE_Frédéric
+L099	épidémie	CHARREIRE_Hélène
+L100	épistémologie de la géographie	ORAIN_Olivier
+L101	esclavages	AUDEBERT_Cédric
+L102	espace	ORAIN_Olivier
+L103	espace domestique	GILBERT_Pierre
+L104	espaces publics	FLEURY_Antoine
+L105	espèces invasives	ALEXANDRE_Frédéric
+L106	état	BENNAFLA_Karine
+L107	éthique et géographie	CHANTELOUP_Laine
+L108	éthique et géographie	MILHAUD-SAMARINA_Olivier
+L109	ethnie/ethnicité	STREIFF-FÉNART_Jocelyne
+L110	événement	LANGUILLON-AUSSEL_Raphaël
+L111	exode (rural/urbain)	PISTRE_Pierre
+L112	expérience	MICHALON_Bénédicte
+L113	exploration	BLAIS_Hélène
+L114	extractivisme	FORGET_Marie
+L115	faim	JANIN_Pierre
+L116	famille	PFIRSCH_Thomas
+L117	féminisme	BLIDON_Marianne
+L118	fêtes/festivals	BONTE_Marie
+L119	fêtes/festivals	GUILLARD_Séverin
+L121	filière	CÔTE_François
+L120	filière	RIVAL_Alain
+L122	films et séries TV	PLEVEN_Bertrand
+L123	finance	CREVOISIER_Olivier
+L124	firme transnationale	CARROUÉ_Laurent
+L126	fiscalité	BOULAY_Guilhem
+L125	fiscalité	GRANDCLEMENT_Antoine
+L127	folie	BAUDINAULT_Alexandra
+L128	foncier	BAYSSE-LAINÉ_Adrien
+L129	foncier	CASANOVA-ENAULT_Laure
+L130	forêt	FOURAULT-CAUËT_Véronique
+L132	friches	BRUN_Marion
+L131	friches	MATTOUG_Cécile
+L133	frontière	MINDER_Patrick
+L134	gare	DELAGE_Aurélie
+L135	génocide	CHEVALIER_Dominique
+L136	genre	TILLOUS_Marion
+L137	gentrification	CLERVAL_Anne
+L138	géographie audiovisuelle	CORSI_Laura
+L139	géohistoire	DEPREST_Florence
+L140	géohistoire	LE-DOUARIN_Louis
+L141	géolocalisation	JÉGOU_Laurent
+L142	géomorphologie	GIUSTI_Christian
+L143	géopolitique	CATTARUZZA_Amaël
+L144	glaciaire	MERCIER_Denis
+L145	gouvernance	PINSON_Gilles
+L146	grand prédateur	GÉRARDOT_Maie
+L147	grotte	GAUCHON_Christophe
+L148	habitat	DEBOULET_Agnès
+L149	habiter	LAZZAROTTI_Olivier
+L150	handicap	RAPEGNO_Noémie
+L151	histoire et géographie	SIERRA_Philippe
+L152	holocène	LESPEZ_Laurent
+L154	horizon	APPERT_Manuel
+L153	horizon	MOLLÉ_Geoffrey
+L155	humains/non-humains	CHANTELOUP_Laine
+L156	humanitaire	CORBET_Alice
+L157	hydrosystème	ARNAUD-FASSETTA_Gilles
+L158	identité	DI-MÉO_Guy
+L159	idéologie	BRENNETOT_Arnaud
+L161	île	BERNARDIE-TAHIR_Nathalie
+L160	île	REDON_Marie
+L162	imaginaire	DEBARBIEUX_Bernard
+L163	industrie	GRANDCLEMENT_Antoine
+L164	inégalités sociales	BIHR_Alain
+L165	inégalités sociales	PFEFFERKORN_Roland
+L166	inégalités spatiales	COTTINEAU_Clémentine
+L167	inégalités spatiales	VALLÉE_Julie
+L169	informalité	JACQUOT_Sébastien
+L168	informalité	MORELLE_Marie
+L170	inondations	ANTOINE_Jean-Marc
+L171	interaction spatiale	COSSART_Étienne
+L172	internet	BAUMANN_Yaya
+L173	intersectionnalité	BILGE_Sirma
+L174	itinéraires	RAYSSAC_Sébastien
+L175	jardin	JOLIET_Fabienne
+L177	justice	FROMENT-MEURICE_Muriel
+L176	justice	HANCOCK_Claire
+L178	karst	GAUCHON_Christophe
+L179	langue	PÉAUD_Laura
+L180	lieu	DEBARBIEUX_Bernard
+L181	limite et discontinuité	GAY_Jean-Christophe
+L182	littoral	OIRY_Annaig
+L183	local	SANTAMARIA_Frédéric
+L184	logement	FIJALKOW_Yankel
+L186	logistique	MAREÏ_Nora
+L185	logistique	SAVY_Michel
+L187	luttes environnementales	OIRY_Annaig
+L188	mafia	MACCAGLIA_Fabrizio
+L189	maillage/maille	LAPORTE_Antoine
+L190	marche	MONNET_Jérôme
+L191	marché	RATON_Gwenaëlle
+L193	marge/marginalité	JACQUOT_Sébastien
+L192	marge/marginalité	MORELLE_Marie
+L194	matérialité	CHOPLIN_Armelle
+L195	métagéographie	PELLETIER_Philippe
+L196	métropolisation	LE-GOIX_Renaud
+L198	migration	DUBUCS_Hadrien
+L197	migration	SCHMOLL_Camille
+L199	milieu	PELLETIER_Philippe
+L200	mine	GAGNOL_Laurent
+L201	mine	GARCIA_Pierre-Olivier
+L202	mobilité	CATTAN_Nadine
+L203	modèle urbain	PEYROUX_Elisabeth
+L204	modélisation	GONZALÈS_Rodolphe
+L205	monde	PELLETIER_Philippe
+L206	mondialisation	PLIEZ_Olivier
+L207	montagne	DEBARBIEUX_Bernard
+L208	monument	VESCHAMBRE_Vincent
+L209	mort	VARNIER_Camille
+L210	multisituée (approche)	BABY-COLLIN_Virginie
+L211	mur	VALLET_Élisabeth
+L212	musée	MOLINIÉ-ANDLAEUR_Marie-Alix
+L213	musique	CANOVA_Nicolas
+L214	nation	GIRAUT_Frédéric
+L215	nature	DUFOUR_Simon
+L216	néolibéralisme	LEBEAU_Boris
+L218	nomadisme et sédentarité	CRÉPY_Maël
+L217	nomadisme et sédentarité	GAGNOL_Laurent
+L219	nord-sud	PELLETIER_Philippe
+L220	nuit	SCHIRMER_Raphaël
+L221	numérique	DESBOIS_Henri
+L223	oasis	LAVIE_Émilie
+L222	oasis	MARSHALL_Anaïs
+L224	océan et mers	GUILLAUME_Jacques
+L225	ontologie	HIRT_Irène
+L226	orientalisme	PELLETIER_Philippe
+L227	outre-mer	GAY_Jean-Christophe
+L228	paléoenvironnement	GARNIER_Aline
+L229	parc	GRÉSILLON_Étienne
+L230	parc	ROUSSEL_Fabien
+L231	patrimoine	JACQUOT_Sébastien
+L232	pauvreté	FOURNET-GUÉRIN_Catherine
+L233	paysage	JOLIET_Fabienne
+L234	paysans et agriculteurs	REBAÏ_Nasser
+L235	pêche	BOUVET_Yvanne
+L236	pergélisol	RAVANEL_Ludovic
+L237	périurbain	CAILLY_Laurent
+L238	peuplement	DESAGE_Fabien
+L239	photographie	SOHIER_Estelle
+L240	plage	COËFFÉ_Vincent
+L241	plaine	LESPEZ_Laurent
+L242	plastique	MANGLOU_Mélissa
+L243	polaire	ESCUDÉ_Camille
+L244	polder	BERTRAND_Frédéric
+L245	pôle/polarité	LEBRUN_Nicolas
+L246	police	HOUTE_Arnaud-Dominique
+L247	pollution	GUÉRIN-TURCQ_Arthur
+L248	population(s)	DOIGNON_Yoann
+L249	port	RANÉLY-VERGÉ-DÉPRÉ_Colette
+L250	post(-)	CALBÉRAC_Yann
+L251	pouvoir	CHAUVIN_Emmanuel
+L252	pouvoir	FAUVEAUD_Gabriel
+L254	pouvoir	JOLIVET_Violaine
+L253	pouvoir	MILHAUD-SAMARINA_Olivier
+L255	pouvoirs locaux	DESJARDINS_Xavier
+L256	prison	DE-DARDEL_Julie
+L257	prostitution	LIEBER_Marylène
+L258	quartier	HUMAIN-LAMOURE_Anne-Lise
+L259	race	AUDEBERT_Cédric
+L260	réfugié	CHAUVIN_Emmanuel
+L261	région	RICHARD_Yann
+L262	relief	GIUSTI_Christian
+L263	religion	DEJEAN_Frédéric
+L264	représentations	OTT_Anne-Cécile
+L266	ressource	CHEVRILLON-GUIBERT_Raphaëlle
+L265	ressource	MAGRIN_Géraud
+L267	restauration écologique	GOB_Frédéric
+L268	risques	REBOTIER_Julien
+L269	route	BERNIER_Xavier
+L270	rue	GIBERT-FLUTRE_Marie
+L271	ruines	LE-GALLOU_Aude
+L273	ruralités	CHAUVIN_Emmanuel
+L274	ruralités	GUIBERT_Martine
+L275	ruralités	POULOT_Monique
+L272	ruralités	QUÉVA_Christophe
+L276	sable	BERTRAIS_Dolorès
+L278	sacré	GRÉSILLON_Étienne
+L277	sacré	SAJALOLI_Bertrand
+L279	santé	HOYEZ_Anne-Cécile
+L280	sauvage	BARRAUD_Régis
+L281	sécurité	LANNE_Jean-Baptiste
+L282	ségrégation	REISER_Chloé
+L284	services publics	COURCELLE_Thibault
+L285	services publics	FIJALKOW_Ygal
+L283	services publics	TAULELLE_François
+L286	sexualités	CHOSSIÈRE_Florent
+L288	skyline	APPERT_Manuel
+L287	skyline	MOLLÉ_Geoffrey
+L289	sol	BÉTARD_François
+L290	son	CHENET_Marie
+L291	son	JOLIVET_Violaine
+L292	sport	LANGENBACH_Marc
+L293	squat	AGUILERA_Thomas
+L294	statistique	COMMENGES_Hadrien
+L295	statistique	FEUILLET_Thierry
+L296	sucre	THÉODAT_Jean-Marie
+L297	système	ORAIN_Olivier
+L299	technique	CHENET_Marie
+L298	technique	PRECI_Alberto
+L300	temps	BECQUART-ROUSSET_Charlotte
+L302	terrain	CHANTELOUP_Laine
+L301	terrain	FAUVEAUD_Gabriel
+L305	terrain	JOLIVET_Violaine
+L304	terrain	MILHAUD-SAMARINA_Olivier
+L303	terrain	REDON_Marie
+L306	territoire(s)	CAMBRÉZY_Luc
+L307	terroir	DELFOSSE_Claire
+L308	terrorisme	TENENBAUM_Élie
+L309	théâtre	CALBÉRAC_Yann
+L310	tiers-lieu	LAUDON_Aurélie
+L311	toilettes	DAMON_Julien
+L312	toponymie	GIRAUT_Frédéric
+L313	tourisme	DUHAMEL_Philippe
+L314	tourismophobie/touristophobie	GAY_Jean-Christophe
+L315	tournant spatial	CALBÉRAC_Yann
+L316	train	SUTTON_Kevin
+L317	trajectoire	IMBERT_Christophe
+L318	transition	KOOP_Kirsten
+L319	transnationalisme	JOLIVET_Violaine
+L320	transport	REVELLI_Bruno
+L321	travail	LUXEMBOURG_Corinne
+L322	ubérisation	GRONDEAU_Alexandre
+L323	urbain	DENIS_Éric
+L324	utopie	PELLETIER_Philippe
+L325	vélo	RÉRAT_Patrick
+L326	viande	BRUCKERT_Michael
+L328	vieillesse et jeunesse	GAMBINO_Mélanie
+L327	vieillesse et jeunesse	ROUYER_Alice
+L329	village	REBAÏ_Nasser
+L330	ville	NÉDÉLEC_Pascale
+L331	vin	PITTE_Jean-Robert
+L332	violence	TADIÉ_Jérôme
+L333	voisinage	FELDER_Maxime
+L334	volcan	LAVIGNE_Franck
+L335	zad (zone à défendre)	BEAUGUITTE_Laurent
+L336	zones franches	FAUVEAUD_Gabriel
+L337	zones humides	TALBOT_Julie
+L338	zoo	ESTEBANEZ_Jean

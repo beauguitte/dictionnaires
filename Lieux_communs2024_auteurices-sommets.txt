@@ -1,0 +1,125 @@
+LNUM	ENTREE	SOMMET	RUBRIQUE	AUTEURICE
+L001	La copropriété	copropriété	Chez soi	MIOT_Yoan
+L002	Le pavillon	pavillon	Chez soi	CHARMES_Éric
+L003	Le squat	squat	Chez soi	DOUAT_Coralie
+L004	L’agence immobilière	agence immobilière	Chez soi	BENITES-GAMBIRAZIO_Eliza
+L005	Le permis de construire	permis de construire	Chez soi	MIOT_Yoan
+L006	Le magasin de bricolage	magasin de bricolage	Chez soi	BASTIN_Agnès
+L007	Les toits	toits	Chez soi	GARRUSH_Aness
+L008	La chambre de bonne	chambre de bonne	Chez soi	MAAOUI_Madga
+L009	Le township	township	Chez soi	MIGOZZI_Julien
+L010	La favela	favela	Chez soi	URVOY_Philippe
+L011	Les bains-douches	bains-douches	Chez soi	CHABROL_Marie
+L012	Le village	village	Chez soi	DUBUS_Claire
+L013	Le loft	loft	Chez soi	CLERVAL_Anne
+L014	Le chai	chai	Chez soi	FASSIER-BOULANGER_Sylvaine
+L015	L’appartement Airbnb	appartement Airbnb	Chez soi	MERMET_Anne-Cécile
+L016	L’Ehpad	Ehpad	Chez soi	BUHNIK_Sophie
+L017	Le bar	bar	Dans le coin	BONTE_Marie
+L018	La fontaine publique	fontaine publique	Dans le coin	ALLÈS_Christèle
+L019	La place de village	place de village	Dans le coin	QUÉVA_Christophe
+L020	La mairie	mairie	Dans le coin	LEBEAU_Boris
+L021	La poste	poste	Dans le coin	LEBEAU_Boris
+L022	L’usine	usine	Dans le coin	CARROUÉ_Laurent
+L023	L’école	école	Dans le coin	RIVIÈRE_Clément
+L024	La cour de récréation	cour de récréation	Dans le coin	CHEVALIER_Dominique
+L025	L’université	université	Dans le coin	DUC_Marine
+L026	L’épicerie	épicerie	Dans le coin	DELAGE_Matthieu
+L027	L’entrepôt Amazon	entrepôt Amazon	Dans le coin	MAHMOUDI_Dillon
+L028	L’entrepôt Amazon	entrepôt Amazon	Dans le coin	WIIG_Alan
+L029	Le restaurant	restaurant	Dans le coin	PITTE_Jean-Robert
+L030	Les halles	halles	Dans le coin	MIZES_James-Christopher
+L031	La MJC	MJC	Dans le coin	HARVARD-dit-DUCLOS_Élise
+L032	La MJC	MJC	Dans le coin	URVOY_Philippe
+L033	L’herboristerie	herboristerie	Dans le coin	BOCHATON_Audrey
+L034	Le potager	potager	Dans le coin	PADDEU_Flaminia
+L035	Le jardin	jardin	Dans le coin	WATTS_Michael
+L036	Le parc urbain	parc urbain	Dans le coin	GAUDIN_Olivier
+L037	La forêt	forêt	Dans le coin	FOURAULT-CAUËT_Véronique
+L038	La vigne	vigne	Dans le coin	CÉLÉRIER_Frédérique
+L039	Le cimetière	cimetière	Dans le coin	MAÏSETTI_Arnaud
+L040	Les Jeux olympiques et paralympiques	Jeux olympiques et paralympiques	Ensemble	LANGUILLON-AUSSEL_Raphaël
+L041	Le golf club	golf club	Ensemble	CONNAN_Dominique
+L042	Le ghetto de riches	ghetto de riches	Ensemble	MOATY_Mathilde
+L043	Le siège de parti politique	siège de parti politique	Ensemble	OURAOUI_Mehdi
+L044	Le bureau de vote	bureau de vote	Ensemble	RIVIÈRE_Jean
+L045	La grand-place	grand-place	Ensemble	OIRY_Goulven
+L046	La tribune	tribune	Ensemble	MAISETTI_ Nicolas
+L047	Le stade	stade	Ensemble	MIGOZZI_Julien
+L048	Le quartier gay	quartier gay	Ensemble	GIRAUD_Colin
+L049	La tour de bureaux	tour de bureaux	Ensemble	AL_Stefan
+L050	Le quartier d’affaires	quartier d’affaires	Ensemble	ALBECKER_Marie-Fleur
+L051	La bibliothèque	bibliothèque	Ensemble	MILHAUD_Olivier
+L052	Le rodéo	rodéo	Ensemble	BIRBERICK_Brittany
+L053	Le rodéo	rodéo	Ensemble	GRIFFIN_Matthew-J.
+L054	Le zoo	zoo	Ensemble	ESTEBANEZ_Jean
+L055	Le gallodrome	gallodrome	Ensemble	REDON_Marie
+L056	Le cercle de jeux	cercle de jeux	Ensemble	BIRBERICK_Brittany
+L057	Le casino	casino	Ensemble	REDON_Marie
+L058	Le casino	casino	Ensemble	LEBEAU_Boris
+L059	La rue de la soif	rue de la soif	Ensemble	ALAM_Thomas
+L060	La rue de la soif	rue de la soif	Ensemble	DELFINI_Antonio
+L061	La rue de la soif	rue de la soif	Ensemble	OMIEL_Julien
+L062	La rue de la soif	rue de la soif	Ensemble	SAFA_Audrey
+L063	Le dôme	dôme	Ensemble	RUTHERFORD_Jonathan
+L064	La boîte de nuit	boîte de nuit	Ensemble	DROZDZ_Martine
+L065	Le périph	périph	En mouvement	TRIBILLON_Justinien
+L066	L’autopont	autopont	En mouvement	HARRIS_Andrew
+L067	La gare routière	gare routière	En mouvement	DESMOULIÈRE_Rémi
+L068	L’aire de poids lourds	aire de poids lourds	En mouvement	BIZE_Amiel
+L069	Le rodéo sauvage	rodéo sauvage	En mouvement	WERTH_Alex
+L070	Le circuit automobile	circuit automobile	En mouvement	CHOPLIN_Armelle
+L071	Le circuit automobile	circuit automobile	En mouvement	CIAVOLELLA_Riccardo
+L072	Le métro	métro	En mouvement	TILLOUS_Marion
+L073	La gare	gare	En mouvement	RUGGERI_Charlotte
+L074	Le pont	pont	En mouvement	GAY_Jean-Christophe
+L075	Le grand canal	grand canal	En mouvement	CARROUÉ_Laurent
+L076	Le col	col	En mouvement	GUYOT_Sylvain
+L077	L’éolienne	éolienne	En mouvement	OIRY_Annaig
+L078	Le portique de sécurité	portique de sécurité	En mouvement	GAY_Jean-Christophe
+L079	L’aéroport	aéroport	En mouvement	QUAYSON_Ato
+L080	Le terminal	terminal	En mouvement	ROSEAU_Nathalie
+L081	Le ciel	ciel	En mouvement	FRÉTIGNY_Jean-Baptiste
+L082	La zone	zone	Invisible	DROZDZ_Martine
+L083	La zone	zone	Invisible	LORTIE_André
+L084	Les puces	puces	Invisible	HARVARD-dit-DUCLOS_Élise
+L085	La salle de contrôle	salle de contrôle	Invisible	PICON_Antoine
+L086	Le data center	data center	Invisible	MARQUET_Clément
+L087	Les réserves des musées	réserves des musées	Invisible	BELTRAME_Tiziana-N.
+L088	Les réserves des musées	réserves des musées	Invisible	KREPLAK_Yaël
+L089	La friche	friche	Invisible	FLORENTIN_Daniel
+L090	La décharge	décharge	Invisible	FREDERICKS_Rosalind
+L091	Le territoire sacrifié	territoire sacrifié	Invisible	SIZEK_Julia
+L092	Le chantier de démolition	chantier de démolition	Invisible	KOSCIELNIAK_Michael-RJ
+L093	La prison	prison	Invisible	BONY_Lucie
+L094	Le bureau de libération conditionnelle	bureau de libération conditionnelle	Invisible	THOMPSON_David-C.
+L095	Guantanamo	Guantanamo	Invisible	CARROUÉ_Laurent
+L096	L’abattoir	abattoir	Invisible	GARDIN_Jean
+L097	Le stand de tir	stand de tir	Invisible	MECHÉ_Brittany
+L098	Le sous-marin	sous-marin	Invisible	CARROUÉ_Laurent
+L099	Le bateau-pirate	bateau-pirate	Invisible	DUA_Jatin
+L100	Le mur	mur	Invisible	BALLIF_Florine
+L101	La borne géodésique	borne géodésique	Invisible	LE-DOUARIN_Louis
+L102	Le méridien	méridien	Invisible	ARGOUNÈS_Fabrice
+L103	L’Exposition universelle	Exposition universelle	Ailleurs	ARGOUNÈS_Fabrice
+L104	L’Exposition universelle	Exposition universelle	Ailleurs	DROZDZ_Martine
+L105	Le méga-bazar	méga-bazar	Ailleurs	PLIEZ_Olivier
+L106	Le parc à thèmes	parc à thèmes	Ailleurs	CLÉMENT_Thibault
+L107	Le tatami	tatami	Ailleurs	PELLETIER_Philippe
+L108	L’hôtel	hôtel	Ailleurs	GAY_Jean-Christophe
+L109	La salle de cinéma	salle de cinéma	Ailleurs	GALLON_Nicolas
+L110	Le théâtre	théâtre	Ailleurs	CALBÉRAC_Yann
+L111	Le musée	musée	Ailleurs	GOUSSANOU_Rossila
+L112	Le musée	musée	Ailleurs	SIMONNEAU_Claire
+L113	Le conseil de guerre	conseil de guerre	Ailleurs	ARROYO_Alexander
+L114	Le champ de bataille	champ de bataille	Ailleurs	BOULANGER_Philippe
+L115	Le mémorial	mémorial	Ailleurs	CHEVALIER_Dominique
+L116	Le puits de pétrole	puits de pétrole	Ailleurs	CARROUÉ_Laurent
+L117	La montagne	montagne	Ailleurs	DEBARBIEUX_Bernard
+L118	La mer	mer	Ailleurs	OIRY_Annaig
+L119	L’île	île	Ailleurs	REDON_Marie
+L120	Le phare	phare	Ailleurs	ZEIDERMAN_Austin
+L121	Le cabinet d’histoire-géographie	cabinet d’histoire-géographie	Ailleurs	ALAZARD_Joëlle
+L122	La salle de jeux d’arcade	salle de jeux d’arcade	Ailleurs	MINASSIAN_Hovig-Ter
+L123	Instagram	Instagram	Ailleurs	QUÉVA_Christophe
+L124	La carte postale	carte postale	Ailleurs	EPSTEIN_Renaud

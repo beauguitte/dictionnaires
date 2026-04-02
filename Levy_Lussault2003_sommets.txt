@@ -1,0 +1,664 @@
+LNUM	ENTREE	ORIGINE	AUTEURICE	CATEGORIE	CHAPEAU
+L001	Accessibilité	Accessibilité	JL	1	1
+L002	Accessibilité cognitive	Accessibilité cognitive	JL	4	1
+L003	Accommodation/Assimilation	Accommodation/Assimilation	JL	4	0
+L004	Actant	Actant	ML	4	1
+L005	Acteur	Acteur	ML	1	1
+L006	Action spatiale	Action spatiale	ML	1	1
+L007	Adaptation	Adaptation	OS	2	0
+L008	Agencement	Agencement	ML	1	1
+L009	Agent	Agent	JL	4	1
+L010	Agglomération	Agglomération	FME	1	1
+L011	Agir communicationnel	Agir communicationnel	ML	4	1
+L012	Agraire (Géographie)	Agraire (Géographie)	FP	2	0
+L013	Agriculture	Agriculture	FP	4	1
+L014	Ailleurs	Ailleurs	AT	1	1
+L015	Aire	Aire	JL	1	1
+L016	Aire culturelle	Aire culturelle	AT	1	1
+L017	Alberti, Leon Battista (1404-1472)	Alberti Leon Battista	TP	3	0
+L018	Alignement	Alignement	ML	1	1
+L019	Alimentation (Géographie de l')	Alimentation (Géographie de l')	FP	2	0
+L020	Alonso, William (1933-1999)	Alonso William	LDa	3	0
+L021	Altérité	Altérité	AT	4	1
+L022	Ambiance architecturale et urbaine	Ambiance architecturale et urbaine	PAm	1	1
+L023	Aménagement (Géographie et)	Aménagement (Géographie et)	ML & ST	2	0
+L024	Aménagement du territoire	Aménagement du territoire	JL	1	1
+L025	Analogie	Analogie	ML	4	1
+L026	Analyse spatiale	Analyse spatiale	TSJ	2	0
+L027	Analyse/Synthèse	Analyse/Synthèse	JL	4	0
+L028	Analytique (Géographie)	Analytique (Géographie)	JL	2	0
+L029	Anamorphose	Anamorphose	JL	1	1
+L030	Anaximandre de Millet (610-546 av. J.-C.)	Anaximandre de Millet	JFS	3	0
+L031	Animal	Animal	JFS	4	1
+L032	Anthropisation	Anthropisation	AB	1	1
+L033	Anthropologie (Géographie et)	Anthropologie (Géographie et)	BC	2	0
+L034	Appliquée (Géographie)	Appliquée (Géographie)	JLM	2	0
+L035	Archéologie (Géographie et)	Archéologie (Géographie et)	HG	2	0
+L036	Archipel mégalopolitain mondial (AMM)	Archipel mégalopolitain mondial (AMM)	RD	1	1
+L037	Architecture (Géographie et)	Architecture (Géographie et)	TP	2	0
+L038	"Aristote [""le Stagirite""] (384-322 av. J.-C.)"	Aristote	CBB	3	0
+L039	Armature urbaine	Armature urbaine	HLB	1	1
+L040	Artificiel/Authentique	Artificiel/Authentique	JL	4	0
+L041	Arts (Géographie et)	Arts (Géographie et)	RK	2	0
+L042	Attraction	Attraction	FME	1	1
+L043	Autocorrélation spatiale	Autocorrélation spatiale	LS	1	1
+L044	Auto-organisation (a)	Auto-organisation	LS & FDD	4	1
+L045	Auto-organisation (b)	Auto-organisation	JL	4	1
+L046	Axiome	Axiome	JL	4	1
+L047	Aydalot, Philippe (1939-1987)	Aydalot Philippe	LDa	3	0
+L048	Bachelard, Gaston (1884-1962)	Bachelard Gaston	TP	3	0
+L049	Banlieue	Banlieue	MG	1	1
+L050	Barel, Yves (1930-1990)	Barel Yves	CAS & FAu & JPF & MM	3	0
+L051	Bartels, Dietrich (1931-1983)	Bartels Dietrich	BW & MS	3	0
+L052	Bauhaus	Bauhaus	JBM	3	0
+L053	Benjamin, Walter (1892-1940)	Benjamin Walter	DH	3	0
+L054	Berkeley, George (1685-1753)	Berkeley George	AS	3	0
+L055	Bifurcation	Bifurcation	ST	4	1
+L056	Biogéographie	Biogéographie	PAr	2	0
+L057	Biologie (Géographie et)	Biologie (Géographie et)	ML	2	0
+L058	Blanchard, Raoul (1877-1965)	Blanchard Raoul	TP	3	0
+L059	Bobek, Hans (1903-1990)	Bobek Hans	BW & MS	3	0
+L060	Boisguilbert, Pierre de (1646-1714)	Boisguilbert Pierre de	GB	3	0
+L061	Braudel, Fernand (1902-1985)	Braudel Fernand	CG	3	0
+L062	Calvino, Italo (1923-1985)	Calvino Italo	JL	3	0
+L063	Campagne	Campagne	JL	1	1
+L064	Cantillon, Richard (1680-1734)	Cantillon Richard	GB	3	0
+L065	Capital spatial	Capital spatial	JL	1	1
+L066	Capitalisme	Capitalisme	CR	4	1
+L067	Carte	Carte	JL	1	1
+L068	Carte mentale	Carte mentale	JFS	1	1
+L069	Cartésien (Espace)	Cartésien (Espace)	JL	2	0
+L070	Cartographie	Cartographie	EC	2	0
+L071	Caste	Caste	OLo	4	1
+L072	Catastrophes (Théorie des)	Catastrophes (Théorie des)	ST	4	0
+L073	Causalité	Causalité	JFP	4	1
+L074	Centralité	Centralité	GD	1	1
+L075	Centre/Périphérie	Centre/Périphérie	JL	1	1
+L076	Centre urbain	Centre urbain	ML	1	1
+L077	Cerda, Ildefons (1815-1876)	Cerda Ildefons	JL	3	0
+L078	Certeau, Michel de (1925-1986)	Certeau Michel de	FD	3	0
+L079	Champ	Champ	LC	1	1
+L080	Changement	Changement	CR	4	1
+L081	Chaos (Théorie du)	Chaos (Théorie du)	ST (+ ML)	4	0
+L082	Chicago (École de)	Chicago (École de)	IJ	3	0
+L083	Chombart de Lauwe, Paul-Henry (1913-1998)	Chombart de Lauwe Paul-Henry	TP	3	0
+L084	Chorème	Chorème	CG	1	1
+L085	Chorotype	Chorotype	JL	1	1
+L086	Christaller, Walter (1893-1969)	Christaller Walter	JLM	3	0
+L087	Circulation	Circulation	JLM	1	1
+L088	Citadinité	Citadinité	ML	1	1
+L089	Cité	Cité	JFP (+ ET)	4	1
+L090	Civilisation	Civilisation	DD	4	0
+L091	Civilité	Civilité	IJ	4	1
+L092	Classe	Classe	CR	4	1
+L093	Classe socio-spatiale	Classe socio-spatiale	DR	2	0
+L094	Climat	Climat	JFS	1	1
+L095	Climatologie	Climatologie	FDD	2	0
+L096	Cognitif/Affectif	Cognitif/Affectif	JL	4	0
+L097	Cognition	Cognition	LM	4	1
+L098	Cohérence	Cohérence	JL	4	1
+L099	Coloniale (Géographie)	Coloniale (Géographie)	HBL + CDA	2	0
+L100	Commerce	Commerce	PP	4	1
+L101	Communautariens	Communautariens	CCh	4	0
+L102	Communauté	Communauté	JL	4	1
+L103	Communauté/Société (Modèle)	Communauté/Société (Modèle)	RD	4	0
+L104	Communication	Communication	EE	4	1
+L105	Communication (Géographie de la)	Communication (Géographie de la)	EE	2	0
+L106	Communication territoriale	Communication territoriale	MR	1	1
+L107	Communisme	Communisme	CR	4	1
+L108	Commutateur	Commutateur	JL	1	1
+L109	Comparatisme	Comparatisme	DR	4	1
+L110	Complexité	Complexité	ST	4	1
+L111	Compréhension	Compréhension	GDM & ML	4	1
+L112	Compromis territorial	Compromis territorial	RDK	1	1
+L113	Concentration	Concentration	LDa	1	1
+L114	Concept	Concept	JFP	4	1
+L115	Concret/Abstrait	Concret/Abstrait	JFP	4	0
+L116	Confins	Confins	JL	1	1
+L117	Connexité	Connexité	JMOf	1	1
+L118	Consensus/Dissensus	Consensus/Dissensus	FH	4	0
+L119	Constructivisme	Constructivisme	ML	4	0
+L120	Contact	Contact	JL	1	1
+L121	Contexte	Contexte	ML	4	1
+L122	Contiguïté	Contiguïté	JCG	1	1
+L123	Continent	Continent	DR	1	1
+L124	Continuité	Continuité	JCG	1	1
+L125	Contrat	Contrat	CR	4	1
+L126	Contrôle	Contrôle	JL	2	0
+L127	Coprésence	Coprésence	ML	1	1
+L128	Corps	Corps	CH	1	1
+L129	Cospatialité	Cospatialité	JL	1	1
+L130	Coupure épistémologique	Coupure épistémologique	CR	4	1
+L131	Critique	Critique	CR	4	1
+L132	Culture	Culture	JL	4	0
+L133	Culturelle (Géographie)	Culturelle (Géographie)	JFS	2	0
+L134	Cyberespace	Cyberespace	BB	1	1
+L135	Cycle	Cycle	GB	4	1
+L136	Dardel, Éric (1899-1968)	Dardel Éric	JFS	3	0
+L137	Darwinisme	Darwinisme	JL	4	0
+L138	Décentralisation	Décentralisation	JMOh	1	1
+L139	Décision	Décision	CR & ML	4	1
+L140	Déconstruction	Déconstruction	ML	4	1
+L141	Découpage	Découpage	DR	1	1
+L142	Découverte	Découverte	DR	1	1
+L143	Déduction/Induction	Déduction/Induction	LC	4	1
+L144	Défrichement	Défrichement	RDK	1	1
+L145	Deleuze, Gilles (1925-1995) & Guattari, Félix (1930-1992)	Deleuze Gilles & Guattari Félix	TP	3	0
+L146	Demangeon, Albert (1872-1940)	Demangeon Albert	DW	3	0
+L147	Démographie (Géographie et)	Démographie (Géographie et)	HLB	2	0
+L148	Densité	Densité	JL	1	1
+L149	Descartes, René (1596-1650)	Descartes René	AS	3	0
+L150	Description	Description	JFS	2	1
+L151	Désert	Désert	DR	1	1
+L152	Déterminisme	Déterminisme	JL	4	0
+L153	Déterritorialisation	Déterritorialisation	RH	2	0
+L154	Développement	Développement	PhC	4	1
+L155	Développement durable	Développement durable	CE + RK & MS	4	1
+L156	Développement local	Développement local	FP	1	1
+L157	Dialectique	Dialectique	CR	4	1
+L158	Dialogique	Dialogique	ML	4	1
+L159	Diaspora	Diaspora	GP	1	1
+L160	Didactique	Didactique	AMGG	1	1
+L161	Différenciation spatiale	Différenciation spatiale	JCG	1	1
+L162	Diffusion	Diffusion	FME	1	1
+L163	Dimension	Dimension	JL	4	1
+L164	Dion, Roger (1896-1981)	Dion Roger	FP	3	0
+L165	Discipline	Discipline	PG	4	1
+L166	Discours	Discours	LM	4	1
+L167	Discrétisation	Discrétisation	LS	4	1
+L168	Dispositif spatial légitime	Dispositif spatial légitime	ML	1	1
+L169	Distance	Distance	JL	1	1
+L170	Distanciation	Distanciation	ML	4	1
+L171	Distribution rang/taille	Distribution rang/taille	FME	1	1
+L172	Distribution spatiale	Distribution spatiale	FME	1	1
+L173	District industriel	District industriel	GB	1	1
+L174	Diversité	Diversité	JL	1	1
+L175	Division du travail	Division du travail	GB	4	1
+L176	Dominance	Dominance	JL	4	1
+L177	Domination	Domination	JL	4	0
+L178	Droit (Géographie et)	Droit (Géographie et)	FB	2	0
+L179	Dubois, Marcel (1856-1916)	Dubois Marcel	OS	3	0
+L180	Dynamique spatiale	Dynamique spatiale	FME + MS	1	1
+L181	Écart	Écart	ML	1	1
+L182	Échange	Échange	LDa	4	1
+L183	Échelle	Échelle	JL	1	1
+L184	Écologie (Géographie et)	Écologie (Géographie et)	CE	2	0
+L185	Écologique (Démarche)	Écologique (Démarche)	CE	4	0
+L186	Économie (Géographie et)	Économie (Géographie et)	LDa	2	0
+L187	Économie-monde	Économie-monde	RD	1	1
+L188	Économique (Géographie)	Économique (Géographie)	GB	2	0
+L189	Écosystème	Écosystème	CE	4	1
+L190	Écoumène	Écoumène	AB	1	1
+L191	Écriture	Écriture	YLP	4	1
+L192	Écriture de la géographie	Écriture de la géographie	DLT	2	0
+L193	Edge City	Edge City	JFS	1	1
+L194	Effet de façade	Effet de façade	FDD	4	1
+L195	Effet de serre	Effet de serre	FDD	4	1
+L196	Emblème territorial	Emblème territorial	ML	1	1
+L197	Emboîtement	Emboîtement	JL	1	1
+L198	Empire	Empire	DR	1	1
+L199	Empirisme	Empirisme	CR	4	1
+L200	Enclavement	Enclavement	JL	1	1
+L201	Endroit	Endroit	PP (+ JL)	1	1
+L202	Énoncé	Énoncé	LM	4	1
+L203	Enquête	Enquête	FH	4	1
+L204	Ensemble géographique	Ensemble géographique	DR	1	1
+L205	Entreprise	Entreprise	AJMB	4	1
+L206	Entretien	Entretien	FH	4	1
+L207	Environnement	Environnement	CE	4	1
+L208	Épistémologie	Épistémologie	FD	4	1
+L209	Épistémologie de la géographie	Épistémologie de la géographie	RK & MS	2	0
+L210	Ératosthène (276-194 av. J.-C.)	Ératosthène	JFS	3	0
+L211	Espace	Espace	JL & ML	1	1
+L212	Espace public (Ia)	Espace public (I)	ML	1	1
+L213	Espace public (Ib)	Espace public (I)	JL	1	1
+L214	Espace public (II)	Espace public (II)	ML	4	1
+L215	Espace vécu	Espace vécu	JFS	1	1
+L216	État	État	JL	1	1
+L217	État local	État local	JL	1	1
+L218	Étendue	Étendue	JL	1	1
+L219	Éthique et sciences sociales	Éthique et sciences sociales	CR	4	0
+L220	Ethnie	Ethnie	DR	4	1
+L221	Ethnométhodologie	Ethnométhodologie	LM	4	0
+L222	Euclidien (Espace)	Euclidien (Espace)	JL	2	0
+L223	Événement	Événement	CD	4	1
+L224	Exceptionnalisme	Exceptionnalisme	FDD	2	0
+L225	Exode rural	Exode rural	FP	2	0
+L226	Explication	Explication	JL	4	1
+L227	Exploration	Exploration	JFS	2	0
+L228	Factorielle (Approche)	Factorielle (Approche)	JL	4	1
+L229	Fédéralisme	Fédéralisme	JL	1	1
+L230	Féministe (Géographie)	Féministe (Géographie)	CCh	2	0
+L231	Finage	Finage	FP	1	1
+L232	Firme transnationale	Firme transnationale	GB	1	1
+L233	Fleuve	Fleuve	PAr	1	1
+L234	Flexibilité	Flexibilité	GB	4	1
+L235	Flux	Flux	JMOf	1	1
+L236	Foncier	Foncier	ML	1	1
+L237	Fonctionnalisme	Fonctionnalisme	CR	4	0
+L238	Fordisme	Fordisme	GB	4	1
+L239	Forêt	Forêt	PAr + RDK	1	1
+L240	Formalisation	Formalisation	ST	4	1
+L241	Formation socio-spatiale	Formation socio-spatiale	GDM	2	0
+L242	Forme	Forme	HLB	4	1
+L243	Foucault, Michel (1927-1984)	Foucault Michel	ML	3	0
+L244	Fractale	Fractale	ST	4	1
+L245	Friche	Friche	FP	1	1
+L246	Front	Front	GP	1	1
+L247	Front pionnier	Front pionnier	DR	1	1
+L248	Frontière	Frontière	JL	1	1
+L249	Futur	Futur	JL	4	1
+L250	Gay and Lesbian Studies	Gay and Lesbian Studies	CH & RG	2	0
+L251	Geddes, Patrick (1854-1932)	Geddes Patrick	TP	3	0
+L252	Général/Particulier	Général/Particulier	JL	4	0
+L253	Générale (Géographie)	Générale (Géographie)	DR	2	0
+L254	Générique (Lieu)	Générique (Lieu)	JL	1	1
+L255	Générique/Spécifique	Générique/Spécifique	ML	4	0
+L256	Genres (Géographie des)	Genres (Géographie des)	PaV	2	0
+L257	Gentrification	Gentrification	CH	1	1
+L258	Géoéconomie	Géoéconomie	JL	1	1
+L259	Géogramme	Géogramme	AB	1	1
+L260	Géographicité	Géographicité	DR	1	1
+L261	Géographie	Géographie	JL	1	1
+L262	Géohistoire	Géohistoire	CG	2	0
+L263	Géomatique	Géomatique	YG	2	0
+L264	Géométrie (Géographie et)	Géométrie (Géographie et)	FME	2	0
+L265	Géomorphologie (Géographie et)	Géomorphologie (Géographie et)	HR	2	0
+L266	Géon	Géon	PP (+ JL)	1	1
+L267	Géopolitique	Géopolitique	JA	1	1
+L268	Géosystème	Géosystème	PAr	1	1
+L269	Géotype	Géotype	JL	1	1
+L270	Ghetto	Ghetto	PhG	1	1
+L271	Glacis	Glacis	GP	1	1
+L272	Gottmann, Jean (1915-1994)	Gottmann Jean	GP	3	0
+L273	Gould, Peter R. (1932-2000)	Gould Peter R.	GB	3	0
+L274	Gourou, Pierre (1900-1999)	Gourou Pierre	DR	3	0
+L275	Gouvernance	Gouvernance	PLG	4	1
+L276	Gouvernement urbain	Gouvernement urbain	PLG	1	1
+L277	Gradient	Gradient	MG	1	1
+L278	Graphe	Graphe	ST	1	1
+L279	Graphique	Graphique	JPB	1	1
+L280	Gravitaire (Modèle)	Gravitaire (Modèle)	JLM	1	1
+L281	Groupe social	Groupe social	AG	4	1
+L282	Guerre	Guerre	JL	1	1
+L283	Habitat	Habitat	ML	1	1
+L284	Habitat non-réglementaire	Habitat non-réglementaire	PhC	1	1
+L285	Habiter	Habiter	JL & ML	1	1
+L286	Habitus	Habitus	LC	4	1
+L287	Halbwachs, Maurice (1877-1945)	Halbwachs Maurice	AG	3	0
+L288	Hartke, Wolfgang (1908-1997)	Hartke Wolfgang	BW & MS	3	0
+L289	Hartshorne, Richard (1899-1992)	Hartshorne Richard	JA	3	0
+L290	Haushofer, Karl (1869-1946)	Haushofer Karl	MS	3	0
+L291	Haut lieu	Haut lieu	BD	1	1
+L292	Heidegger, Martin (1889-1976)	Heidegger Martin	TP	3	0
+L293	Heimat	Heimat	JL	1	1
+L294	Herméneutique (Géographie et)	Herméneutique (Géographie et)	JFS	2	0
+L295	Hérodote (vers 484-vers 425 av. J.-C.)	Hérodote	JFS	3	0
+L296	Hétérotopie	Hétérotopie	JFS & ML	1	1
+L297	Hettner, Alfred (1859-1941)	Hettner Alfred	MS	3	0
+L298	Hiérarchie	Hiérarchie	CR	4	1
+L299	Hinterland	Hinterland	AJMB	1	1
+L300	Hippocrate de Cos (460-375/351 av. J.-C.)	Hippocrate	JFS	3	0
+L301	Histoire (Géographie et)	Histoire (Géographie et)	PG	2	0
+L302	Histoire de la géographie	Histoire de la géographie	PC	4	0
+L303	Historicité	Historicité	JL	4	1
+L304	Historique (Géographie)	Historique (Géographie)	JFS	2	0
+L305	Homère (XIIe-VIe siècle  av. J.-C. ?)	Homère	ET	3	0
+L306	Horizont	Horizont	JL	1	1
+L307	Hors-sol	Hors-sol	RK & MS	1	1
+L308	Howard, Ebenezer (1850-1928)	Howard Ebenezer	PG & ML	3	0
+L309	Hub	Hub	PP	1	1
+L310	Humaine (Géographie)	Humaine (Géographie)	JL & ML	2	0
+L311	Humanistic Geography	Humanistic Geography	JBR & HBr	2	0
+L312	Humboldt, Wilhelm von (1767-1835) - Humboldt, Alexander von (1769-1859)	Humboldt, Wilhelm von - Humboldt, Alexander von	JH	3	1
+L313	Hybridation	Hybridation	CR	4	1
+L314	Hygiénisme	Hygiénisme	ML	2	0
+L315	Identité	Identité	JL	4	1
+L316	Identité spatiale	Identité spatiale	ML	1	1
+L317	Idéologie	Idéologie	CR (+ ML)	4	1
+L318	Idiographique/Nomothétique	Idiographique/Nomothétique	AJMB	4	0
+L319	Île	Île	JFS	1	1
+L320	Image	Image	ML	1	1
+L321	Imaginaire géographique	Imaginaire géographique	BD	1	1
+L322	Immanence/Transcendance (spatiales)	Immanence/Transcendance (spatiales)	JL	1	1
+L323	Inclus/Exclus	Inclus/Exclus	FH	4	0
+L324	Indicateur	Indicateur	JL	4	1
+L325	Individu	Individu	ML	4	1
+L326	Individualisme méthodologique	Individualisme méthodologique	AJMB	4	1
+L327	Industrie	Industrie	AJMB	4	1
+L328	Industrielle (Géographie)	Industrielle (Géographie)	MG	2	0
+L329	Informatique (Géographie et)	Informatique (Géographie et)	LS	2	0
+L330	Informel (Secteur)	Informel (Secteur)	JC	4	1
+L331	Infrastructure	Infrastructure	GDM	4	1
+L332	Infra-urbain	Infra-urbain	JL	1	1
+L333	Innovation	Innovation	JMOf	4	1
+L334	Institution	Institution	ML	4	1
+L335	Intégration	Intégration	JL	4	1
+L336	Intentionnalité	Intentionnalité	GDM	4	1
+L337	Interaction sociale	Interaction sociale	LM	4	1
+L338	Interaction spatiale	Interaction spatiale	FME	1	1
+L339	Interactionnisme	Interactionnisme	IJ	4	0
+L340	Interface	Interface	JL	1	1
+L341	Interprétation	Interprétation	CR (+ ML)	4	1
+L342	Interspatialité	Interspatialité	JL	1	1
+L343	Irrigation	Irrigation	FDD	1	1
+L344	Isolat	Isolat	JCG	1	1
+L345	Isotropie	Isotropie	AJMB	1	1
+L346	Jardin	Jardin	CCa	1	1
+L347	Jeux (Théorie des)	Jeux (Théorie des)	ST	4	0
+L348	Justice spatiale	Justice spatiale	JL	1	1
+L349	Kant, Immanuel (1724-1804)	Kant Immanuel	MLQ	3	0
+L350	Kantien (Espace)	Kantien (Espace)	JFS	2	0
+L351	Lamarckisme	Lamarckisme	VB	4	0
+L352	Land Art	Land Art	AV	2	0
+L353	Langage	Langage	JFS	4	1
+L354	Lavedan, Pierre (1885-1982)	Lavedan Pierre	TP	3	0
+L355	Le Corbusier [Charles-Edouard Jeanneret dit] (1887-1965)	Le Corbusier	LDe	3	0
+L356	Lefebvre, Henri (1901-1991)	Lefebvre Henri	LDe	3	0
+L357	Légitimité	Légitimité	JL	4	1
+L358	Leibniz, Gottfried Wilhelm (1646-1716)	Leibniz Gottfried Wilhelm	VA	3	0
+L359	Leibnizien (Espace)	Leibnizien (Espace)	JL	2	0
+L360	Lepetit, Bernard (1948-1996)	Lepetit Bernard	CD	3	0
+L361	Le Play, Frédéric (1806-1882)	Le Play Frédéric	VB	3	0
+L362	Libéralisme	Libéralisme	DD	4	0
+L363	Lieu (a)	Lieu	AB	1	1
+L364	Lieu (b)	Lieu	JNE	1	1
+L365	Lieu (c)	Lieu	JL	1	1
+L366	Lieu (d)	Lieu	ML	1	1
+L367	Lieux centraux (Théorie des)	Lieux centraux (Théorie des)	FME	2	0
+L368	Limite	Limite	JL	1	1
+L369	Linguistic Turn	Linguistic Turn	LM	4	1
+L370	Linguistique (Géographie et)	Linguistique (Géographie et)	LM	2	0
+L371	Littérature (Géographie et)	Littérature (Géographie et)	YLP	2	0
+L372	Littoral	Littoral	RK & MS	1	1
+L373	Local	Local	ML	1	1
+L374	Localisation	Localisation	FME	1	1
+L375	Locke, John (1632-1704)	Locke John	AS	3	0
+L376	Logement	Logement	AG + ML	4	1
+L377	Logistique	Logistique	PP	1	1
+L378	Lois de l'espace	Lois de l'espace	ML	2	0
+L379	Loisir	Loisir	RK	4	1
+L380	Lösch, August (1906-1945)	Lösch August	JLM	3	0
+L381	Maillage	Maillage	FDD	1	1
+L382	Maison	Maison	TP	1	1
+L383	Marchandise	Marchandise	GB (+ ML)	4	1
+L384	Marché	Marché	GB	4	1
+L385	Marshall, Alfred (1842-1924)	Marshall Alfred	GB	3	0
+L386	Marx, Karl (1818-1883) & Engels, Friedrich (1820-1895)	Marx Karl & Engels Friedrich	JL	3	0
+L387	Marxisme	Marxisme	CR	4	0
+L388	Matériel/Idéel	Matériel/Idéel	ML	4	0
+L389	Matériel/Immatériel	Matériel/Immatériel	JL	4	0
+L390	Mathématiques (Géographie et)	Mathématiques (Géographie et)	ST & ML	2	0
+L391	Maunier, René (1887-1951)	Maunier René	TP	3	0
+L392	Médiance	Médiance	AB	1	1
+L393	Méditerranée(s)	Méditerranée(s)	RK	2	0
+L394	Mémoire sociale	Mémoire sociale	PG	4	1
+L395	Mer	Mer	DR	1	1
+L396	Mesure	Mesure	HLB	4	1
+L397	Métaphore spatiale	Métaphore spatiale	YLP	1	1
+L398	Métrique	Métrique	JL	1	1
+L399	Métropole/Mégalopole	Métropole/Mégalopole	RD	1	1
+L400	Métropolisation	Métropolisation	FA	1	1
+L401	Migration	Migration	PP & ML	1	1
+L402	Milieu	Milieu	OS	1	1
+L403	Milieu (b)	Milieu	JL	1	1
+L404	Milieu innovateur	Milieu innovateur	GB	1	1
+L405	Minorité territoriale	Minorité territoriale	GP	1	1
+L406	Mobilité	Mobilité	ML & MS	1	1
+L407	Mobilité sociale	Mobilité sociale	AG	4	1
+L408	Modèle	Modèle	FME	4	1
+L409	Modélisation graphique	Modélisation graphique	CG	2	1
+L410	Modernité	Modernité	CR	4	0
+L411	Moles, Abraham (1920-1992)	Moles Abraham	GDM	3	0
+L412	Monde	Monde	DR	1	1
+L413	Monde vécu	Monde vécu	ML	4	0
+L414	Mondialisation	Mondialisation	JL	1	1
+L415	Montagne	Montagne	BD	2	0
+L416	Morphologie sociale	Morphologie sociale	AG	4	1
+L417	Moyenne	Moyenne	HLB	4	1
+L418	Multiculturel	Multiculturel	CCh	4	0
+L419	Multivariée (Analyse)	Multivariée (Analyse)	LS	4	0
+L420	Mythe	Mythe	BD	4	1
+L421	Nation	Nation	JLM (+ ML)	1	1
+L422	Naturalisation	Naturalisation	ML	2	1
+L423	Nature	Nature	ML	4	1
+L424	Nature (Espace et)	Nature (Espace et)	ML	2	0
+L425	Network	Network	JL	1	1
+L426	New Geography	New Geography	JFS	2	0
+L427	Newton, Isaac (1642-1727)	Newton Isaac	PH	3	0
+L428	Noeud	Noeud	JMOf	1	1
+L429	Nomades/Sédentaires	Nomades/Sédentaires	DR	2	0
+L430	Nomenclature	Nomenclature	DR	2	0
+L431	Norme	Norme	CR & ML	4	1
+L432	Oasis	Oasis	DR	1	1
+L433	Objectif/Subjectif	Objectif/Subjectif	JL	4	0
+L434	Objet	Objet	CR (+ JL)	4	1
+L435	Objet de connaissance	Objet de connaissance	CR	4	1
+L436	Objet géographique	Objet géographique	ML	1	1
+L437	Observation	Observation	JFS	4	1
+L438	Organisation	Organisation	ML	4	1
+L439	Owen, Robert (1771-1858)	Owen Robert	TP	3	0
+L440	Paléolithique/Néolithique	Paléolithique/Néolithique	JL	4	0
+L441	Paradigme	Paradigme	AJMB	4	1
+L442	Parc à thème	Parc à thème	RK	1	1
+L443	Parc naturel	Parc naturel	BD	1	1
+L444	Parcours	Parcours	ML	1	1
+L445	Partie du Monde	Partie du Monde	DR	1	1
+L446	Patrimoine	Patrimoine	OLa	4	1
+L447	Pavillonnaire (Modèle)	Pavillonnaire (Modèle)	ML	1	1
+L448	Pays	Pays	JL	1	1
+L449	Paysage	Paysage	JLT	1	1
+L450	Perception	Perception	GDM	4	1
+L451	Perec, Georges (1936-1982)	Perec Georges	ML	3	0
+L452	Performativité	Performativité	LM	4	1
+L453	Périodisation	Périodisation	PG	4	1
+L454	Périurbain	Périurbain	LC	1	1
+L455	Perroux, François (1903-1987)	Perroux François	GB	3	0
+L456	Pertinence	Pertinence	JL	4	1
+L457	Petty, William (1623-1687)	Petty William	GB	3	0
+L458	Peuplement	Peuplement	HLB	1	1
+L459	Phénomène	Phénomène	JFP	4	0
+L460	Phénoménologie	Phénoménologie	GDM	4	1
+L461	Philosophie (Géographie et)	Philosophie (Géographie et)	GDM	2	0
+L462	Physiocrates (Les)	Physiocrates (Les)	GB	3	0
+L463	Physique (Géographie)	Physique (Géographie)	HR	2	0
+L464	Physique (Géographie et)	Physique (Géographie et)	ST	2	0
+L465	Piaget, Jean (1896-1980)	Piaget Jean	JL	3	0
+L466	Planification	Planification	LDe	4	1
+L467	Platon (427-347 av. J.-C.)	Platon	JFP	3	0
+L468	Polarisation	Polarisation	FME (+ ML)	1	1
+L469	Politique (Géographie)	Politique (Géographie)	GP	2	0
+L470	Ponsard, Claude (1927-1990)	Ponsard Claude	GB	3	0
+L471	Population (Géographie de la)	Population (Géographie de la)	PP	2	0
+L472	Population (Répartition de la)	Population (Répartition de la)	HLB	1	1
+L473	Position	Position	JL	1	1
+L474	Positivisme	Positivisme	CR	4	0
+L475	Possibilisme	Possibilisme	VB & OS	2	0
+L476	Post-coloniale (Géographie)	Post-coloniale (Géographie)	CH	2	0
+L477	Post-moderne (Géographie)	Post-moderne (Géographie)	JBR & HBr	2	0
+L478	Postmodernisme	Postmodernisme	CR	4	0
+L479	Pouvoir	Pouvoir	CR	4	1
+L480	Pouvoir (Géographie et)	Pouvoir (Géographie et)	JL	2	0
+L481	Pragmatique	Pragmatique	LM	4	1
+L482	Pratique	Pratique	CR	4	1
+L483	Pratique spatiale	Pratique spatiale	ML	1	1
+L484	Prédatrice (Logique)	Prédatrice (Logique)	JL	4	1
+L485	Prégnance/Saillance	Prégnance/Saillance	JL	2	0
+L486	Présent	Présent	CD	4	1
+L487	Production	Production	JL	4	1
+L488	Production de l'espace	Production de l'espace	GDM	2	0
+L489	Projet urbain	Projet urbain	LDe	1	1
+L490	Prophétie auto-réalisatrice	Prophétie auto-réalisatrice	JFS	4	1
+L491	Prospective territoriale	Prospective territoriale	SW	1	1
+L492	Proxémie	Proxémie	ML	2	0
+L493	Psychanalyse (Géographie et)	Psychanalyse (Géographie et)	AV	2	0
+L494	Psychologie (Géographie et)	Psychologie (Géographie et)	ML	2	0
+L495	Ptolémée d'Alexandrie, Claude (90-186)	Ptolémée	JFS	3	0
+L496	Quantitative (Géographie)	Quantitative (Géographie)	FME	2	0
+L497	Quartier	Quartier	ML	2	0
+L498	Radical Geography	Radical Geography	JBR	2	0
+L499	Raison	Raison	CR	4	1
+L500	Rapport	Rapport	JL	4	1
+L501	Ratzel, Friedrich (1844-1904)	Ratzel Friedrich	MS	3	0
+L502	Réalisme	Réalisme	CR	4	1
+L503	Réalité	Réalité	JL	4	1
+L504	Récit	Récit	ML	4	1
+L505	Reclus, Élisée (1830-1905)	Reclus Élisée	DH	3	0
+L506	Reconstruction	Reconstruction	JL	4	1
+L507	Reconstruction(s)	Reconstruction(s)	JBM (+ ML)	1	1
+L508	Reconversion	Reconversion	SW	1	1
+L509	Réel	Réel	CR	4	1
+L510	Réflexivité	Réflexivité	ML	4	1
+L511	Région	Région	GDM	2	0
+L512	Régionale (Géographie)	Régionale (Géographie)	JLM	2	0
+L513	Régionale (Science)	Régionale (Science)	GB	2	0
+L514	Relativisme	Relativisme	DD	4	0
+L515	Relief	Relief	HR	2	0
+L516	Religion (Espace et)	Religion (Espace et)	ML	2	0
+L517	Rénovation/Restauration/Réhabilitation	Rénovation/Restauration/Réhabilitation	LDe + ML	1	1
+L518	Représentation (I)	Représentation (I)	LM	4	1
+L519	Représentation (II)	Représentation (II)	BD	4	1
+L520	Représentation de l'espace	Représentation de l'espace	JFS	1	1
+L521	Reproduction	Reproduction	AG	4	1
+L522	Réseau	Réseau	JL	1	1
+L523	Réseau technique	Réseau technique	JMOf	1	1
+L524	Réseau urbain	Réseau urbain	GD	1	1
+L525	Ressource	Ressource	JL	4	1
+L526	Rétroaction	Rétroaction	FME	4	1
+L527	Réversibilité/Irréversibilité	Réversibilité/Irréversibilité	JL	4	0
+L528	Révolution	Révolution	PG	4	1
+L529	Rhétorique	Rhétorique	CR (+ ML)	4	1
+L530	Rhizome	Rhizome	JL	1	1
+L531	Risque	Risque	CE	4	1
+L532	Ritter, Carl (1779-1859)	Ritter Carl	MS	3	0
+L533	Rue	Rue	JL	1	1
+L534	Rural (a)	Rural	FP	1	1
+L535	Rural (b)	Rural	JL	1	1
+L536	Rurale (Géographie)	Rurale (Géographie)	FP	2	0
+L537	Santé (Géographie de la)	Santé (Géographie de la)	GS	2	0
+L538	Santos, Milton (1926-2001)	Santos Milton	JL	3	0
+L539	Sauer, Carl Ortwin (1889-1975)	Sauer Carl O.	JNE	3	0
+L540	Savoir	Savoir	JFP	4	1
+L541	Scène politique	Scène politique	ML	4	1
+L542	Schéma d'aménagement	Schéma d'aménagement	LDe	1	0
+L543	Schlüter, Otto (1872-1959)	Schlüter Otto	MS	3	0
+L544	Schmitt, Carl (1888-1985)	Schmitt Carl	CR (+ ML)	3	0
+L545	Science	Science	JFP	4	1
+L546	Science politique (Géographie et)	Science politique (Géographie et)	JL	2	0
+L547	Sciences de l'atmosphère (Géographie et)	Sciences de l'atmosphère (Géographie et)	FDD	2	0
+L548	Sciences de la nature (Sciences sociales et)	Sciences de la nature (Sciences sociales et)	CR	4	0
+L549	Sciences de la Terre (Géographie et)	Sciences de la Terre (Géographie et)	PAr (+ ML)	2	0
+L550	Sciences sociales (Géographie et)	Sciences sociales (Géographie et)	RK & MS	2	0
+L551	Scolaire (Géographie)	Scolaire (Géographie)	AMGG	2	0
+L552	Ségrégation	Ségrégation	ML	1	1
+L553	Sémiologie/Sémiotique (Géographie et)	Sémiologie/Sémiotique (Géographie et)	ML	2	0
+L554	Services	Services	MS & PhV	4	1
+L555	Seuil	Seuil	DR	1	1
+L556	Sexualité	Sexualité	MS & AV	4	1
+L557	Sexuation	Sexuation	DC	4	1
+L558	Siegfried, André (1875-1959)	Siegfried André	JL	3	0
+L559	Simmel, Georg (1858-1918)	Simmel Georg	JMB	3	0
+L560	Simondon, Gilbert (1924-1989)	Simondon Gilbert	AM	3	0
+L561	Simulation	Simulation	HLB	4	1
+L562	Singulier/Universel	Singulier/Universel	JL	4	0
+L563	Site	Site	JL	1	1
+L564	Sitte, Camillo (1843-1903)	Sitte Camillo	TP	3	0
+L565	Sociabilité	Sociabilité	AG	4	1
+L566	Social	Social	ML	4	1
+L567	Sociale (Géographie)	Sociale (Géographie)	LC	2	0
+L568	Société	Société	JL	4	1
+L569	Société-Monde	Société-Monde	RD	1	1
+L570	Sociologie (Géographie et) (a)	Sociologie (Géographie et)	AG	2	0
+L571	Sociologie (Géographie et) (b)	Sociologie (Géographie et)	ML	2	0
+L572	Sol	Sol	JLM	1	1
+L573	Sondage	Sondage	FH	4	1
+L574	Sorre, Maximilien (1880-1962)	Sorre Maximilien	OO	3	0
+L575	Spatialisme	Spatialisme	ML	2	0
+L576	Spatialité	Spatialité	ML	1	1
+L577	Statistiques	Statistiques	FME	4	1
+L578	Statistiques et sciences sociales	Statistiques et sciences sociales	HLB	4	0
+L579	Stigmatisation	Stigmatisation	FH	4	1
+L580	Strabon d'Amasée (63 ? av. J.-C. - entre 21 et 25 ap. J.-C.)	Strabon	JFS	3	0
+L581	Stratégie spatiale	Stratégie spatiale	JL	1	1
+L582	Structuralisme	Structuralisme	FD	4	0
+L583	Structure spatiale	Structure spatiale	GDM	1	1
+L584	Structures agraires	Structures agraires	FP	2	0
+L585	Substance	Substance	JL	1	1
+L586	Symbolique	Symbolique	BD	4	1
+L587	Synthétique (Géographie)	Synthétique (Géographie)	JL	2	0
+L588	Système	Système	ST	4	1
+L589	Système d'Information Géographique (SIG)	Système d'Information Géographique (SIG)	PQ	1	1
+L590	Système productif local (SPL)	Système productif local (SPL)	GB	1	1
+L591	Système spatial	Système spatial	JL & ML	1	1
+L592	Technique	Technique	JL	4	1
+L593	Technologies de l'information et de la communication (TIC)	Technologies de l'information et de la communication (TIC)	EE	4	1
+L594	Technopôle/Technopole	Technopôle/Technopole	GB	1	1
+L595	Télé-communication	Télé-communication	EE	1	1
+L596	Télétravail	Télétravail	FA	1	1
+L597	Temps (Espace et)	Temps (Espace et)	ML	2	0
+L598	Terrain	Terrain	AV	2	0
+L599	Terre	Terre	JFS (+ ML)	1	1
+L600	Territoire (a)	Territoire	JL	1	1
+L601	Territoire (b)	Territoire	BD	1	1
+L602	Territoire (c)	Territoire	JPF	1	1
+L603	Territorial (Modèle)	Territorial (Modèle)	ML	1	1
+L604	Territorialité	Territorialité	GDM	1	1
+L605	Terroir	Terroir	FP	1	1
+L606	Thématique (Géographie)	Thématique (Géographie)	JL	2	0
+L607	Théorie	Théorie	CR	4	1
+L608	Théorique (Géographie)	Théorique (Géographie)	DR	2	0
+L609	Thünen, Johann Heinrich von (1783-1850)	Thünen Johann Heinrich von	JLM	3	0
+L610	Tiers monde	Tiers monde	CL	2	0
+L611	Time Geography	Time Geography	MS	2	0
+L612	Topogenèse	Topogenèse	DR	1	1
+L613	Topographie	Topographie	JL	1	1
+L614	Topologie	Topologie	ST	1	1
+L615	Toponymie	Toponymie	DR	1	1
+L616	Topophilia	Topophilia	MS	2	0
+L617	Tourisme	Tourisme	RK & MS	1	1
+L618	Traduction	Traduction	LM	4	1
+L619	Transaction	Transaction	JL	4	1
+L620	Transition démographique	Transition démographique	HLB	4	1
+L621	Transports	Transports	PP	1	1
+L622	Tribu	Tribu	DR	4	1
+L623	Tropicale (Géographie)	Tropicale (Géographie)	DR	2	0
+L624	Turgot, Anne Robert Jacques (1727-1781)	Turgot	DR	3	0
+L625	Type-idéal	Type-idéal	JL	4	1
+L626	Typomorphologie	Typomorphologie	ML	2	0
+L627	Ubiquité	Ubiquité	JL	1	1
+L628	Ullman, Edward L. (1912-1976)	Ullman Edward L.	MS	3	0
+L629	Univers	Univers	JFP	4	1
+L630	Urbain	Urbain	ML	1	1
+L631	Urbain (Modèle)	Urbain (Modèle)	JL	1	1
+L632	Urbaine (Géographie)	Urbaine (Géographie)	ML	2	0
+L633	Urbanisation	Urbanisation	FME	1	1
+L634	Urbanisme	Urbanisme	LDe	2	0
+L635	Urbanité	Urbanité	ML	1	1
+L636	Utilitarisme	Utilitarisme	CR	4	0
+L637	Utopie	Utopie	TP (+ ML)	4	1
+L638	Valeur spatiale	Valeur spatiale	ML	1	1
+L639	Valeurs	Valeurs	AG	4	1
+L640	Vallaux, Camille (1870-1945)	Vallaux Camille	CDA	3	0
+L641	Vaterland	Vaterland	JL	1	1
+L642	Vauban, Sébastien Le Prestre de (1633-1707)	Vauban	ILL	2	0
+L643	Végétation	Végétation	PAr	2	0
+L644	Vérité	Vérité	CR	4	1
+L645	Vidal de la Blache, Paul (1845-1918) (a)	Vidal de la Blache Paul	VB & OS	3	0
+L646	Vidal de la Blache, Paul (1845-1918) (b)	Vidal de la Blache Paul	JL	3	0
+L647	Village	Village	FP	1	1
+L648	Ville	Ville	JL	1	1
+L649	Ville mondiale	Ville mondiale	FME	1	1
+L650	Ville nouvelle	Ville nouvelle	LDe	1	1
+L651	Violence	Violence	JBR & VN + PhG	4	1
+L652	Virtuel	Virtuel	JL	4	1
+L653	Visibilité (Régime de)	Visibilité (Régime de)	ML	2	0
+L654	Vitruve (Vitruvius) (Ier siècle av. J.-C.)	Vitruve	TP	3	0
+L655	Vivant	Vivant	CR (+ JL)	4	1
+L656	Voisinage	Voisinage	JL	1	1
+L657	Weber, Alfred (1868-1958)	Weber Alfred	LDa	3	0
+L658	Winnicott, Donald W. (1896-1971)	Winnicott Donald W.	AV	3	0
+L659	Zipf, George K. (1902-1950)	Zipf George K.	GB	3	0
+L660	Zonage	Zonage	SW	1	1
+L661	Zonale (Géographie)	Zonale (Géographie)	FDD	2	0
+L662	Zone climatique	Zone climatique	FDD	4	1
+L663	Zut !	Zut !	ML & JL	4	0

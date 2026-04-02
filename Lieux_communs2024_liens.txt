@@ -1,0 +1,718 @@
+LNUM	ORIGINE	DESTINATION
+L001	copropriété	pavillon
+L002	copropriété	agence immobilière
+L003	copropriété	loft
+L004	copropriété	appartement Airbnb
+L005	copropriété	squat
+L006	copropriété	toits
+L007	copropriété	Ehpad
+L008	copropriété	chambre de bonne
+L009	copropriété	potager
+L010	copropriété	quartier gay
+L011	pavillon	copropriété
+L012	pavillon	permis de construire
+L013	pavillon	magasin de bricolage
+L014	pavillon	toits
+L015	pavillon	favela
+L016	pavillon	village
+L017	pavillon	potager
+L018	pavillon	périph
+L019	pavillon	métro
+L020	pavillon	appartement Airbnb
+L021	pavillon	agence immobilière
+L022	pavillon	Ehpad
+L023	pavillon	loft
+L024	pavillon	chambre de bonne
+L025	pavillon	ghetto de riches
+L026	squat	zone
+L027	squat	pavillon
+L028	squat	appartement Airbnb
+L029	squat	chambre de bonne
+L030	squat	copropriété
+L031	squat	favela
+L032	squat	township
+L033	squat	friche
+L034	squat	bibliothèque
+L035	squat	siège de parti politique
+L036	agence immobilière	copropriété
+L037	agence immobilière	pavillon
+L038	agence immobilière	permis de construire
+L039	agence immobilière	chambre de bonne
+L040	agence immobilière	loft
+L041	agence immobilière	appartement Airbnb
+L042	agence immobilière	mairie
+L043	agence immobilière	ghetto de riches
+L044	agence immobilière	quartier d’affaires
+L045	permis de construire	pavillon
+L046	permis de construire	magasin de bricolage
+L047	permis de construire	agence immobilière
+L048	permis de construire	mairie
+L049	permis de construire	favela
+L050	permis de construire	township
+L051	permis de construire	décharge
+L052	permis de construire	chantier de démolition
+L053	permis de construire	tour de bureaux
+L054	permis de construire	friche
+L055	magasin de bricolage	chantier de démolition
+L056	magasin de bricolage	décharge
+L057	magasin de bricolage	Exposition universelle
+L058	magasin de bricolage	friche
+L059	magasin de bricolage	permis de construire
+L060	magasin de bricolage	pavillon
+L061	magasin de bricolage	toits
+L062	toits	pavillon
+L063	toits	tour de bureaux
+L064	toits	chambre de bonne
+L065	toits	loft
+L066	toits	dôme
+L067	toits	col
+L068	toits	magasin de bricolage
+L069	toits	ciel
+L070	chambre de bonne	copropriété
+L071	chambre de bonne	agence immobilière
+L072	chambre de bonne	appartement Airbnb
+L073	chambre de bonne	toits
+L074	chambre de bonne	université
+L075	chambre de bonne	bains-douches
+L076	township	favela
+L077	township	squat
+L078	township	ghetto de riches
+L079	township	territoire sacrifié
+L080	township	zone
+L081	township	décharge
+L082	favela	township
+L083	favela	squat
+L084	favela	permis de construire
+L085	favela	ghetto de riches
+L086	favela	Jeux olympiques et paralympiques
+L087	favela	territoire sacrifié
+L088	favela	pavillon
+L089	favela	toits
+L090	favela	potager
+L091	favela	zone
+L092	favela	décharge
+L093	bains-douches	chambre de bonne
+L094	bains-douches	fontaine publique
+L095	bains-douches	township
+L096	bains-douches	favela
+L097	village	Instagram
+L098	village	forêt
+L099	village	place de village
+L100	village	halles
+L101	village	MJC
+L102	village	pavillon
+L103	village	copropriété
+L104	village	mairie
+L105	village	cimetière
+L106	village	vigne
+L107	loft	pavillon
+L108	loft	appartement Airbnb
+L109	loft	ghetto de riches
+L110	loft	Ehpad
+L111	loft	quartier d’affaires
+L112	loft	agence immobilière
+L113	loft	quartier gay
+L114	loft	tour de bureaux
+L115	loft	toits
+L116	loft	chambre de bonne
+L117	loft	squat
+L118	loft	usine
+L119	chai	vigne
+L120	chai	potager
+L121	chai	village
+L122	chai	jardin
+L123	chai	rue de la soif
+L124	chai	bar
+L125	appartement Airbnb	pavillon
+L126	appartement Airbnb	chambre de bonne
+L127	appartement Airbnb	agence immobilière
+L128	appartement Airbnb	hôtel
+L129	appartement Airbnb	squat
+L130	appartement Airbnb	copropriété
+L131	appartement Airbnb	loft
+L132	appartement Airbnb	ghetto de riches
+L133	appartement Airbnb	Jeux olympiques et paralympiques
+L134	appartement Airbnb	montagne
+L135	appartement Airbnb	mer
+L136	appartement Airbnb	île
+L137	appartement Airbnb	Instagram
+L138	Ehpad	pavillon
+L139	Ehpad	village
+L140	Ehpad	appartement Airbnb
+L141	Ehpad	hôtel
+L142	Ehpad	squat
+L143	Ehpad	ghetto de riches
+L144	Ehpad	chambre de bonne
+L145	Ehpad	copropriété
+L146	Ehpad	cimetière
+L147	bar	rue de la soif
+L148	bar	village
+L149	bar	quartier d’affaires
+L150	bar	boîte de nuit
+L151	bar	casino
+L152	bar	hôtel
+L153	bar	place de village
+L154	bar	grand-place
+L155	bar	quartier gay
+L156	bar	gare
+L157	fontaine publique	bains-douches
+L158	fontaine publique	place de village
+L159	fontaine publique	jardin
+L160	fontaine publique	parc urbain
+L161	place de village	grand-place
+L162	place de village	village
+L163	place de village	épicerie
+L164	place de village	gare
+L165	place de village	mairie
+L166	place de village	bar
+L167	place de village	fontaine publique
+L168	place de village	poste
+L169	place de village	parc urbain
+L170	place de village	jardin
+L171	mairie	village
+L172	mairie	place de village
+L173	mairie	poste
+L174	mairie	école
+L175	mairie	MJC
+L176	mairie	parc urbain
+L177	mairie	jardin
+L178	mairie	cimetière
+L179	mairie	bureau de vote
+L180	mairie	stade
+L181	mairie	bibliothèque
+L182	mairie	mémorial
+L183	poste	place de village
+L184	poste	village
+L185	poste	mairie
+L186	poste	entrepôt Amazon
+L187	poste	agence immobilière
+L188	poste	carte postale
+L189	usine	loft
+L190	usine	permis de construire
+L191	usine	chantier de démolition
+L192	usine	magasin de bricolage
+L193	usine	entrepôt Amazon
+L194	usine	quartier d’affaires
+L195	usine	friche
+L196	école	bibliothèque
+L197	école	cour de récréation
+L198	école	cabinet d’histoire-géographie
+L199	école	université
+L200	école	salle de jeux d’arcade
+L201	école	zoo
+L202	école	MJC
+L203	école	musée
+L204	cour de récréation	école
+L205	cour de récréation	MJC
+L206	cour de récréation	parc urbain
+L207	cour de récréation	bibliothèque
+L208	cour de récréation	jardin
+L209	cour de récréation	salle de jeux d’arcade
+L210	université	école
+L211	université	cour de récréation
+L212	université	cabinet d’histoire-géographie
+L213	université	bibliothèque
+L214	épicerie	halles
+L215	épicerie	puces
+L216	épicerie	grand-place
+L217	épicerie	place de village
+L218	épicerie	entrepôt Amazon
+L219	épicerie	restaurant
+L220	entrepôt Amazon	usine
+L221	entrepôt Amazon	poste
+L222	entrepôt Amazon	data center
+L223	entrepôt Amazon	méga-bazar
+L224	entrepôt Amazon	puces
+L225	entrepôt Amazon	halles
+L226	entrepôt Amazon	aire de poids lourds
+L227	restaurant	hôtel
+L228	restaurant	bar
+L229	restaurant	rue de la soif
+L230	restaurant	gare
+L231	restaurant	aire de poids lourds
+L232	restaurant	épicerie
+L233	restaurant	potager
+L234	restaurant	abattoir
+L235	restaurant	parc à thèmes
+L236	halles	puces
+L237	halles	épicerie
+L238	halles	grand-place
+L239	halles	restaurant
+L240	halles	abattoir
+L241	MJC	squat
+L242	MJC	mairie
+L243	MJC	école
+L244	MJC	cour de récréation
+L245	MJC	bibliothèque
+L246	herboristerie	chai
+L247	herboristerie	jardin
+L248	herboristerie	épicerie
+L249	herboristerie	place de village
+L250	herboristerie	forêt
+L251	herboristerie	montagne
+L252	herboristerie	potager
+L253	potager	jardin
+L254	potager	parc urbain
+L255	potager	herboristerie
+L256	potager	épicerie
+L257	potager	restaurant
+L258	potager	vigne
+L259	jardin	parc urbain
+L260	jardin	herboristerie
+L261	jardin	forêt
+L262	jardin	friche
+L263	jardin	pavillon
+L264	jardin	fontaine publique
+L265	parc urbain	carte postale
+L266	parc urbain	jardin
+L267	parc urbain	forêt
+L268	parc urbain	friche
+L269	parc urbain	potager
+L270	parc urbain	fontaine publique
+L271	forêt	montagne
+L272	forêt	herboristerie
+L273	forêt	jardin
+L274	forêt	parc urbain
+L275	forêt	vigne
+L276	forêt	friche
+L277	forêt	col
+L278	forêt	golf club
+L279	forêt	Instagram
+L280	forêt	village
+L281	vigne	chai
+L282	vigne	bar
+L283	vigne	rue de la soif
+L284	vigne	boîte de nuit
+L285	vigne	Instagram
+L286	cimetière	Ehpad
+L287	cimetière	abattoir
+L288	cimetière	mémorial
+L289	cimetière	champ de bataille
+L290	Jeux olympiques et paralympiques	golf club
+L291	Jeux olympiques et paralympiques	stade
+L292	Jeux olympiques et paralympiques	ghetto de riches
+L293	Jeux olympiques et paralympiques	rodéo
+L294	Jeux olympiques et paralympiques	appartement Airbnb
+L295	Jeux olympiques et paralympiques	hôtel
+L296	Jeux olympiques et paralympiques	tribune
+L297	Jeux olympiques et paralympiques	circuit automobile
+L298	Jeux olympiques et paralympiques	métro
+L299	Jeux olympiques et paralympiques	Exposition universelle
+L300	Jeux olympiques et paralympiques	montagne
+L301	Jeux olympiques et paralympiques	mer
+L302	Jeux olympiques et paralympiques	Instagram
+L303	golf club	ghetto de riches
+L304	golf club	circuit automobile
+L305	golf club	rodéo sauvage
+L306	golf club	township
+L307	golf club	favela
+L308	golf club	parc urbain
+L309	golf club	forêt
+L310	golf club	jardin
+L311	golf club	stade
+L312	ghetto de riches	golf club
+L313	ghetto de riches	loft
+L314	ghetto de riches	favela
+L315	ghetto de riches	township
+L316	ghetto de riches	appartement Airbnb
+L317	ghetto de riches	quartier d’affaires
+L318	ghetto de riches	pavillon
+L319	ghetto de riches	agence immobilière
+L320	siège de parti politique	bureau de vote
+L321	siège de parti politique	mairie
+L322	siège de parti politique	squat
+L323	bureau de vote	mairie
+L324	bureau de vote	école
+L325	bureau de vote	siège de parti politique
+L326	bureau de vote	place de village
+L327	grand-place	place de village
+L328	grand-place	fontaine publique
+L329	grand-place	cimetière
+L330	grand-place	halles
+L331	grand-place	théâtre
+L332	grand-place	mémorial
+L333	grand-place	mairie
+L334	tribune	circuit automobile
+L335	tribune	rodéo sauvage
+L336	tribune	Jeux olympiques et paralympiques
+L337	tribune	stade
+L338	stade	tribune
+L339	stade	Jeux olympiques et paralympiques
+L340	stade	parc urbain
+L341	stade	ghetto de riches
+L342	stade	gallodrome
+L343	stade	dôme
+L344	quartier gay	rue de la soif
+L345	quartier gay	bar
+L346	quartier gay	ghetto de riches
+L347	tour de bureaux	quartier d’affaires
+L348	tour de bureaux	ghetto de riches
+L349	tour de bureaux	loft
+L350	tour de bureaux	toits
+L351	tour de bureaux	Exposition universelle
+L352	tour de bureaux	gare
+L353	tour de bureaux	métro
+L354	quartier d’affaires	tour de bureaux
+L355	quartier d’affaires	grand-place
+L356	quartier d’affaires	gare
+L357	quartier d’affaires	métro
+L358	quartier d’affaires	ghetto de riches
+L359	quartier d’affaires	poste
+L360	quartier d’affaires	data center
+L361	quartier d’affaires	halles
+L362	bibliothèque	cabinet d’histoire-géographie
+L363	bibliothèque	université
+L364	bibliothèque	école
+L365	bibliothèque	MJC
+L366	bibliothèque	mémorial
+L367	bibliothèque	salle de jeux d’arcade
+L368	bibliothèque	salle de cinéma
+L369	bibliothèque	théâtre
+L370	rodéo	gallodrome
+L371	rodéo	abattoir
+L372	rodéo	stade
+L373	rodéo	township
+L374	rodéo	golf club
+L375	rodéo	zoo
+L376	zoo	abattoir
+L377	zoo	rodéo
+L378	zoo	gallodrome
+L379	zoo	jardin
+L380	zoo	forêt
+L381	zoo	parc à thèmes
+L382	zoo	montagne
+L383	zoo	mer
+L384	gallodrome	rodéo
+L385	gallodrome	cercle de jeux
+L386	gallodrome	zoo
+L387	gallodrome	casino
+L388	cercle de jeux	gallodrome
+L389	cercle de jeux	casino
+L390	cercle de jeux	salle de jeux d’arcade
+L391	cercle de jeux	township
+L392	cercle de jeux	favela
+L393	casino	parc à thèmes
+L394	casino	cercle de jeux
+L395	casino	salle de jeux d’arcade
+L396	casino	ghetto de riches
+L397	rue de la soif	épicerie
+L398	rue de la soif	boîte de nuit
+L399	rue de la soif	casino
+L400	rue de la soif	bar
+L401	rue de la soif	quartier gay
+L402	rue de la soif	friche
+L403	rue de la soif	halles
+L404	dôme	zoo
+L405	dôme	jardin
+L406	dôme	Exposition universelle
+L407	dôme	carte postale
+L408	dôme	mer
+L409	dôme	borne géodésique
+L410	dôme	montagne
+L411	dôme	ghetto de riches
+L412	boîte de nuit	casino
+L413	boîte de nuit	pavillon
+L414	boîte de nuit	parc à thèmes
+L415	boîte de nuit	rue de la soif
+L416	boîte de nuit	bar
+L417	boîte de nuit	théâtre
+L418	boîte de nuit	salle de jeux d’arcade
+L419	boîte de nuit	restaurant
+L420	périph	autopont
+L421	périph	métro
+L422	périph	gare routière
+L423	périph	pavillon
+L424	périph	quartier d’affaires
+L425	périph	friche
+L426	autopont	périph
+L427	autopont	tour de bureaux
+L428	autopont	aire de poids lourds
+L429	autopont	gare routière
+L430	autopont	pavillon
+L431	gare routière	périph
+L432	gare routière	autopont
+L433	gare routière	aire de poids lourds
+L434	gare routière	Jeux olympiques et paralympiques
+L435	gare routière	gare
+L436	gare routière	épicerie
+L437	gare routière	aéroport
+L438	aire de poids lourds	méga-bazar
+L439	aire de poids lourds	gare routière
+L440	aire de poids lourds	autopont
+L441	aire de poids lourds	épicerie
+L442	rodéo sauvage	circuit automobile
+L443	rodéo sauvage	cercle de jeux
+L444	rodéo sauvage	boîte de nuit
+L445	rodéo sauvage	périph
+L446	circuit automobile	rodéo sauvage
+L447	circuit automobile	aire de poids lourds
+L448	circuit automobile	gare routière
+L449	circuit automobile	stade
+L450	circuit automobile	Jeux olympiques et paralympiques
+L451	métro	gare
+L452	métro	Exposition universelle
+L453	métro	pavillon
+L454	métro	périph
+L455	métro	gare routière
+L456	gare	métro
+L457	gare	gare routière
+L458	gare	aéroport
+L459	gare	carte postale
+L460	gare	friche
+L461	gare	montagne
+L462	gare	mer
+L463	pont	autopont
+L464	pont	aire de poids lourds
+L465	pont	périph
+L466	pont	grand canal
+L467	pont	carte postale
+L468	pont	col
+L469	grand canal	mer
+L470	grand canal	pont
+L471	grand canal	conseil de guerre
+L472	grand canal	sous-marin
+L473	col	montagne
+L474	col	toits
+L475	col	dôme
+L476	col	mer
+L477	col	musée
+L478	éolienne	ciel
+L479	éolienne	puits de pétrole
+L480	éolienne	pavillon
+L481	portique de sécurité	aéroport
+L482	portique de sécurité	ciel
+L483	portique de sécurité	terminal
+L484	portique de sécurité	prison
+L485	portique de sécurité	université
+L486	portique de sécurité	stade
+L487	portique de sécurité	théâtre
+L488	portique de sécurité	musée
+L489	portique de sécurité	gare
+L490	portique de sécurité	métro
+L491	aéroport	gare
+L492	aéroport	portique de sécurité
+L493	aéroport	terminal
+L494	aéroport	ciel
+L495	aéroport	casino
+L496	aéroport	métro
+L497	aéroport	gare routière
+L498	aéroport	salle de contrôle
+L499	terminal	aéroport
+L500	terminal	portique de sécurité
+L501	terminal	gare
+L502	terminal	pont
+L503	ciel	aéroport
+L504	ciel	terminal
+L505	ciel	éolienne
+L506	ciel	champ de bataille
+L507	ciel	salle de contrôle
+L508	zone	périph
+L509	zone	friche
+L510	zone	autopont
+L511	puces	halles
+L512	puces	épicerie
+L513	puces	squat
+L514	puces	friche
+L515	puces	métro
+L516	puces	périph
+L517	salle de contrôle	prison
+L518	salle de contrôle	data center
+L519	salle de contrôle	portique de sécurité
+L520	salle de contrôle	terminal
+L521	salle de contrôle	conseil de guerre
+L522	data center	entrepôt Amazon
+L523	data center	friche
+L524	data center	parc à thèmes
+L525	data center	salle de contrôle
+L526	data center	portique de sécurité
+L527	data center	usine
+L528	data center	sous-marin
+L529	réserves des musées	musée
+L530	réserves des musées	entrepôt Amazon
+L531	réserves des musées	cabinet d’histoire-géographie
+L532	réserves des musées	bibliothèque
+L533	friche	zone
+L534	friche	squat
+L535	friche	usine
+L536	friche	Exposition universelle
+L537	friche	décharge
+L538	friche	chantier de démolition
+L539	décharge	chantier de démolition
+L540	décharge	territoire sacrifié
+L541	décharge	zone
+L542	décharge	township
+L543	décharge	favela
+L544	décharge	friche
+L545	décharge	squat
+L546	territoire sacrifié	abattoir
+L547	territoire sacrifié	zone
+L548	territoire sacrifié	friche
+L549	territoire sacrifié	décharge
+L550	territoire sacrifié	township
+L551	territoire sacrifié	circuit automobile
+L552	territoire sacrifié	rodéo sauvage
+L553	chantier de démolition	favela
+L554	chantier de démolition	magasin de bricolage
+L555	chantier de démolition	friche
+L556	chantier de démolition	décharge
+L557	prison	Guantanamo
+L558	prison	bureau de libération conditionnelle
+L559	prison	portique de sécurité
+L560	prison	salle de contrôle
+L561	bureau de libération conditionnelle	prison
+L562	bureau de libération conditionnelle	Guantanamo
+L563	Guantanamo	casino
+L564	Guantanamo	pavillon
+L565	Guantanamo	parc à thèmes
+L566	Guantanamo	île
+L567	Guantanamo	prison
+L568	Guantanamo	bureau de libération conditionnelle
+L569	Guantanamo	conseil de guerre
+L570	Guantanamo	sous-marin
+L571	abattoir	usine
+L572	abattoir	halles
+L573	abattoir	épicerie
+L574	abattoir	puces
+L575	stand de tir	prison
+L576	stand de tir	champ de bataille
+L577	stand de tir	conseil de guerre
+L578	sous-marin	mer
+L579	sous-marin	bateau-pirate
+L580	sous-marin	conseil de guerre
+L581	sous-marin	champ de bataille
+L582	sous-marin	Guantanamo
+L583	sous-marin	île
+L584	bateau-pirate	mer
+L585	bateau-pirate	phare
+L586	bateau-pirate	borne géodésique
+L587	bateau-pirate	sous-marin
+L588	bateau-pirate	île
+L589	mur	favela
+L590	mur	township
+L591	mur	ghetto de riches
+L592	mur	terminal
+L593	borne géodésique	méridien
+L594	borne géodésique	montagne
+L595	borne géodésique	forêt
+L596	méridien	borne géodésique
+L597	méridien	mer
+L598	méridien	phare
+L599	Exposition universelle	Jeux olympiques et paralympiques
+L600	Exposition universelle	parc à thèmes
+L601	Exposition universelle	carte postale
+L602	Exposition universelle	dôme
+L603	Exposition universelle	métro
+L604	Exposition universelle	friche
+L605	méga-bazar	halles
+L606	méga-bazar	épicerie
+L607	méga-bazar	grand-place
+L608	parc à thèmes	zoo
+L609	parc à thèmes	Exposition universelle
+L610	parc à thèmes	salle de jeux d’arcade
+L611	tatami	chambre de bonne
+L612	tatami	appartement Airbnb
+L613	tatami	loft
+L614	tatami	squat
+L615	tatami	pavillon
+L616	tatami	hôtel
+L617	hôtel	appartement Airbnb
+L618	hôtel	aéroport
+L619	hôtel	Ehpad
+L620	hôtel	squat
+L621	hôtel	pavillon
+L622	hôtel	loft
+L623	hôtel	copropriété
+L624	hôtel	prison
+L625	hôtel	usine
+L626	salle de cinéma	théâtre
+L627	salle de cinéma	salle de jeux d’arcade
+L628	salle de cinéma	bibliothèque
+L629	salle de cinéma	grand-place
+L630	salle de cinéma	restaurant
+L631	salle de cinéma	MJC
+L632	salle de cinéma	casino
+L633	théâtre	salle de cinéma
+L634	théâtre	musée
+L635	théâtre	boîte de nuit
+L636	théâtre	réserves des musées
+L637	théâtre	friche
+L638	musée	salle de cinéma
+L639	musée	théâtre
+L640	musée	réserves des musées
+L641	musée	bibliothèque
+L642	musée	mémorial
+L643	musée	cabinet d’histoire-géographie
+L644	musée	Exposition universelle
+L645	conseil de guerre	champ de bataille
+L646	conseil de guerre	salle de contrôle
+L647	conseil de guerre	portique de sécurité
+L648	conseil de guerre	prison
+L649	conseil de guerre	Guantanamo
+L650	conseil de guerre	sous-marin
+L651	conseil de guerre	stand de tir
+L652	champ de bataille	conseil de guerre
+L653	champ de bataille	sous-marin
+L654	champ de bataille	stand de tir
+L655	champ de bataille	territoire sacrifié
+L656	champ de bataille	Guantanamo
+L657	mémorial	cimetière
+L658	mémorial	champ de bataille
+L659	mémorial	conseil de guerre
+L660	mémorial	musée
+L661	puits de pétrole	circuit automobile
+L662	puits de pétrole	aire de poids lourds
+L663	puits de pétrole	périph
+L664	puits de pétrole	éolienne
+L665	montagne	ciel
+L666	montagne	col
+L667	montagne	mer
+L668	montagne	île
+L669	montagne	forêt
+L670	montagne	carte postale
+L671	montagne	Instagram
+L672	mer	sous-marin
+L673	mer	île
+L674	mer	montagne
+L675	mer	bateau-pirate
+L676	mer	phare
+L677	mer	puits de pétrole
+L678	mer	grand canal
+L679	mer	autopont
+L680	mer	carte postale
+L681	mer	Instagram
+L682	île	mer
+L683	île	zone
+L684	île	ghetto de riches
+L685	île	grand canal
+L686	île	Guantanamo
+L687	île	bateau-pirate
+L688	phare	sous-marin
+L689	phare	mer
+L690	phare	bateau-pirate
+L691	phare	salle de contrôle
+L692	phare	data center
+L693	phare	borne géodésique
+L694	cabinet d’histoire-géographie	école
+L695	cabinet d’histoire-géographie	cour de récréation
+L696	cabinet d’histoire-géographie	université
+L697	cabinet d’histoire-géographie	bibliothèque
+L698	cabinet d’histoire-géographie	musée
+L699	cabinet d’histoire-géographie	réserves des musées
+L700	salle de jeux d’arcade	cercle de jeux
+L701	salle de jeux d’arcade	parc à thèmes
+L702	salle de jeux d’arcade	cour de récréation
+L703	Instagram	carte postale
+L704	Instagram	appartement Airbnb
+L705	Instagram	parc à thèmes
+L706	Instagram	Exposition universelle
+L707	Instagram	mer
+L708	Instagram	île
+L709	Instagram	montagne
+L710	Instagram	forêt
+L711	carte postale	Instagram
+L712	carte postale	gare
+L713	carte postale	île
+L714	carte postale	mer
+L715	carte postale	montagne
+L716	carte postale	appartement Airbnb
+L717	carte postale	aéroport
