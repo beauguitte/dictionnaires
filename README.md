@@ -15,4 +15,4 @@ Bussi, Michel, Martine Drozdz, et Fabrice Argounès, éd. 2024. _Nos lieux commu
 
 Collectif GéoXXI, éd. 2025. _Géographies, un dictionnaire_. Paris : CNRS Éditions.
 
-Voir le fichier _metadonnees.pdf_ pour le descriptif des fichhiers et des variables. Un script R permet d'explorer les données.
+Voir le fichier _metadonnees.pdf_ pour le descriptif des fichiers et des variables. Un script R permet d'explorer les données.
