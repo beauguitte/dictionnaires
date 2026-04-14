@@ -1,0 +1,78 @@
+Nom	NOM_Prenom	ROLE	TEXTE
+Ghorra-Gobin Cynthia	GHORRA-GOBIN_Cynthia	Direction d’ouvrage	Géographe, CNRS, directeur de recherche au CREDA (centre de recherche et de documentation des Amériques), enseigne à l’Institut d’études politiques et à l’IHEAL (université Paris 3- Sorbonne-Nouvelle).
+Azuelos Martine	AZUELOS_Martine	Coordination scientifique	économiste et américaniste, professeur à l’université de Paris III
+Distler Catherine	DISTLER_Catherine	Coordination scientifique	économiste
+Grataloup Christian	GRATALOUP_Christian	Coordination scientifique	géographe, professeur à l’université Paris 7–Denis-Diderot
+Ambrosi Philippe	AMBROSI_Philippe	Auteurs	économiste, Banque mondiale
+Amilhat Szary Anne-Laure	AMILHAT-SZARY_Anne-Laure	Auteurs	géographe, maître de conférences à l’université de Grenoble
+Aparecida di Mello Théry Neli	APARECIDA-DI-MELLO-THÉRY_Neli	Auteurs	géographe, professeur à l’université de São Paulo
+Attali Michel	ATTALI_Michel	Auteurs	géographe, maître de conférences à l’université de Grenoble
+Auby Bernard	AUBY_Bernard	Auteurs	juriste, professeur et directeur de la Chaire « Mutations de l’Action Publique », Institut d’études politiques de Paris
+Bernheim Alain	BERNHEIM_Alain	Auteurs	médecin, directeur de recherche, INSERM
+Berque Augustin	BERQUE_Augustin	Auteurs	géographe, directeur d’Études (émérite) à l’EHESS
+Boëtsch Gilles	BOËTSCH_Gilles	Auteurs	écologue, directeur de recherche CNRS/INEE
+Bourdin Juliette	BOURDIN_Juliette	Auteurs	politologue, maître de conférences à l’université Paris 8
+Boyer Yves	BOYER_Yves	Auteurs	Fondation nationale de la recherche stratégique
+Bricas Nicolas	BRICAS_Nicolas	Auteurs	économiste, CIRAD
+Brodhag Christian	BRODHAG_Christian	Auteurs	ingénieur, professeur à l’École des Mines (Saint-Étienne) et ancien Délégué interministériel au développement durable (Paris)
+Bruneau Michel	BRUNEAU_Michel	Auteurs	géographe, directeur de recherche émérite CNRS
+Cattan Nadine	CATTAN_Nadine	Auteurs	géographe, directeur de recherche CNRS
+Charpenel Yves	CHARPENEL_Yves	Auteurs	magistrat, président de la fondation Scelles
+Clotuche Gabrielle	CLOTUCHE_Gabrielle	Auteurs	ancien directeur de la Commission européenne, Conseiller spécial auprès du Secrétaire général de la Confédération européenne des syndicats
+Cohen Marianne	COHEN_Marianne	Auteurs	géographe, maître de conférences à l’université Paris 7-Denis-Diderot
+Cohen Samy	COHEN_Samy	Auteurs	politologue, directeur de recherche, CERI
+Cottias Myriam	COTTIAS_Myriam	Auteurs	historienne, directeur de recherche CNRS
+Culot Maurice	CULOT_Maurice	Auteurs	architecte, Paris
+Dauriac Jean-Michel	DAURIAC_Jean-Michel	Auteurs	géographe, classes préparatoires, Bordeaux
+Degryze Christophe	DEGRYZE_Christophe	Auteurs	journaliste
+Deprez Camille	DEPREZ_Camille	Auteurs	spécialiste des médias, université baptiste de Hong Kong
+Desbois Henri	DESBOIS_Henri	Auteurs	géographe, maître de conférences université Paris Ouest-La Défense
+Dieckhoff Alain	DIECKHOFF_Alain	Auteurs	politologue, directeur de recherche, CNRS-CERI
+Djament Géraldine	DJAMENT_Géraldine	Auteurs	géographe, maître de conférences à l’université de Strasbourg
+Durand-Dastès François	DURAND-DASTÈS_François	Auteurs	géographe, professeur émérite à l’université de Paris 7-Denis-Diderot
+Fort Monique	FORT_Monique	Auteurs	géographe, professeur à l’université Paris 7-Denis-Diderot
+Frau-Meiggs Divina	FRAU-MEIGGS_Divina	Auteurs	sociologue et américaniste, professeur à l’université Paris III
+Frétigny Jean-Baptiste	FRÉTIGNY_Jean-Baptiste	Auteurs	géographe, université Paris 1-Panthéon-Sorbonne
+Gadrey Jean	GADREY_Jean	Auteurs	économiste, professeur émérite à l’université de Lille
+Garcier Romain	GARCIER_Romain	Auteurs	géographe, École normale supérieure de Lyon
+Gervais-Lambony Philippe	GERVAIS-LAMBONY_Philippe	Auteurs	géographe, professeur à l’université Paris Ouest-Nanterre-La Défense
+Gérin-Grataloup Anne-Marie	GÉRIN-GRATALOUP_Anne-Marie	Auteurs	géographe, professeur à l’IUFM de Créteil
+Gobin Christophe	GOBIN_Christophe	Auteurs	économiste-ingénieur, responsable de la recherche dans une entreprise privée (Paris)
+Gobin Ulrique	GOBIN_Ulrique	Auteurs	ingénieur, spécialiste de logistique
+Grasland Claude	GRASLAND_Claude	Auteurs	géographe, professeur à l’université Paris 7–Denis-Diderot
+Guichard Éric	GUICHARD_Éric	Auteurs	ENSSIB (École nationale supérieure des sciences de l’information et des bibliothèques), responsable de l’équipe Réseaux, Savoir et Territoires de l’ENS, Paris
+Herrenschmidt Claire	HERRENSCHMIDT_Claire	Auteurs	linguiste, CNRS
+Jaffrelot Christophe	JAFFRELOT_Christophe	Auteurs	politologue, directeur de recherche, CNRS, CERI
+Joseph Didier	JOSEPH_Didier	Auteurs	ingénieur, travaille pour une banque
+Kastoryano Riva	KASTORYANO_Riva	Auteurs	politologue-sociologue, directeur de recherche, CNRS-CERI
+Kergomard Claude	KERGOMARD_Claude	Auteurs	géographe, professeur à l’École normale supérieure, directeur du département de géographie, Paris
+Kersvadoué Jean (de)	KERSVADOUÉ_Jean-de	Auteurs	économiste, professeur au CNAM
+Kienle Eberhard	KIENLE_Eberhard	Auteurs	politologue, directeur de recherche CNRS, Institut d’études politiques de Grenoble
+Lacoste Olivier	LACOSTE_Olivier	Auteurs	économiste, administrateur civil, ancien directeur des études à Confrontations Europe
+Laganier Richard	LAGANIER_Richard	Auteurs	géographe, professeur à l’université Paris 7-Denis-Diderot
+Lascoumes Pierre	LASCOUMES_Pierre	Auteurs	sociologue, directeur de recherche, CNRS-CERI
+Lavrard-Meyer Cécile	LAVRARD-MEYER_Cécile	Auteurs	Fellow Harvard University/université Paris 3-Sorbonne-Nouvelle
+Lefort Isabelle	LEFORT_Isabelle	Auteurs	géographe, professeur à l’université Lyon II
+Le Tourneau François-Michel	LE-TOURNEAU_François-Michel	Auteurs	géographe CNRS, CREDA adjoint au directeur
+Leclerc-Olive Michèle	LECLERC-OLIVE_Michèle	Auteurs	sociologue, CNRS-EHESS
+Lherm Adrien	LHERM_Adrien	Auteurs	historien et américaniste, maître de conférences à l’université Paris IV
+Loing Bernard	LOING_Bernard	Auteurs	président du Comité de liaison des ONG à l’Unesco
+Moreau-Desfarges Philippe	MOREAU-DESFARGES_Philippe	Auteurs	politologue, chercheur à l’IFRI  et professeur à Institut d’études politiques de Paris
+Morris Christopher	MORRIS_Christopher	Auteurs	philosophe, professeur à l’université du Maryland (États-Unis)
+Nègre Anne	NÈGRE_Anne	Auteurs	avocate et vice-présidente d’IFUW (International Federation of University Women)
+Padis Marc-Olivier	PADIS_Marc-Olivier	Auteurs	sociologue, rédacteur en chef de la revue Esprit
+Pasco Xavier	PASCO_Xavier	Auteurs	politologue, chercheur, FRS
+Petiteville Franck	PETITEVILLE_Franck	Auteurs	politologue, professeur à l’Institut d’études politiques de Grenoble
+Reghezza-Zitt Magali	REGHEZZA-ZITT_Magali	Auteurs	géographe, École normale supérieure de Paris
+Sadoun Marc	SADOUN_Marc	Auteurs	politologue, professeur à l’Institut d’études politiques de Paris
+Saint-Martin Jean	SAINT-MARTIN_Jean	Auteurs	géographe, université de Grenoble
+Sainteville Maude	SAINTEVILLE_Maude	Auteurs	géographe, professeur en classes préparatoires littéraires, Tours
+Schonbrodt René	SCHONBRODT_René	Auteurs	sociologue, professeur émérite, université libre de Bruxelles
+Théry Hervé	THÉRY_Hervé	Auteurs	géographe, directeur de recherche, CNRS, professeur à l’université de São Paulo (chaire Pierre Monbeig)
+Tournay Virginie	TOURNAY_Virginie	Auteurs	politologue, CNRS, Grenoble
+Velut Sébastien	VELUT_Sébastien	Auteurs	géographe, professeur à l’université Paris 3-Sorbonne-Nouvelle, directeur de l’IHEAL et du CREDA
+Verdeil Éric	VERDEIL_Éric	Auteurs	géographe, CNRS
+Jean-Marc Sorel	SOREL_Jean-Marc	NA	auteur de la notice « Justice internationale », non présent dans la liste
+Jean-Paul GRUN	GRUN_Jean-Paul	NA	auteur de la notice « Marché de l’art », non présent dans la liste
+Philippe Duhamel	DUHAMEL_Philippe	NA	auteur de la notice « Tourisme », non présent dans la liste
+Axel Ducourneau	DUCOURNEAU_Axel	NA	co-auteur de la notice « Grande muraille verte », non présent dans la liste

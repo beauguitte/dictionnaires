@@ -1,0 +1,1588 @@
+LNUM	ENTREE	ORIGINE	RENVOIS	DESTINATION
+L0001	Actifs toxiques	actifs toxiques	capitalisme	capitalisme
+L0002	Actifs toxiques	actifs toxiques	crise	crise
+L0003	Actifs toxiques	actifs toxiques	économie	économie
+L0004	Actifs toxiques	actifs toxiques	gouvernance	gouvernance
+L0005	Actifs toxiques	actifs toxiques	risque systémique	risque systémique
+L0006	Actifs toxiques	actifs toxiques	subprime	subprime
+L0007	Aéroport	aéroport	centre/périphérie	centre/périphérie
+L0008	Aéroport	aéroport	flux	flux
+L0009	Aéroport	aéroport	métropolisation	métropolisation
+L0010	Aéroport	aéroport	mobilité	mobilité
+L0011	Aéroport	aéroport	réseau	réseau
+L0012	Aéroport	aéroport	territoire	territoire
+L0013	Aéroport	aéroport	transport et échange	transport et échange
+L0014	Agence de notation	agence de notation	capitalisme	capitalisme
+L0015	Agence de notation	agence de notation	crise	crise
+L0016	Agence de notation	agence de notation	crises (financières)	crises (financières)
+L0017	Agence de notation	agence de notation	dette (extérieure)	dette (extérieure)
+L0018	Agence de notation	agence de notation	État	État
+L0019	Agence de notation	agence de notation	globalisation	globalisation
+L0020	Agence de notation	agence de notation	risque économique	risque économique
+L0021	Agro-impérialisme	agro-impérialisme	changement climatique	changement climatique
+L0022	Agro-impérialisme	agro-impérialisme	économie	économie
+L0023	Agro-impérialisme	agro-impérialisme	faim/famine	faim/famine
+L0024	Agro-impérialisme	agro-impérialisme	globalisation	globalisation
+L0025	Agro-impérialisme	agro-impérialisme	libéralisation	libéralisation
+L0026	Agro-impérialisme	agro-impérialisme	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0027	Agro-impérialisme	agro-impérialisme	pauvreté	pauvreté
+L0028	Agro-impérialisme	agro-impérialisme	sécurité alimentaire	sécurité alimentaire
+L0029	Agro-impérialisme	agro-impérialisme	société civile	société civile
+L0030	Aide d'État	aide d’état	économie	économie
+L0031	Aide d'État	aide d’état	gouvernance	gouvernance
+L0032	Aide d'État	aide d’état	libre-échange	libre-échange
+L0033	Aide d'État	aide d’état	TIC	TIC
+L0034	Aide publique au développement	aide publique au développement	développement	développement
+L0035	Aide publique au développement	aide publique au développement	État	État
+L0036	Aide publique au développement	aide publique au développement	faim/famine	faim/famine
+L0037	Aide publique au développement	aide publique au développement	migrations internationales	migrations internationales
+L0038	Aide publique au développement	aide publique au développement	pauvreté	pauvreté
+L0039	Aide publique au développement	aide publique au développement	société civile	société civile
+L0042	Altermondialisme	altermondialisme	capitalisme	capitalisme
+L0043	Altermondialisme	altermondialisme	décroissance	décroissance
+L0040	Altermondialisme	altermondialisme	démondialisation	démondialisation
+L0044	Altermondialisme	altermondialisme	démondialisation	démondialisation
+L0045	Altermondialisme	altermondialisme	développement durable	développement durable
+L0046	Altermondialisme	altermondialisme	écologie	écologie
+L0047	Altermondialisme	altermondialisme	économie	économie
+L0048	Altermondialisme	altermondialisme	humanitaire	humanitaire
+L0041	Altermondialisme	altermondialisme	indignés	indignés
+L0049	Altermondialisme	altermondialisme	sommet international	sommet international
+L0050	Américanisation	américanisation	altermondialisme	altermondialisme
+L0051	Américanisation	américanisation	anglosphère	anglosphère
+L0052	Américanisation	américanisation	capitalisme	capitalisme
+L0053	Américanisation	américanisation	cinéma	cinéma
+L0056	Américanisation	américanisation	États-Unis	États-Unis
+L0054	Américanisation	américanisation	Europe	Europe
+L0055	Américanisation	américanisation	globalisation	globalisation
+L0057	Américanisation	américanisation	glocal	glocal
+L0058	Américanisation	américanisation	industries créatives	industries créatives
+L0059	Américanisation	américanisation	minorité	minorité
+L0060	Américanisation	américanisation	mondialisation	mondialisation
+L0061	Américanisation	américanisation	multiculturalisme	multiculturalisme
+L0062	Anglosphère	anglosphère	civilisations (choc des)	civilisations (choc des)
+L0063	Anglosphère	anglosphère	colonisation/décolonisation	colonisation/décolonisation
+L0064	Anglosphère	anglosphère	économie	économie
+L0065	Anglosphère	anglosphère	éducation	éducation
+L0066	Anglosphère	anglosphère	mondialisation	mondialisation
+L0067	Anglosphère	anglosphère	puissance	puissance
+L0068	Architecture durable	architecture durable	biodiversité	biodiversité
+L0071	Architecture durable	architecture durable	développement durable	développement durable
+L0069	Architecture durable	architecture durable	écologie	écologie
+L0070	Architecture durable	architecture durable	esthétique urbaine	esthétique urbaine
+L0072	Architecture durable	architecture durable	métropolisation	métropolisation
+L0073	Arctique	arctique	changement climatique	changement climatique
+L0074	Arctique	arctique	commerce international	commerce international
+L0075	Arctique	arctique	énergie	énergie
+L0076	Arctique	arctique	ressources naturelles	ressources naturelles
+L0077	Arctique	arctique	Terre	Terre
+L0078	Arctique	arctique	transport et échange	transport et échange
+L0079	Art	art	esthétique urbaine	esthétique urbaine
+L0080	Art	art	marché de l'art	marché de l'art
+L0082	Art	art	patrimoine	patrimoine
+L0081	Art	art	restitution des objets d'art	restitution des objets d'art
+L0083	Art	art	universalisme	universalisme
+L0084	Assurance	assurance	catastrophe	catastrophe
+L0085	Assurance	assurance	changement climatique	changement climatique
+L0086	Assurance	assurance	globalisation	globalisation
+L0087	Assurance	assurance	pandémie	pandémie
+L0088	Assurance	assurance	principe de précaution	principe de précaution
+L0089	Assurance	assurance	risque	risque
+L0090	Autochtone (peuple)	autochtone (peuple)	biodiversité	biodiversité
+L0098	Autochtones	autochtones	biodiversité	biodiversité
+L0091	Autochtone (peuple)	autochtone (peuple)	changement climatique	changement climatique
+L0099	Autochtones	autochtones	développement durable	développement durable
+L0092	Autochtone (peuple)	autochtone (peuple)	écologie	écologie
+L0093	Autochtone (peuple)	autochtone (peuple)	économie	économie
+L0094	Autochtone (peuple)	autochtone (peuple)	État	État
+L0100	Autochtones	autochtones	État	État
+L0095	Autochtone (peuple)	autochtone (peuple)	forêts	forêts
+L0101	Autochtones	autochtones	forêts	forêts
+L0096	Autochtone (peuple)	autochtone (peuple)	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0102	Autochtones	autochtones	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0097	Autochtone (peuple)	autochtone (peuple)	société civile	société civile
+L0103	Autochtones	autochtones	société civile	société civile
+L0104	Avantage comparatif	avantage comparatif	avantage compétitif	avantage compétitif
+L0105	Avantage comparatif	avantage comparatif	capitalisme	capitalisme
+L0106	Avantage comparatif	avantage comparatif	commerce international	commerce international
+L0107	Avantage comparatif	avantage comparatif	division internationale du travail	division internationale du travail
+L0108	Avantage comparatif	avantage comparatif	économie	économie
+L0109	Avantage comparatif	avantage comparatif	globalisation	globalisation
+L0110	Avantage comparatif	avantage comparatif	métropolisation	métropolisation
+L0111	Avantage comparatif	avantage comparatif	ville globale	ville globale
+L0112	Avantage compétitif	avantage compétitif	avantage comparatif	avantage comparatif
+L0113	Avantage compétitif	avantage compétitif	capitalisme	capitalisme
+L0114	Avantage compétitif	avantage compétitif	compétitivité	compétitivité
+L0115	Avantage compétitif	avantage compétitif	frontière	frontière
+L0116	Avantage compétitif	avantage compétitif	globalisation	globalisation
+L0117	Avantage compétitif	avantage compétitif	territoire	territoire
+L0118	Avantage compétitif	avantage compétitif	transport et échange	transport et échange
+L0119	Banque	banque	capitalisme	capitalisme
+L0120	Banque	banque	crise	crise
+L0121	Banque	banque	crises (financières)	crises (financières)
+L0122	Banque	banque	déréglementation	déréglementation
+L0123	Banque	banque	État	État
+L0124	Banque	banque	globalisation	globalisation
+L0125	Banque	banque	virtuel	virtuel
+L0126	Bien commun	bien commun	biodiversité	biodiversité
+L0127	Bien commun	bien commun	changement climatique	changement climatique
+L0128	Bien commun	bien commun	écosystémiques (services)	écosystémiques (services)
+L0129	Bien commun	bien commun	forêts	forêts
+L0131	Bien commun	bien commun	gouvernance	gouvernance
+L0130	Bien commun	bien commun	mondialisation	mondialisation
+L0132	Biocarburants/agrocombustibles	biocarburants/agrocombustibles	eau	eau
+L0133	Biocarburants/agrocombustibles	biocarburants/agrocombustibles	émergents (pays et puissances)	émergents (pays et puissances)
+L0134	Biocarburants/agrocombustibles	biocarburants/agrocombustibles	faim/famine	faim/famine
+L0135	Biocarburants/agrocombustibles	biocarburants/agrocombustibles	organisation internationale	organisation internationale
+L0136	Biocarburants/agrocombustibles	biocarburants/agrocombustibles	pétrole	pétrole
+L0137	Biocarburants/agrocombustibles	biocarburants/agrocombustibles	sécurité alimentaire	sécurité alimentaire
+L0138	Biocarburants/agrocombustibles	biocarburants/agrocombustibles	transport et échange	transport et échange
+L0139	Biodiversité	biodiversité	développement durable	développement durable
+L0140	Biodiversité	biodiversité	écosystémiques (services)	écosystémiques (services)
+L0141	Biodiversité	biodiversité	médicament	médicament
+L0142	Biodiversité	biodiversité	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0143	Biodiversité	biodiversité	principe de précaution	principe de précaution
+L0144	Biodiversité	biodiversité	propriété	propriété
+L0145	Biodiversité	biodiversité	ressources naturelles	ressources naturelles
+L0146	Biodiversité	biodiversité	souveraineté	souveraineté
+L0147	Biodiversité	biodiversité	Terre	Terre
+L0148	Bourse	bourse	capitalisme	capitalisme
+L0149	Bourse	bourse	crises (financières)	crises (financières)
+L0150	Bourse	bourse	déréglementation	déréglementation
+L0151	Bourse	bourse	globalisation	globalisation
+L0152	Bourse	bourse	gouvernance	gouvernance
+L0153	Bourse	bourse	marché carbone	marché carbone
+L0154	Bourse	bourse	régulation	régulation
+L0155	Bourse	bourse	TIC	TIC
+L0156	Bourse	bourse	virtuel	virtuel
+L0157	Capitalisme	capitalisme	altermondialisme	altermondialisme
+L0158	Capitalisme	capitalisme	crise	crise
+L0159	Capitalisme	capitalisme	crises (financières)	crises (financières)
+L0160	Capitalisme	capitalisme	démocratie	démocratie
+L0161	Capitalisme	capitalisme	État	État
+L0162	Capitalisme	capitalisme	firme globale	firme globale
+L0163	Capitalisme	capitalisme	firme multinationale	firme multinationale
+L0164	Capitalisme	capitalisme	globalisation	globalisation
+L0165	Capitalisme	capitalisme	gouvernance	gouvernance
+L0166	Capitalisme	capitalisme	marché	marché
+L0167	Capitalisme	capitalisme	mondialisation	mondialisation
+L0168	Cartes du monde	cartes du monde	centre/périphérie	centre/périphérie
+L0169	Cartes du monde	cartes du monde	colonisation/décolonisation	colonisation/décolonisation
+L0170	Cartes du monde	cartes du monde	globalisation	globalisation
+L0171	Cartes du monde	cartes du monde	mondialisation	mondialisation
+L0172	Cartes du monde	cartes du monde	Terre	Terre
+L0173	Catastrophe	catastrophe	changement climatique	changement climatique
+L0174	Catastrophe	catastrophe	écoumène	écoumène
+L0175	Catastrophe	catastrophe	risque	risque
+L0176	Catastrophe	catastrophe	risque environnemental	risque environnemental
+L0177	Catastrophe	catastrophe	Terre	Terre
+L0178	Catastrophe	catastrophe	vulnérabilité	vulnérabilité
+L0179	Centre/périphérie	centre/périphérie	État	État
+L0180	Centre/périphérie	centre/périphérie	flux	flux
+L0181	Centre/périphérie	centre/périphérie	métropolisation	métropolisation
+L0182	Centre/périphérie	centre/périphérie	mondialisation	mondialisation
+L0183	Centre/périphérie	centre/périphérie	Nord/Sud	Nord/Sud
+L0184	Changement climatique	changement climatique	biodiversité	biodiversité
+L0185	Changement climatique	changement climatique	catastrophe	catastrophe
+L0186	Changement climatique	changement climatique	développement durable	développement durable
+L0187	Changement climatique	changement climatique	écologie	écologie
+L0188	Changement climatique	changement climatique	écosystémiques (services)	écosystémiques (services)
+L0189	Changement climatique	changement climatique	forêts	forêts
+L0190	Changement climatique	changement climatique	marché carbone	marché carbone
+L0191	Changement climatique	changement climatique	risque	risque
+L0192	Changement climatique	changement climatique	Terre	Terre
+L0193	Chinamérique	Chinamérique	capitalisme	capitalisme
+L0194	Chinamérique	Chinamérique	changement climatique	changement climatique
+L0195	Chinamérique	Chinamérique	État	État
+L0196	Chinamérique	Chinamérique	globalisation	globalisation
+L0197	Chinamérique	Chinamérique	mondialisation	mondialisation
+L0198	Chinamérique	Chinamérique	monnaie	monnaie
+L0199	Chinamérique	Chinamérique	puissance	puissance
+L0200	Chômage	chômage	altermondialisme	altermondialisme
+L0201	Chômage	chômage	clandestin	clandestin
+L0202	Chômage	chômage	crise	crise
+L0203	Chômage	chômage	décroissance	décroissance
+L0204	Chômage	chômage	délocalisation	délocalisation
+L0205	Chômage	chômage	désindustrialisation	désindustrialisation
+L0206	Chômage	chômage	minorité	minorité
+L0207	Chômage	chômage	restructuration industrielle	restructuration industrielle
+L0208	Cinéma	cinéma	américanisation	américanisation
+L0209	Cinéma	cinéma	centre-périphérie	centre/périphérie
+L0210	Cinéma	cinéma	consommation (société de)	consommation (société de)
+L0211	Cinéma	cinéma	culture-monde	culture-monde
+L0212	Cinéma	cinéma	émergents (pays et puissances)	émergents (pays et puissances)
+L0213	Cinéma	cinéma	mondialisation	mondialisation
+L0214	Citadinité	citadinité	citoyenneté	citoyenneté
+L0215	Citadinité	citadinité	multiculturalisme	multiculturalisme
+L0216	Citadinité	citadinité	ville	ville
+L0217	Citadinité	citadinité	ville globale	ville globale
+L0218	Citoyenneté	citoyenneté	citadinité	citadinité
+L0219	Citoyenneté	citoyenneté	démocratie	démocratie
+L0220	Citoyenneté	citoyenneté	État	État
+L0221	Citoyenneté	citoyenneté	migrations internationales	migrations internationales
+L0222	Citoyenneté	citoyenneté	minorité	minorité
+L0223	Citoyenneté	citoyenneté	nation/nationalisme	nation/nationalisme
+L0224	Citoyenneté	citoyenneté	territoire	territoire
+L0225	Civilisations (choc des)	civilisations (choc des)	capitalisme	capitalisme
+L0226	Civilisations (choc des)	civilisations (choc des)	citoyenneté	citoyenneté
+L0227	Civilisations (choc des)	civilisations (choc des)	globalisation	globalisation
+L0228	Civilisations (choc des)	civilisations (choc des)	gouvernance	gouvernance
+L0229	Civilisations (choc des)	civilisations (choc des)	minorité	minorité
+L0230	Civilisations (choc des)	civilisations (choc des)	mondialisation	mondialisation
+L0231	Civilisations (choc des)	civilisations (choc des)	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0232	Civilisations (choc des)	civilisations (choc des)	transnational	transnational
+L0233	Civilisations (choc des)	civilisations (choc des)	ville	ville
+L0234	Clandestin	clandestin	libre-circulation des personnes	libre-circulation des personnes
+L0235	Clandestin	clandestin	migrations internationales	migrations internationales
+L0236	Clandestin	clandestin	minorité	minorité
+L0237	Clandestin	clandestin	transport et échange	transport et échange
+L0238	Classe(s) moyenne(s)	classe(s) moyenne(s)	capitalisme	capitalisme
+L0239	Classe(s) moyenne(s)	classe(s) moyenne(s)	déréglementation	déréglementation
+L0240	Classe(s) moyenne(s)	classe(s) moyenne(s)	État	État
+L0241	Classe(s) moyenne(s)	classe(s) moyenne(s)	inégalité	inégalité
+L0242	Classe(s) moyenne(s)	classe(s) moyenne(s)	société civile	société civile
+L0243	Classe(s) moyenne(s)	classe(s) moyenne(s)	syndicats	syndicats
+L0244	Cluster	cluster	capitalisme	capitalisme
+L0245	Cluster	cluster	cinéma	cinéma
+L0246	Cluster	cluster	économie	économie
+L0249	Cluster	cluster	globalisation	globalisation
+L0248	Cluster	cluster	industries créatives	industries créatives
+L0247	Cluster	cluster	innovation	innovation
+L0250	Cluster	cluster	public/privé (partenariat)	public/privé (partenariat)
+L0251	Colonisation/décolonisation	colonisation/décolonisation	centre/périphérie	centre/périphérie
+L0252	Colonisation/décolonisation	colonisation/décolonisation	coopération	coopération
+L0253	Colonisation/décolonisation	colonisation/décolonisation	développement	développement
+L0254	Colonisation/décolonisation	colonisation/décolonisation	Nord/Sud	Nord/Sud
+L0255	Colonisation/décolonisation	colonisation/décolonisation	pauvreté	pauvreté
+L0256	Commerce équitable	commerce équitable	altermondialisme	altermondialisme
+L0257	Commerce équitable	commerce équitable	globalisation	globalisation
+L0258	Commerce équitable	commerce équitable	gouvernance	gouvernance
+L0259	Commerce équitable	commerce équitable	mondialisation	mondialisation
+L0260	Commerce équitable	commerce équitable	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0261	Commerce équitable	commerce équitable	responsabilité sociale (de l'entreprise)	responsabilité sociale (de l'entreprise)
+L0262	Commerce international	commerce international	crise	crise
+L0263	Commerce international	commerce international	économie	économie
+L0264	Commerce international	commerce international	émergents (pays et puissances)	émergents (pays et puissances)
+L0265	Commerce international	commerce international	firme globale	firme globale
+L0266	Commerce international	commerce international	firme multinationale	firme multinationale
+L0267	Commerce international	commerce international	globalisation	globalisation
+L0268	Commerce international	commerce international	gouvernance	gouvernance
+L0269	Commerce international	commerce international	libre-échange	libre-échange
+L0270	Commerce international	commerce international	pétrole	pétrole
+L0271	Commerce international	commerce international	régionalisation	régionalisation
+L0272	Commerce international	commerce international	transport et échange	transport et échange
+L0273	Communautés en ligne	communautés en ligne	globalisation	globalisation
+L0274	Communautés en ligne	communautés en ligne	norme technique et juridique	norme technique
+L0275	Communautés en ligne	communautés en ligne	société civile	société civile
+L0276	Communautés en ligne	communautés en ligne	virtuel	virtuel
+L0277	Comparaison	comparaison	démocratie	démocratie
+L0278	Comparaison	comparaison	économie	économie
+L0279	Comparaison	comparaison	métropolisation	métropolisation
+L0280	Comparaison	comparaison	universalisme	universalisme
+L0281	Comparaison	comparaison	ville	ville
+L0282	Comparaison	comparaison	ville globale	ville globale
+L0283	Compétitivité	compétitivité	avantage comparatif	avantage comparatif
+L0284	Compétitivité	compétitivité	capitalisme	capitalisme
+L0285	Compétitivité	compétitivité	cluster	cluster
+L0286	Compétitivité	compétitivité	firme globale	firme globale
+L0287	Compétitivité	compétitivité	globalisation	globalisation
+L0288	Compétitivité	compétitivité	métropolisation	métropolisation
+L0289	Conflit asymétrique	conflit asymétrique	État	État
+L0290	Conflit asymétrique	conflit asymétrique	globalisation	globalisation
+L0291	Conflit asymétrique	conflit asymétrique	mondialisation	mondialisation
+L0292	Conflit asymétrique	conflit asymétrique	terrorisme	terrorisme
+L0293	Connectivité	connectivité	crises (financières)	crises (financières)
+L0294	Connectivité	connectivité	État	État
+L0295	Connectivité	connectivité	fragmentation spatiale	fragmentation spatiale
+L0296	Connectivité	connectivité	globalisation	globalisation
+L0297	Connectivité	connectivité	Internet	Internet
+L0298	Connectivité	connectivité	liquide (société)	liquide (société)
+L0299	Connectivité	connectivité	virtuel	virtuel
+L0300	Consommation (société de)	consommation (société de)	altermondialisme	altermondialisme
+L0301	Consommation (société de)	consommation (société de)	commerce équitable	commerce équitable
+L0302	Consommation (société de)	consommation (société de)	croissance	croissance
+L0303	Consommation (société de)	consommation (société de)	culture-monde	culture-monde
+L0304	Consommation (société de)	consommation (société de)	décroissance	décroissance
+L0305	Consommation (société de)	consommation (société de)	développement durable	développement durable
+L0306	Consommation (société de)	consommation (société de)	écoumène	écoumène
+L0307	Consommation (société de)	consommation (société de)	risque environnemental	risque environnemental
+L0308	Coopération	coopération	colonisation/décolonisation	colonisation/décolonisation
+L0309	Coopération	coopération	État	État
+L0310	Coopération	coopération	globalisation	globalisation
+L0311	Coopération	coopération	mondialisation	mondialisation
+L0312	Coopération	coopération	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0313	Coopération	coopération	société civile	société civile
+L0314	Corruption	corruption	État	État
+L0315	Corruption	corruption	globalisation	globalisation
+L0316	Corruption	corruption	mondialisation	mondialisation
+L0317	Corruption	corruption	pauvreté	pauvreté
+L0318	Cosmopolitisme	cosmopolitisme	citoyenneté	citoyenneté
+L0319	Cosmopolitisme	cosmopolitisme	Droits de l'homme	droits de l'homme
+L0320	Cosmopolitisme	cosmopolitisme	métissage	métissage
+L0321	Cosmopolitisme	cosmopolitisme	multiculturalisme	multiculturalisme
+L0322	Cosmopolitisme	cosmopolitisme	transnational	transnational
+L0323	Cosmopolitisme	cosmopolitisme	universalisme	universalisme
+L0324	Crise	crise	actifs toxiques	actifs toxiques
+L0325	Crise	crise	capitalisme	capitalisme
+L0326	Crise	crise	chômage	chômage
+L0327	Crise	crise	crises (financières)	crises (financières)
+L0328	Crise	crise	croissance	croissance
+L0329	Crise	crise	économie	économie
+L0330	Crise	crise	gouvernance	gouvernance
+L0331	Crise	crise	libéralisme	libéralisme
+L0333	Crises (financières)	crises (financières)	actifs toxiques	actifs toxiques
+L0334	Crises (financières)	crises (financières)	capitalisme	capitalisme
+L0335	Crises (financières)	crises (financières)	économie	économie
+L0336	Crises (financières)	crises (financières)	marché	marché
+L0337	Crises (financières)	crises (financières)	risque systémique	risque systémique
+L0338	Crises (financières)	crises (financières)	spéculation	spéculation
+L0332	Crise	crise	subprime	subprime
+L0339	Croissance	croissance	capitalisme	capitalisme
+L0340	Croissance	croissance	crise	crise
+L0341	Croissance	croissance	économie	économie
+L0342	Croissance	croissance	libéralisation	libéralisation
+L0343	Culture-monde	culture-monde	consommation (société de)	consommation (société de)
+L0344	Culture-monde	culture-monde	globalisation	globalisation
+L0346	Culture-monde	culture-monde	industries créatives	industries créatives
+L0345	Culture-monde	culture-monde	mondialisation	mondialisation
+L0347	Déchets	déchets	capitalisme	capitalisme
+L0348	Déchets	déchets	commerce international	commerce international
+L0349	Déchets	déchets	économie	économie
+L0350	Déchets	déchets	Nord/Sud	Nord/Sud
+L0351	Déchets	déchets	océan	océan
+L0352	Déchets	déchets	ressources naturelles	ressources naturelles
+L0353	Décroissance	décroissance	capitalisme	capitalisme
+L0354	Décroissance	décroissance	crise	crise
+L0355	Décroissance	décroissance	développement durable	développement durable
+L0356	Décroissance	décroissance	économie	économie
+L0357	Décroissance	décroissance	faim/famine	faim/famine
+L0358	Décroissance	décroissance	inégalité	inégalité
+L0359	Décroissance	décroissance	pauvreté	pauvreté
+L0360	Décroissance	décroissance	ressources naturelles	ressources naturelles
+L0361	Délocalisation	délocalisation	chômage	chômage
+L0362	Délocalisation	délocalisation	compétitivité	compétitivité
+L0363	Délocalisation	délocalisation	désindustrialisation	désindustrialisation
+L0364	Délocalisation	délocalisation	firme globale	firme globale
+L0365	Délocalisation	délocalisation	firme multinationale	firme multinationale
+L0366	Délocalisation	délocalisation	globalisation	globalisation
+L0367	Délocalisation	délocalisation	sous-traitance	sous-traitance
+L0368	Démocratie	démocratie	capitalisme	capitalisme
+L0369	Démocratie	démocratie	État	État
+L0370	Démocratie	démocratie	gouvernance	gouvernance
+L0371	Démocratie	démocratie	minorité	minorité
+L0372	Démocratie	démocratie	nation/nationalisme	nation/nationalisme
+L0373	Démocratie	démocratie	souveraineté	souveraineté
+L0374	Démondialisation	démondialisation	capitalisme	capitalisme
+L0375	Démondialisation	démondialisation	crise	crise
+L0376	Démondialisation	démondialisation	économie	économie
+L0377	Démondialisation	démondialisation	globalisation	globalisation
+L0378	Démondialisation	démondialisation	libéralisme	libéralisme
+L0379	Démondialisation	démondialisation	libre-échange	libre-échange
+L0380	Démondialisation	démondialisation	protectionnisme	protectionnisme
+L0381	Dénationalisation	dénationalisation	citoyenneté	citoyenneté
+L0382	Dénationalisation	dénationalisation	échelle	échelle
+L0383	Dénationalisation	dénationalisation	État	État
+L0384	Dénationalisation	dénationalisation	globalisation	globalisation
+L0385	Dénationalisation	dénationalisation	gouvernance	gouvernance
+L0386	Déréglementation	déréglementation	crise	crise
+L0387	Déréglementation	déréglementation	crises (financières)	crises (financières)
+L0388	Déréglementation	déréglementation	dette (extérieure)	dette (extérieure)
+L0389	Déréglementation	déréglementation	économie	économie
+L0390	Déréglementation	déréglementation	firme globale	firme globale
+L0391	Déréglementation	déréglementation	firme multinationale	firme multinationale
+L0392	Déréglementation	déréglementation	globalisation	globalisation
+L0393	Déréglementation	déréglementation	libéralisme	libéralisme
+L0394	Déréglementation	déréglementation	mondialisation	mondialisation
+L0395	Déréglementation	déréglementation	subprime	subprime
+L0396	Désindustrialisation	désindustrialisation	capitalisme	capitalisme
+L0397	Désindustrialisation	désindustrialisation	commerce international	commerce international
+L0398	Désindustrialisation	désindustrialisation	division internationale du travail	division internationale du travail
+L0399	Désindustrialisation	désindustrialisation	économie	économie
+L0400	Désindustrialisation	désindustrialisation	transport et échange	transport et échange
+L0401	Dette (extérieure)	dette (extérieure)	capitalisme	capitalisme
+L0402	Dette (extérieure)	dette (extérieure)	crise	crise
+L0403	Dette (extérieure)	dette (extérieure)	crises (financières)	crises (financières)
+L0404	Dette (extérieure)	dette (extérieure)	économie	économie
+L0405	Dette (extérieure)	dette (extérieure)	État	État
+L0406	Dette (extérieure)	dette (extérieure)	fonds souverains	fonds souverains
+L0407	Dette (extérieure)	dette (extérieure)	gouvernance	gouvernance
+L0408	Dette (extérieure)	dette (extérieure)	subprime	subprime
+L0417	Développement durable	développement durable	écologie	écologie
+L0418	Développement durable	développement durable	écoumène	écoumène
+L0419	Développement durable	développement durable	gouvernance	gouvernance
+L0420	Développement durable	développement durable	pauvreté	pauvreté
+L0421	Développement durable	développement durable	réfugié	réfugié
+L0422	Développement durable	développement durable	risque environnemental	risque environnemental
+L0409	Développement	développement	aide publique au développement	aide publique au développement
+L0410	Développement	développement	coopération	coopération
+L0411	Développement	développement	croissance	croissance
+L0412	Développement	développement	économie	économie
+L0413	Développement	développement	globalisation	globalisation
+L0414	Développement	développement	inégalité	inégalité
+L0415	Développement	développement	pauvreté	pauvreté
+L0416	Développement	développement	territoire	territoire
+L0423	Diaspora	diaspora	civilisation (choc des)	civilisations (choc des)
+L0424	Diaspora	diaspora	économie-monde/empire-monde	économie-monde/empire-monde
+L0425	Diaspora	diaspora	métissage	métissage
+L0426	Diaspora	diaspora	minorité	minorité
+L0427	Diaspora	diaspora	multiculturalisme	multiculturalisme
+L0428	Diaspora	diaspora	religion	religion
+L0429	Diaspora	diaspora	ville	ville
+L0430	Diplomatie	diplomatie	État	État
+L0431	Diplomatie	diplomatie	gouvernance	gouvernance
+L0432	Diplomatie	diplomatie	justice internationale	justice internationale
+L0433	Diplomatie	diplomatie	organisation internationale	organisation internationale
+L0434	Diplomatie	diplomatie	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0435	Division internationale du travail	division internationale du travail	avantage comparatif	avantage comparatif
+L0436	Division internationale du travail	division internationale du travail	capitalisme	capitalisme
+L0437	Division internationale du travail	division internationale du travail	centre/périphérie	centre/périphérie
+L0438	Division internationale du travail	division internationale du travail	désindustrialisation	désindustrialisation
+L0439	Division internationale du travail	division internationale du travail	émergents (pays et puissances)	émergents (pays et puissances)
+L0440	Division internationale du travail	division internationale du travail	libéralisme	libéralisme
+L0441	Division internationale du travail	division internationale du travail	libre-échange	libre-échange
+L0442	Drogue	drogue	commerce international	commerce international
+L0443	Drogue	drogue	corruption	corruption
+L0444	Drogue	drogue	démocratie	démocratie
+L0445	Drogue	drogue	flux	flux
+L0446	Drogue	drogue	mondialisation	mondialisation
+L0447	Droit	droit	capitalisme	capitalisme
+L0448	Droit	droit	commerce international	commerce international
+L0449	Droit	droit	diplomatie	diplomatie
+L0450	Droit	droit	multilatéralisme	multilatéralisme
+L0451	Droits de l'homme	droits de l'homme	multilatéralisme	multilatéralisme
+L0452	Droits de l'homme	droits de l'homme	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0453	Droits de l'homme	droits de l'homme	société civile	société civile
+L0454	Droits de l'homme	droits de l'homme	terrorisme	terrorisme
+L0455	Drone	drone	globalisation	globalisation
+L0456	Drone	drone	guerre	guerre
+L0457	Drone	drone	virtuel	virtuel
+L0458	Eau	eau	changement climatique	changement climatique
+L0459	Eau	eau	développement durable	développement durable
+L0460	Eau	eau	écologie	écologie
+L0461	Eau	eau	éducation	éducation
+L0462	Eau	eau	inégalité	inégalité
+L0463	Eau	eau	pauvreté	pauvreté
+L0464	Eau	eau	responsabilité sociale (de l'entreprise)	responsabilité sociale (de l'entreprise)
+L0465	Eau	eau	Terre	Terre
+L0466	Échelle	échelle	division internationale du travail	division internationale du travail
+L0467	Échelle	échelle	État	État
+L0468	Échelle	échelle	gouvernance	gouvernance
+L0469	Échelle	échelle	métropolisation	métropolisation
+L0470	Échelle	échelle	mondialisation	mondialisation
+L0471	Échelle	échelle	nation/nationalisme	nation/nationalisme
+L0472	Échelle	échelle	transport et échange	transport et échange
+L0473	Échelle	échelle	ville globale	ville globale
+L0474	Écologie	écologie	biodiversité	biodiversité
+L0475	Écologie	écologie	développement durable	développement durable
+L0476	Écologie	écologie	principe de précaution	principe de précaution
+L0477	Écologie	écologie	ressources naturelles	ressources naturelles
+L0478	Écologie	écologie	Terre	Terre
+L0492	Économie informelle	économie informelle	capitalisme	capitalisme
+L0493	Économie informelle	économie informelle	crise	crise
+L0494	Économie informelle	économie informelle	développement	développement
+L0495	Économie informelle	économie informelle	économie	économie
+L0496	Économie informelle	économie informelle	genre	genre
+L0497	Économie informelle	économie informelle	globalisation	globalisation
+L0498	Économie informelle	économie informelle	mondialisation	mondialisation
+L0499	Économie informelle	économie informelle	société civile	société civile
+L0500	Économie-monde, empire-monde	économie-monde/empire-monde	civilisations (choc des)	civilisations (choc des)
+L0501	Économie-monde, empire-monde	économie-monde/empire-monde	mondialisation	mondialisation
+L0479	Économie	économie	altermondialisme	altermondialisme
+L0480	Économie	économie	bourse	bourse
+L0481	Économie	économie	capitalisme	capitalisme
+L0482	Économie	économie	crise	crise
+L0483	Économie	économie	crises (financières)	crises (financières)
+L0484	Économie	économie	firme globale	firme globale
+L0485	Économie	économie	gouvernance	gouvernance
+L0486	Économie	économie	investissements directs étrangers	investissements directs étrangers (IDE)
+L0487	Économie	économie	libéralisation	libéralisation
+L0488	Économie	économie	libre-échange	libre-échange
+L0489	Économie	économie	organisation internationale	organisation internationale
+L0490	Économie	économie	spéculation	spéculation
+L0491	Économie	économie	subprime	subprime
+L0502	Écosystémiques (services)	écosystémiques (services)	capitalisme	capitalisme
+L0503	Écosystémiques (services)	écosystémiques (services)	changement climatique	changement climatique
+L0504	Écosystémiques (services)	écosystémiques (services)	croissance	croissance
+L0505	Écosystémiques (services)	écosystémiques (services)	décroissance	décroissance
+L0507	Écosystémiques (services)	écosystémiques (services)	empreinte écologique	empreinte écologique
+L0508	Écosystémiques (services)	écosystémiques (services)	marché carbone	marché carbone
+L0506	Écosystémiques (services)	écosystémiques (services)	écosystémiques (services)	écosystémiques (services)
+L0509	Écosystémiques (services)	écosystémiques (services)	principe de précaution	principe de précaution
+L0510	Écotourisme	écotourisme	consommation (société de)	consommation (société de)
+L0511	Écotourisme	écotourisme	culture-monde	culture-monde
+L0512	Écotourisme	écotourisme	flux	flux
+L0513	Écotourisme	écotourisme	tourisme	tourisme
+L0514	Écotourisme	écotourisme	transport et échange	transport et échange
+L0515	Écoumène	écoumène	capitalisme	capitalisme
+L0516	Écoumène	écoumène	développement durable	développement durable
+L0517	Écoumène	écoumène	écologie	écologie
+L0518	Écoumène	écoumène	gouvernance	gouvernance
+L0519	Écoumène	écoumène	Terre	Terre
+L0520	Éducation	éducation	enseignement supérieur	enseignement supérieur
+L0521	Éducation	éducation	inégalité	inégalité
+L0522	Éducation	éducation	pauvreté	pauvreté
+L0523	Émergents (pays et puissances)	émergents (pays et puissances)	capitalisme	capitalisme
+L0524	Émergents (pays et puissances)	émergents (pays et puissances)	cartes du monde	cartes du monde
+L0525	Émergents (pays et puissances)	émergents (pays et puissances)	développement	développement
+L0526	Émergents (pays et puissances)	émergents (pays et puissances)	Droits de l'homme	droits de l'homme
+L0527	Émergents (pays et puissances)	émergents (pays et puissances)	organisation internationale	organisation internationale
+L0528	Émergents (pays et puissances)	émergents (pays et puissances)	postcoloniales (études)	postcoloniales (études)
+L0529	Émergents (pays et puissances)	émergents (pays et puissances)	propriété	propriété
+L0530	Empreinte écologique	empreinte écologique	biodiversité	biodiversité
+L0531	Empreinte écologique	empreinte écologique	capitalisme	capitalisme
+L0532	Empreinte écologique	empreinte écologique	changement climatique	changement climatique
+L0533	Empreinte écologique	empreinte écologique	croissance	croissance
+L0534	Empreinte écologique	empreinte écologique	décroissance	décroissance
+L0535	Empreinte écologique	empreinte écologique	développement durable	développement durable
+L0536	Empreinte écologique	empreinte écologique	eau	eau
+L0537	Empreinte écologique	empreinte écologique	écosystémiques (services)	écosystémiques (services)
+L0538	Empreinte écologique	empreinte écologique	faim/famine	faim/famine
+L0539	Empreinte écologique	empreinte écologique	marché carbone	marché carbone
+L0540	Empreinte écologique	empreinte écologique	principe de précaution	principe de précaution
+L0541	Empreinte écologique	empreinte écologique	risque environnemental	risque environnemental
+L0542	Énergie	énergie	capitalisme	capitalisme
+L0543	Énergie	énergie	commerce international	commerce international
+L0544	Énergie	énergie	décroissance	décroissance
+L0545	Énergie	énergie	développement durable	développement durable
+L0546	Énergie	énergie	économie	économie
+L0547	Énergie	énergie	flux	flux
+L0548	Énergie	énergie	pétrole	pétrole
+L0549	Enseignement supérieur	enseignement supérieur	capitalisme	capitalisme
+L0550	Enseignement supérieur	enseignement supérieur	compétitivité	compétitivité
+L0551	Enseignement supérieur	enseignement supérieur	économie	économie
+L0552	Enseignement supérieur	enseignement supérieur	éducation	éducation
+L0553	Esclavage	esclavage	cartes du monde	cartes du monde
+L0554	Esclavage	esclavage	clandestin	clandestin
+L0555	Esclavage	esclavage	diaspora	diaspora
+L0556	Esclavage	esclavage	Droits de l'homme	droits de l'homme
+L0557	Esclavage	esclavage	économie informelle	économie informelle
+L0558	Esclavage	esclavage	migrations internationales	migrations internationales
+L0559	Esclavage	esclavage	mondialisation	mondialisation
+L0560	Esclavage	esclavage	postcoloniales (études)	postcoloniales (études)
+L0561	Espace (conquête de l')	espace (conquête de l')	Chinamérique	Chinamérique
+L0562	Espace (conquête de l')	espace (conquête de l')	géolocalisation	géolocalisation
+L0563	Espace (conquête de l')	espace (conquête de l')	médias	médias
+L0564	Espace (conquête de l')	espace (conquête de l')	virtuel	virtuel
+L0565	Espèce humaine	espèce humaine	écoumène	écoumène
+L0566	Espèce humaine	espèce humaine	genre	genre
+L0567	Espèce humaine	espèce humaine	guerre	guerre
+L0568	Espèce humaine	espèce humaine	métissage	métissage
+L0569	Espèce humaine	espèce humaine	universalisme	universalisme
+L0570	Esthétique urbaine	esthétique urbaine	aéroport	aéroport
+L0571	Esthétique urbaine	esthétique urbaine	architecture durable	architecture durable
+L0572	Esthétique urbaine	esthétique urbaine	changement climatique	changement climatique
+L0573	Esthétique urbaine	esthétique urbaine	développement durable	développement durable
+L0574	Esthétique urbaine	esthétique urbaine	métropolisation	métropolisation
+L0575	Esthétique urbaine	esthétique urbaine	minorité	minorité
+L0576	Esthétique urbaine	esthétique urbaine	ville	ville
+L0577	Esthétique urbaine	esthétique urbaine	ville globale	ville globale
+L0586	État-providence	État-providence	capitalisme	capitalisme
+L0587	État-providence	État-providence	citoyenneté	citoyenneté
+L0588	État-providence	État-providence	État	État
+L0589	État-providence	État-providence	gouvernance	gouvernance
+L0590	État-providence	État-providence	privatisation	privatisation
+L0591	État-providence	État-providence	souveraineté	souveraineté
+L0578	État	État	citoyenneté	citoyenneté
+L0579	État	État	diaspora	diaspora
+L0580	État	État	État-providence	État-providence
+L0581	État	État	gouvernance	gouvernance
+L0582	État	État	ingérence (droit d')	ingérence (droit d')
+L0583	État	État	minorité	minorité
+L0584	État	État	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0585	État	État	souveraineté	souveraineté
+L0601	Euro (zone)	euro (zone)	commerce international	commerce international
+L0602	Euro (zone)	euro (zone)	crise	crise
+L0603	Euro (zone)	euro (zone)	économie	économie
+L0604	Euro (zone)	euro (zone)	Europe	Europe
+L0605	Euro (zone)	euro (zone)	globalisation	globalisation
+L0606	Euro (zone)	euro (zone)	monnaie	monnaie
+L0596	Europe	Europe	changement climatique	changement climatique
+L0597	Europe	Europe	économie	économie
+L0598	Europe	Europe	État	État
+L0599	Europe	Europe	globalisation	globalisation
+L0600	Europe	Europe	mondialisation	mondialisation
+L0592	Évolution des pratiques alimentaires	évolution des pratiques alimentaires	américanisation	américanisation
+L0593	Évolution des pratiques alimentaires	évolution des pratiques alimentaires	biodiversité	biodiversité
+L0594	Évolution des pratiques alimentaires	évolution des pratiques alimentaires	consommation (société de)	consommation (société de)
+L0595	Évolution des pratiques alimentaires	évolution des pratiques alimentaires	culture-monde	culture-monde
+L0607	Expatrié	expatrié	communauté en ligne	communautés en ligne
+L0608	Expatrié	expatrié	culture-monde	culture-monde
+L0609	Expatrié	expatrié	globalisation	globalisation
+L0610	Expatrié	expatrié	mondialisation	mondialisation
+L0611	Expatrié	expatrié	virtuel	virtuel
+L0612	Faim/famine	faim/famine	agro-impérialisme	agro-impérialisme
+L0613	Faim/famine	faim/famine	changement climatique	changement climatique
+L0614	Faim/famine	faim/famine	démocratie	démocratie
+L0615	Faim/famine	faim/famine	eau	eau
+L0616	Faim/famine	faim/famine	inégalité	inégalité
+L0617	Faim/famine	faim/famine	pauvreté	pauvreté
+L0618	Faim/famine	faim/famine	sécurité alimentaire	sécurité alimentaire
+L0619	Firme globale	firme globale	capitalisme	capitalisme
+L0620	Firme globale	firme globale	État	État
+L0621	Firme globale	firme globale	firme multinationale	firme multinationale
+L0622	Firme globale	firme globale	gang	gang
+L0623	Firme globale	firme globale	Internet	Internet
+L0624	Firme globale	firme globale	minorité	minorité
+L0625	Firme globale	firme globale	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0626	Firme globale	firme globale	TIC	TIC
+L0627	Firme multinationale	firme multinationale	compétitivité	compétitivité
+L0628	Firme multinationale	firme multinationale	délocalisation	délocalisation
+L0629	Firme multinationale	firme multinationale	globalisation	globalisation
+L0630	Firme multinationale	firme multinationale	Internet	Internet
+L0631	Firme multinationale	firme multinationale	investissements directs étrangers	investissements directs étrangers (IDE)
+L0632	Firme multinationale	firme multinationale	libéralisation	libéralisation
+L0633	Firme multinationale	firme multinationale	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0634	Firme multinationale	firme multinationale	sous-traitance	sous-traitance
+L0635	Firme multinationale	firme multinationale	virtuel	virtuel
+L0636	Flux	flux	capitalisme	capitalisme
+L0637	Flux	flux	commerce international	commerce international
+L0638	Flux	flux	communautés en ligne	communautés en ligne
+L0639	Flux	flux	économie	économie
+L0640	Flux	flux	transport et échange	transport et échange
+L0641	Flux	flux	virtuel	virtuel
+L0642	Fondamentalisme	fondamentalisme	capitalisme	capitalisme
+L0643	Fondamentalisme	fondamentalisme	civilisations (choc des)	civilisations (choc des)
+L0644	Fondamentalisme	fondamentalisme	communautés en ligne	communautés en ligne
+L0645	Fondamentalisme	fondamentalisme	inégalité	inégalité
+L0646	Fondamentalisme	fondamentalisme	terrorisme	terrorisme
+L0647	Fondamentalisme	fondamentalisme	virtuel	virtuel
+L0648	Fonds de pension	fonds de pension	bourse	bourse
+L0649	Fonds de pension	fonds de pension	capitalisme	capitalisme
+L0650	Fonds de pension	fonds de pension	crises (financières)	crises (financières)
+L0651	Fonds de pension	fonds de pension	économie	économie
+L0652	Fonds de pension	fonds de pension	investissements directs étrangers	investissements directs étrangers (IDE)
+L0653	Fonds souverains	fonds souverains	NA	NA
+L0654	Forestation/déforestation	forestation/déforestation	autochtone (peuple)	autochtone (peuple)
+L0655	Forestation/déforestation	forestation/déforestation	biodiversité	biodiversité
+L0656	Forestation/déforestation	forestation/déforestation	changement climatique	changement climatique
+L0657	Forestation/déforestation	forestation/déforestation	développement durable	développement durable
+L0658	Forestation/déforestation	forestation/déforestation	économie	économie
+L0659	Forêts	forêts	autochtone (peuple)	autochtone (peuple)
+L0660	Forêts	forêts	déforestation/reforestation	forestation/déforestation
+L0661	Fossé technologique	fossé technologique	communautés en ligne	communautés en ligne
+L0662	Fossé technologique	fossé technologique	développement	développement
+L0663	Fossé technologique	fossé technologique	développement durable	développement durable
+L0664	Fossé technologique	fossé technologique	fracture numérique	fracture numérique
+L0665	Fossé technologique	fossé technologique	géolocalisation	géolocalisation
+L0666	Fossé technologique	fossé technologique	gouvernance	gouvernance
+L0667	Fossé technologique	fossé technologique	institution financière internationale	institution financière internationale
+L0668	Fossé technologique	fossé technologique	transfert de technologie	transfert de technologie
+L0669	Fracture numérique	fracture numérique	communautés en ligne	communautés en ligne
+L0670	Fracture numérique	fracture numérique	développement	développement
+L0671	Fracture numérique	fracture numérique	fossé technologique	fossé technologique
+L0672	Fracture numérique	fracture numérique	géolocalisation	géolocalisation
+L0673	Fracture numérique	fracture numérique	inégalité	inégalité
+L0674	Fracture numérique	fracture numérique	innovation	innovation
+L0675	Fracture numérique	fracture numérique	Internet	Internet
+L0676	Fracture numérique	fracture numérique	médias	médias
+L0677	Fragmentation spatiale	fragmentation spatiale	crise	crise
+L0678	Fragmentation spatiale	fragmentation spatiale	économie	économie
+L0679	Fragmentation spatiale	fragmentation spatiale	globalisation	globalisation
+L0680	Fragmentation spatiale	fragmentation spatiale	inégalité	inégalité
+L0681	Fragmentation spatiale	fragmentation spatiale	métropolisation	métropolisation
+L0682	Fragmentation spatiale	fragmentation spatiale	réseau	réseau
+L0683	France	France	altermondialisme	altermondialisme
+L0684	France	France	capitalisme	capitalisme
+L0685	France	France	diplomatie	diplomatie
+L0686	France	France	État	État
+L0687	France	France	Europe	Europe
+L0688	France	France	globalisation	globalisation
+L0689	France	France	ingérence (droit d')	ingérence (droit d')
+L0690	France	France	multiculturalisme	multiculturalisme
+L0691	France	France	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0692	Frontière	frontière	diaspora	diaspora
+L0693	Frontière	frontière	économie-monde/empire-monde	économie-monde/empire-monde
+L0694	Frontière	frontière	État	État
+L0695	Frontière	frontière	Europe	Europe
+L0696	Frontière	frontière	fragmentation spatiale	fragmentation spatiale
+L0697	Frontière	frontière	gouvernance	gouvernance
+L0698	Frontière	frontière	interdépendance	interdépendance
+L0699	Gang	gang	citoyenneté	citoyenneté
+L0700	Gang	gang	drogue	drogue
+L0701	Gang	gang	économie informelle	économie informelle
+L0702	Gang	gang	fragmentation spatiale	fragmentation spatiale
+L0703	Gang	gang	médias	médias
+L0704	Gang	gang	ville	ville
+L0705	Genre	genre	civilisation (choc des)	civilisations (choc des)
+L0706	Genre	genre	démocratie	démocratie
+L0707	Genre	genre	Droits de l'homme	droits de l'homme
+L0708	Genre	genre	inégalité	inégalité
+L0709	Genre	genre	minorité	minorité
+L0710	Genre	genre	pauvreté	pauvreté
+L0711	Genre	genre	universalisme	universalisme
+L0712	Gentrification	gentrification	esthétique urbaine	esthétique urbaine
+L0713	Gentrification	gentrification	globalisation	globalisation
+L0714	Gentrification	gentrification	inégalité	inégalité
+L0715	Gentrification	gentrification	métropolisation	métropolisation
+L0716	Gentrification	gentrification	ville	ville
+L0717	Gentrification	gentrification	ville globale	ville globale
+L0718	Géolocalisation	géolocalisation	cartes du monde	cartes du monde
+L0719	Géolocalisation	géolocalisation	commerce international	commerce international
+L0720	Géolocalisation	géolocalisation	économie	économie
+L0721	Géolocalisation	géolocalisation	flux	flux
+L0722	Géolocalisation	géolocalisation	transport et échange	transport et échange
+L0723	Géolocalisation	géolocalisation	virtuel	virtuel
+L0724	Globalisation	globalisation	capitalisme	capitalisme
+L0725	Globalisation	globalisation	firme globale	firme globale
+L0726	Globalisation	globalisation	firme multinationale	firme multinationale
+L0727	Globalisation	globalisation	gouvernance	gouvernance
+L0728	Globalisation	globalisation	mondialisation	mondialisation
+L0729	Globalisation	globalisation	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0730	Globalisation	globalisation	planétaire	planétaire
+L0731	Globalisation	globalisation	puissance	puissance
+L0732	Glocal	glocal	culture-monde	culture-monde
+L0733	Glocal	glocal	firme globale	firme globale
+L0734	Glocal	glocal	firme multinationale	firme multinationale
+L0735	Glocal	glocal	globalisation	globalisation
+L0736	Glocal	glocal	Internet	Internet
+L0737	Glocal	glocal	métissage	métissage
+L0738	Glocal	glocal	transnational	transnational
+L0739	Gouvernance	gouvernance	bien commun	bien commun
+L0740	Gouvernance	gouvernance	État	État
+L0741	Gouvernance	gouvernance	institution financière internationale	institution financière internationale
+L0742	Gouvernance	gouvernance	Internet	Internet
+L0743	Gouvernance	gouvernance	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0744	Gouvernance	gouvernance	risque systémique	risque systémique
+L0745	Gouvernance	gouvernance	société civile	société civile
+L0746	Gouvernance	gouvernance	sommet international	sommet international
+L0747	Gouvernance	gouvernance	souveraineté	souveraineté
+L0748	Gouvernance	gouvernance	territoire	territoire
+L0749	Grande muraille verte	grande muraille verte	biodiversité	biodiversité
+L0750	Grande muraille verte	grande muraille verte	écosystémiques (services)	écosystémiques (services)
+L0751	Grande muraille verte	grande muraille verte	écoumène	écoumène
+L0752	Grande muraille verte	grande muraille verte	État	État
+L0753	Grande muraille verte	grande muraille verte	forêts	forêts
+L0754	Grande muraille verte	grande muraille verte	Nord/Sud	Nord/Sud
+L0755	Grande muraille verte	grande muraille verte	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0756	Grande muraille verte	grande muraille verte	Terre	Terre
+L0757	Guerre	guerre	conflit asymétrique	conflit asymétrique
+L0758	Guerre	guerre	État	État
+L0759	Guerre	guerre	globalisation	globalisation
+L0760	Guerre	guerre	minorité	minorité
+L0761	Guerre	guerre	ressources naturelles	ressources naturelles
+L0762	Guerre	guerre	terrorisme	terrorisme
+L0763	Humanitaire	humanitaire	diplomatie	diplomatie
+L0764	Humanitaire	humanitaire	faim/famine	faim/famine
+L0765	Humanitaire	humanitaire	gouvernance	gouvernance
+L0766	Humanitaire	humanitaire	ingérence (droit d')	ingérence (droit d')
+L0767	Humanitaire	humanitaire	organisation internationale	organisation internationale
+L0768	Humanitaire	humanitaire	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0769	Humanitaire	humanitaire	pauvreté	pauvreté
+L0770	Indicateurs	indicateurs	commerce international	commerce international
+L0771	Indicateurs	indicateurs	crise	crise
+L0772	Indicateurs	indicateurs	croissance	croissance
+L0773	Indicateurs	indicateurs	économie	économie
+L0774	Indicateurs	indicateurs	État	État
+L0775	Indicateurs	indicateurs	investissements directs étrangers (IDE)	investissements directs étrangers (IDE)
+L0776	Indicateurs	indicateurs	organisation internationale	organisation internationale
+L0777	Indignés	indignés	altermondialisme	altermondialisme
+L0778	Indignés	indignés	crises (financières)	crises (financières)
+L0779	Indignés	indignés	inégalité	inégalité
+L0780	Industries créatives	industries créatives	américanisation	américanisation
+L0781	Industries créatives	industries créatives	cinéma	cinéma
+L0782	Industries créatives	industries créatives	commerce mondial	commerce international
+L0783	Industries créatives	industries créatives	consommation (société de)	consommation (société de)
+L0784	Industries créatives	industries créatives	culture-monde	culture-monde
+L0785	Industries créatives	industries créatives	innovation	innovation
+L0786	Inégalité	inégalité	capitalisme	capitalisme
+L0787	Inégalité	inégalité	centre/périphérie	centre/périphérie
+L0788	Inégalité	inégalité	crise	crise
+L0789	Inégalité	inégalité	économie	économie
+L0790	Inégalité	inégalité	émergents (pays et puissances)	émergents (pays et puissances)
+L0792	Inégalité	inégalité	globalisation	globalisation
+L0793	Inégalité	inégalité	gouvernance	gouvernance
+L0791	Inégalité	inégalité	indignés	indignés
+L0794	Inégalité	inégalité	luxe (industries de)	luxe (industries de)
+L0795	Inégalité	inégalité	philanthropie	philanthropie
+L0796	Inégalités (peuplement)	inégalités (peuplement)	changement climatique	changement climatique
+L0797	Inégalités (peuplement)	inégalités (peuplement)	État	État
+L0798	Inégalités (peuplement)	inégalités (peuplement)	frontière	frontière
+L0799	Inégalités (peuplement)	inégalités (peuplement)	inégalité	inégalité
+L0800	Inégalités (peuplement)	inégalités (peuplement)	métropolisation	métropolisation
+L0801	Inégalités (peuplement)	inégalités (peuplement)	puissance	puissance
+L0802	Inégalités (peuplement)	inégalités (peuplement)	ville	ville
+L0803	Infrastructures	infrastructures	compétitivité	compétitivité
+L0804	Infrastructures	infrastructures	développement	développement
+L0805	Infrastructures	infrastructures	fracture numérique	fracture numérique
+L0808	Infrastructures	infrastructures	Nord/Sud	Nord/Sud
+L0807	Infrastructures	infrastructures	organisation internationale	organisation internationale
+L0806	Infrastructures	infrastructures	pauvreté	pauvreté
+L0809	Infrastructures	infrastructures	privatisation	privatisation
+L0810	Infrastructures	infrastructures	réseau	réseau
+L0811	Ingérence (droit d')	ingérence (droit d')	État	État
+L0812	Ingérence (droit d')	ingérence (droit d')	humanitaire	humanitaire
+L0813	Ingérence (droit d')	ingérence (droit d')	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0814	Ingérence (droit d')	ingérence (droit d')	souveraineté	souveraineté
+L0815	Innovation	innovation	capitalisme	capitalisme
+L0816	Innovation	innovation	communauté en ligne	communautés en ligne
+L0817	Innovation	innovation	économie	économie
+L0818	Innovation	innovation	État	État
+L0819	Innovation	innovation	globalisation	globalisation
+L0820	Innovation	innovation	mondialisation	mondialisation
+L0821	Innovation	innovation	virtuel	virtuel
+L0822	Institution financière internationale	institution financière internationale	altermondialisme	altermondialisme
+L0823	Institution financière internationale	institution financière internationale	crise	crise
+L0824	Institution financière internationale	institution financière internationale	développement	développement
+L0825	Institution financière internationale	institution financière internationale	gouvernance	gouvernance
+L0826	Institution financière internationale	institution financière internationale	organisation internationale	organisation internationale
+L0827	Interdépendance	interdépendance	capitalisme	capitalisme
+L0828	Interdépendance	interdépendance	commerce international	commerce international
+L0829	Interdépendance	interdépendance	crise	crise
+L0830	Interdépendance	interdépendance	division internationale du travail	division internationale du travail
+L0831	Interdépendance	interdépendance	globalisation	globalisation
+L0832	Interdépendance	interdépendance	guerre	guerre
+L0833	Interdépendance	interdépendance	Internet	Internet
+L0834	Interdépendance	interdépendance	libéralisation	libéralisation
+L0835	Internet	Internet	communautés en ligne	communautés en ligne
+L0836	Internet	Internet	démocratie	démocratie
+L0837	Internet	Internet	fracture numérique	fracture numérique
+L0838	Internet	Internet	globalisation	globalisation
+L0839	Internet	Internet	innovation	innovation
+L0840	Internet	Internet	société civile	société civile
+L0841	Internet	Internet	virtuel	virtuel
+L0842	Investissements directs étrangers (IDE)	investissements directs étrangers (IDE)	bourse	bourse
+L0843	Investissements directs étrangers (IDE)	investissements directs étrangers (IDE)	capitalisme	capitalisme
+L0844	Investissements directs étrangers (IDE)	investissements directs étrangers (IDE)	crises (financières)	crises (financières)
+L0845	Investissements directs étrangers (IDE)	investissements directs étrangers (IDE)	délocalisation	délocalisation
+L0846	Investissements directs étrangers (IDE)	investissements directs étrangers (IDE)	déréglementation	déréglementation
+L0847	Investissements directs étrangers (IDE)	investissements directs étrangers (IDE)	firme globale	firme globale
+L0848	Investissements directs étrangers (IDE)	investissements directs étrangers (IDE)	firme multinationale	firme multinationale
+L0849	Investissements directs étrangers (IDE)	investissements directs étrangers (IDE)	globalisation	globalisation
+L0850	Investissements directs étrangers (IDE)	investissements directs étrangers (IDE)	mondialisation	mondialisation
+L0851	Investissements directs étrangers (IDE)	investissements directs étrangers (IDE)	profit	profit
+L0852	Justice internationale	justice internationale	diplomatie	diplomatie
+L0853	Justice internationale	justice internationale	État	État
+L0854	Justice internationale	justice internationale	gouvernance	gouvernance
+L0855	Justice internationale	justice internationale	organisation internationale	organisation internationale
+L0856	Justice internationale	justice internationale	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0857	Libéralisation	libéralisation	altermondialisme	altermondialisme
+L0858	Libéralisation	libéralisation	commerce international	commerce international
+L0859	Libéralisation	libéralisation	crise	crise
+L0860	Libéralisation	libéralisation	économie	économie
+L0861	Libéralisation	libéralisation	institution financière internationale	institution financière internationale
+L0862	Libéralisation	libéralisation	libre-échange	libre-échange
+L0863	Libéralisation	libéralisation	organisation internationale	organisation internationale
+L0864	Libéralisme	libéralisme	altermondialisme	altermondialisme
+L0865	Libéralisme	libéralisme	commerce international	commerce international
+L0866	Libéralisme	libéralisme	crise	crise
+L0867	Libéralisme	libéralisme	déréglementation	déréglementation
+L0868	Libéralisme	libéralisme	économie	économie
+L0869	Libéralisme	libéralisme	libéralisation	libéralisation
+L0870	Libéralisme	libéralisme	libre-échange	libre-échange
+L0871	Libre-circulation des personnes	libre-circulation des personnes	capitalisme	capitalisme
+L0872	Libre-circulation des personnes	libre-circulation des personnes	clandestin	clandestin
+L0873	Libre-circulation des personnes	libre-circulation des personnes	développement	développement
+L0874	Libre-circulation des personnes	libre-circulation des personnes	Droits de l'homme	droits de l'homme
+L0875	Libre-circulation des personnes	libre-circulation des personnes	mondialisation	mondialisation
+L0876	Libre-échange	libre-échange	altermondialisme	altermondialisme
+L0877	Libre-échange	libre-échange	commerce international	commerce international
+L0878	Libre-échange	libre-échange	crise	crise
+L0879	Libre-échange	libre-échange	économie	économie
+L0880	Libre-échange	libre-échange	libéralisation	libéralisation
+L0881	Libre-échange	libre-échange	protectionnisme	protectionnisme
+L0882	Liquide (société)	liquide (société)	consommation (société de)	consommation (société de)
+L0883	Liquide (société)	liquide (société)	culture-monde	culture-monde
+L0884	Liquide (société)	liquide (société)	globalisation	globalisation
+L0885	Liquide (société)	liquide (société)	mondialisation	mondialisation
+L0886	Logistique	logistique	capitalisme	capitalisme
+L0887	Logistique	logistique	commerce international	commerce international
+L0888	Logistique	logistique	économie	économie
+L0889	Logistique	logistique	firme flux	firme
+L0891	Logistique	logistique	globale	firme globale
+L0890	Logistique	logistique		flux
+L0892	Logistique	logistique	globalisation	globalisation
+L0893	Logistique	logistique	Internet	Internet
+L0894	Logistique	logistique	transport et échange	transport et échange
+L0895	Luxe (industries de)	luxe (industries de)	capitalisme	capitalisme
+L0896	Luxe (industries de)	luxe (industries de)	compétitivité	compétitivité
+L0897	Luxe (industries de)	luxe (industries de)	délocalisation	délocalisation
+L0898	Luxe (industries de)	luxe (industries de)	firme France	firme
+L0900	Luxe (industries de)	luxe (industries de)	globale	firme globale
+L0899	Luxe (industries de)	luxe (industries de)		France
+L0901	Luxe (industries de)	luxe (industries de)	inégalité	inégalité
+L0902	Luxe (industries de)	luxe (industries de)	marché	marché
+L0912	Marché carbone	marché carbone	changement climatique	changement climatique
+L0913	Marché carbone	marché carbone	développement durable	développement durable
+L0914	Marché carbone	marché carbone	écologie	écologie
+L0915	Marché carbone	marché carbone	énergie	énergie
+L0916	Marché carbone	marché carbone	Europe	Europe
+L0917	Marché carbone	marché carbone	transport et échange	transport et échange
+L0918	Marché de l'art	marché de l'art	art	art
+L0919	Marché de l'art	marché de l'art	centre/périphérie	centre/périphérie
+L0920	Marché de l'art	marché de l'art	mondialisation	mondialisation
+L0921	Marché de l'art	marché de l'art	multiculturalisme	multiculturalisme
+L0922	Marché de l'art	marché de l'art	temps du monde	temps du monde
+L0923	Marché de l'art	marché de l'art	ville	ville
+L0903	Marché	marché	bien commun	bien commun
+L0904	Marché	marché	capitalisme	capitalisme
+L0905	Marché	marché	crises (financières)	crises (financières)
+L0906	Marché	marché	Europe	Europe
+L0907	Marché	marché	globalisation	globalisation
+L0908	Marché	marché	gouvernance	gouvernance
+L0909	Marché	marché	inégalité	inégalité
+L0910	Marché	marché	libéralisme	libéralisme
+L0911	Marché	marché	régulation	régulation
+L0924	Marque	marque	culture-monde	culture-monde
+L0925	Marque	marque	délocalisation	délocalisation
+L0926	Marque	marque	économie	économie
+L0927	Marque	marque	firme globale	firme globale
+L0928	Marque	marque	luxe (industries de)	luxe (industries de)
+L0929	Matières premières	matières premières	capitalisme	capitalisme
+L0930	Matières premières	matières premières	commerce international	commerce international
+L0931	Matières premières	matières premières	développement durable	développement durable
+L0932	Matières premières	matières premières	économie	économie
+L0933	Matières premières	matières premières	énergie	énergie
+L0934	Matières premières	matières premières	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L0935	Matières premières	matières premières	ressources naturelles	ressources naturelles
+L0936	Médias	médias	américanisation	américanisation
+L0937	Médias	médias	communautés en ligne	communautés en ligne
+L0938	Médias	médias	Internet	Internet
+L0939	Médias	médias	métissage	métissage
+L0940	Médias	médias	multiculturalisme	multiculturalisme
+L0941	Médias	médias	réseau	réseau
+L0942	Médias	médias	ville globale	ville globale
+L0943	Médicament	médicament	économie informelle	économie informelle
+L0944	Médicament	médicament	libéralisme	libéralisme
+L0945	Médicament	médicament	marché	marché
+L0946	Mégarégion	mégarégion	NA	NA
+L0947	Métissage	métissage	américanisation	américanisation
+L0948	Métissage	métissage	industries créatives	industries créatives
+L0949	Métissage	métissage	métropolisation	métropolisation
+L0950	Métissage	métissage	minorité	minorité
+L0951	Métissage	métissage	multiculturalisme	multiculturalisme
+L0952	Métissage	métissage	ville	ville
+L0953	Métropolisation	métropolisation	cluster	cluster
+L0954	Métropolisation	métropolisation	économie informelle	économie informelle
+L0955	Métropolisation	métropolisation	esthétique urbaine	esthétique urbaine
+L0956	Métropolisation	métropolisation	flux	flux
+L0957	Métropolisation	métropolisation	gang	gang
+L0958	Métropolisation	métropolisation	glocalisation	glocal
+L0959	Métropolisation	métropolisation	gouvernance	gouvernance
+L0960	Métropolisation	métropolisation	Internet	Internet
+L0961	Métropolisation	métropolisation	mégarégion	mégarégion
+L0962	Métropolisation	métropolisation	migrations internationales	migrations internationales
+L0963	Métropolisation	métropolisation	minorité	minorité
+L0964	Métropolisation	métropolisation	territoire	territoire
+L0965	Métropolisation	métropolisation	ville	ville
+L0966	Métropolisation	métropolisation	ville globale	ville globale
+L0967	Microfinance	microfinance	capitalisme	capitalisme
+L0968	Microfinance	microfinance	consommation (société de)	consommation (société de)
+L0969	Microfinance	microfinance	économie	économie
+L0970	Microfinance	microfinance	inégalité	inégalité
+L0971	Microfinance	microfinance	innovation	innovation
+L0972	Microfinance	microfinance	pauvreté	pauvreté
+L0973	Migrations internationales	migrations internationales	clandestin	clandestin
+L0974	Migrations internationales	migrations internationales	développement	développement
+L0975	Migrations internationales	migrations internationales	diaspora	diaspora
+L0976	Migrations internationales	migrations internationales	globalisation	globalisation
+L0977	Migrations internationales	migrations internationales	métropolisation	métropolisation
+L0978	Migrations internationales	migrations internationales	minorité	minorité
+L0979	Migrations internationales	migrations internationales	multiculturalisme	multiculturalisme
+L0980	Migrations internationales	migrations internationales	réfugié	réfugié
+L0981	Migrations internationales	migrations internationales	ville	ville
+L0982	Minorité	minorité	autochtone (peuple)	autochtone (peuple)
+L0983	Minorité	minorité	citoyenneté	citoyenneté
+L0984	Minorité	minorité	diaspora	diaspora
+L0985	Minorité	minorité	État	État
+L0986	Minorité	minorité	fondamentalisme	fondamentalisme
+L0987	Minorité	minorité	médias	médias
+L0988	Minorité	minorité	multiculturalisme	multiculturalisme
+L0989	Minorité	minorité	nation/nationalisme	nation/nationalisme
+L0990	Minorité	minorité	ressources naturelles	ressources naturelles
+L0991	Minorité	minorité	terrorisme	terrorisme
+L0992	Mobilité	mobilité	capitalisme	capitalisme
+L0993	Mobilité	mobilité	communautés en ligne	communautés en ligne
+L0994	Mobilité	mobilité	consommation (société de)	consommation (société de)
+L0995	Mobilité	mobilité	décroissance	décroissance
+L0996	Mobilité	mobilité	énergie	énergie
+L0997	Mobilité	mobilité	flux	flux
+L0998	Mobilité	mobilité	transport et échange	transport et échange
+L0999	Modèle	modèle	capitalisme	capitalisme
+L1000	Modèle	modèle	crise	crise
+L1001	Modèle	modèle	économie	économie
+L1002	Modèle	modèle	inégalité	inégalité
+L1003	Modèle	modèle	marché	marché
+L1004	Modèle	modèle	pauvreté	pauvreté
+L1005	Mondialisation	mondialisation	capitalisme	capitalisme
+L1006	Mondialisation	mondialisation	cartes du monde	cartes du monde
+L1007	Mondialisation	mondialisation	centre/périphérie	centre/périphérie
+L1008	Mondialisation	mondialisation	civilisation (choc des)	civilisations (choc des)
+L1009	Mondialisation	mondialisation	colonisation/décolonisation	colonisation/décolonisation
+L1010	Mondialisation	mondialisation	écoumène	écoumène
+L1011	Mondialisation	mondialisation	espèce humaine	espèce humaine
+L1012	Mondialisation	mondialisation	pandémie	pandémie
+L1013	Mondialisation	mondialisation	planétaire	planétaire
+L1014	Mondialisation	mondialisation	Terre	Terre
+L1015	Mondialisation	mondialisation	universalisme	universalisme
+L1473	Mondialiser	mondialiser	capitalisme	capitalisme
+L1474	Mondialiser	mondialiser	délocalisation	délocalisation
+L1475	Mondialiser	mondialiser	État	État
+L1477	Mondialiser	mondialiser	firme globale	firme globale
+L1478	Mondialiser	mondialiser	firme multinationale	firme multinationale
+L1476	Mondialiser	mondialiser	globalisation	globalisation
+L1479	Mondialiser	mondialiser	ingérence (droit d')	ingérence (droit d')
+L1480	Mondialiser	mondialiser	réseau	réseau
+L1481	Mondialiser	mondialiser	sous-traitance	sous-traitance
+L1482	Mondialiser	mondialiser	virtuel	virtuel
+L1016	Monnaie	monnaie	crise	crise
+L1017	Monnaie	monnaie	firme globale	firme globale
+L1018	Monnaie	monnaie	gouvernance	gouvernance
+L1019	Monnaie	monnaie	investissements directs étrangers (IDE)	investissements directs étrangers (IDE)
+L1020	Monnaie	monnaie	libéralisation	libéralisation
+L1021	Monnaie	monnaie	libre-échange	libre-échange
+L1022	Monnaie	monnaie	organisation internationale	organisation internationale
+L1023	Multiculturalisme	multiculturalisme	citoyenneté	citoyenneté
+L1024	Multiculturalisme	multiculturalisme	métissage	métissage
+L1025	Multiculturalisme	multiculturalisme	minorité	minorité
+L1026	Multilatéralisme	multilatéralisme	état	État
+L1027	Multilatéralisme	multilatéralisme	gouvernance	gouvernance
+L1028	Multilatéralisme	multilatéralisme	organisation internationale	organisation internationale
+L1029	Multilatéralisme	multilatéralisme	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L1030	Murs	murs	état	État
+L1031	Murs	murs	flux	flux
+L1032	Murs	murs	frontière	frontière
+L1033	Murs	murs	transnational	transnational
+L1034	Nation/nationalisme	nation/nationalisme	démocratie	démocratie
+L1035	Nation/nationalisme	nation/nationalisme	diaspora	diaspora
+L1036	Nation/nationalisme	nation/nationalisme	gouvernance	gouvernance
+L1037	Nation/nationalisme	nation/nationalisme	migrations interminorité 	migrations internationales
+L1038	Nation/nationalisme	nation/nationalisme	nationales	NA
+L1039	Nation/nationalisme	nation/nationalisme	transnational	transnational
+L1040	Nord/Sud	Nord/Sud	capitalisme	capitalisme
+L1041	Nord/Sud	Nord/Sud	centre/périphérie	centre/périphérie
+L1042	Nord/Sud	Nord/Sud	colonisation/décolonisation	colonisation/décolonisation
+L1043	Nord/Sud	Nord/Sud	coopération	coopération
+L1044	Nord/Sud	Nord/Sud	dette (extérieure)	dette (extérieure)
+L1045	Nord/Sud	Nord/Sud	développement	développement
+L1046	Nord/Sud	Nord/Sud	division internationale du travail	division internationale du travail
+L1047	Nord/Sud	Nord/Sud	pauvreté	pauvreté
+L1048	Norme technique	norme technique	commerce international	commerce international
+L1049	Norme technique	norme technique	gouvernance	gouvernance
+L1050	Norme technique	norme technique	reconnaissance mutuelle	reconnaissance mutuelle
+L1051	Norme technique	norme technique	responsabilité sociale (de l'entreprise)	responsabilité sociale (de l'entreprise)
+L1052	Notation	notation	actifs toxiques	actifs toxiques
+L1053	Notation	notation	banque	banque
+L1054	Notation	notation	Chinamérique	Chinamérique
+L1055	Notation	notation	crises (financières)	crises (financières)
+L1056	Notation	notation	déréglementation	déréglementation
+L1057	Notation	notation	État	État
+L1058	Notation	notation	globalisation	globalisation
+L1059	Notation	notation	subprime	subprime
+L1060	Numérique (écriture)	numérique (écriture)	communautés en ligne	communautés en ligne
+L1061	Numérique (écriture)	numérique (écriture)	globalisation	globalisation
+L1062	Numérique (écriture)	numérique (écriture)	mondialisation	mondialisation
+L1063	Numérique (écriture)	numérique (écriture)	numérique (livre)	numérique (livre)
+L1064	Numérique (écriture)	numérique (écriture)	virtuel	virtuel
+L1065	Numérique (livre)	numérique (livre)	bien commun	bien commun
+L1066	Numérique (livre)	numérique (livre)	capitalisme	capitalisme
+L1067	Numérique (livre)	numérique (livre)	cinéma	cinéma
+L1068	Numérique (livre)	numérique (livre)	communautés en ligne	communautés en ligne
+L1069	Numérique (livre)	numérique (livre)	marché	marché
+L1070	Numérique (livre)	numérique (livre)	numérique (écriture)	numérique (écriture)
+L1071	Numérique (livre)	numérique (livre)	virtuel	virtuel
+L1072	Océan	océan	bien commun	bien commun
+L1074	Océan	océan	biodiversité	biodiversité
+L1073	Océan	océan	catastrophe	catastrophe
+L1075	Océan	océan	changement climatique	changement climatique
+L1076	Océan	océan	écosystémiques (services)	écosystémiques (services)
+L1077	Océan	océan	énergie	énergie
+L1078	Océan	océan	transport et échange	transport et échange
+L1090	Organisation internationale	organisation internationale	crise	crise
+L1091	Organisation internationale	organisation internationale	État	État
+L1092	Organisation internationale	organisation internationale	gang	gang
+L1093	Organisation internationale	organisation internationale	gouvernance	gouvernance
+L1094	Organisation internationale	organisation internationale	institution financière internationale	institution financière internationale
+L1095	Organisation internationale	organisation internationale	organisation non gouvernementale	organisation non gouvernementale (ONG)
+L1096	Organisation internationale	organisation internationale	ONG	NA
+L1097	Organisation non gouvernementale (ONG)	organisation non gouvernementale (ONG)	diplomatie	diplomatie
+L1098	Organisation non gouvernementale (ONG)	organisation non gouvernementale (ONG)	Droits de l'homme	droits de l'homme
+L1099	Organisation non gouvernementale (ONG)	organisation non gouvernementale (ONG)	État	État
+L1100	Organisation non gouvernementale (ONG)	organisation non gouvernementale (ONG)	ingérence	ingérence (droit d')
+L1101	Organisation non gouvernementale (ONG)	organisation non gouvernementale (ONG)	justice internationale	justice internationale
+L1102	Organisation non gouvernementale (ONG)	organisation non gouvernementale (ONG)	multilatéralisme	multilatéralisme
+L1103	Organisation non gouvernementale (ONG)	organisation non gouvernementale (ONG)	organisation internationale	organisation internationale
+L1104	Organisation non gouvernementale (ONG)	organisation non gouvernementale (ONG)	société civile	société civile
+L1105	Organisation non gouvernementale (ONG)	organisation non gouvernementale (ONG)	souveraineté	souveraineté
+L1079	Organisme génétiquement modifié (OGM)	organisme génétiquement modifié (ogm)	changement climatique	changement climatique
+L1080	Organisme génétiquement modifié (OGM)	organisme génétiquement modifié (ogm)	crise	crise
+L1082	Organisme génétiquement modifié (OGM)	organisme génétiquement modifié (ogm)	développement durable	développement durable
+L1084	Organisme génétiquement modifié (OGM)	organisme génétiquement modifié (ogm)	écologie	écologie
+L1083	Organisme génétiquement modifié (OGM)	organisme génétiquement modifié (ogm)	économie	économie
+L1085	Organisme génétiquement modifié (OGM)	organisme génétiquement modifié (ogm)	faim/famine	faim/famine
+L1081	Organisme génétiquement modifié (OGM)	organisme génétiquement modifié (ogm)	démographie	NA
+L1086	Organisme génétiquement modifié (OGM)	organisme génétiquement modifié (ogm)	pauvreté	pauvreté
+L1087	Organisme génétiquement modifié (OGM)	organisme génétiquement modifié (ogm)	principe de précaution	principe de précaution
+L1088	Organisme génétiquement modifié (OGM)	organisme génétiquement modifié (ogm)	risque	risque
+L1089	Organisme génétiquement modifié (OGM)	organisme génétiquement modifié (ogm)	sécurité alimentaire	sécurité alimentaire
+L1106	Pandémie	pandémie	aéroport	aéroport
+L1107	Pandémie	pandémie	gouvernance	gouvernance
+L1108	Pandémie	pandémie	médicament	médicament
+L1109	Pandémie	pandémie	propriété	propriété
+L1110	Pandémie	pandémie	transport et échange	transport et échange
+L1111	Paradis fiscaux	paradis fiscaux	bourse	bourse
+L1112	Paradis fiscaux	paradis fiscaux	capitalisme	capitalisme
+L1113	Paradis fiscaux	paradis fiscaux	crise	crise
+L1114	Paradis fiscaux	paradis fiscaux	dette (extérieure)	dette (extérieure)
+L1115	Paradis fiscaux	paradis fiscaux	État	État
+L1116	Paradis fiscaux	paradis fiscaux	flux	flux
+L1117	Paradis fiscaux	paradis fiscaux	place financière	place financière
+L1118	Parité	parité	développement	développement
+L1119	Parité	parité	eau	eau
+L1120	Parité	parité	économie	économie
+L1121	Parité	parité	économie informelle	économie informelle
+L1122	Parité	parité	faim/famine	faim/famine
+L1123	Parité	parité	genre	genre
+L1124	Parité	parité	pauvreté	pauvreté
+L1125	Patrimoine	patrimoine	américanisation	américanisation
+L1126	Patrimoine	patrimoine	avantage comparatif	avantage comparatif
+L1127	Patrimoine	patrimoine	échelle	échelle
+L1128	Patrimoine	patrimoine	ingérence	ingérence (droit d')
+L1129	Patrimoine	patrimoine	métropolisation	métropolisation
+L1130	Patrimoine	patrimoine	public/privé (partenariat)	public/privé (partenariat)
+L1131	Patrimoine	patrimoine	restitution des objets d'art	restitution des objets d'art
+L1132	Patrimoine	patrimoine	tourisme	tourisme
+L1133	Patrimoine	patrimoine	ville	ville
+L1134	Patrimoine	patrimoine	ville globale	ville globale
+L1135	Pauvreté	pauvreté	aide publique au développement	aide publique au développement
+L1136	Pauvreté	pauvreté	crise	crise
+L1137	Pauvreté	pauvreté	développement	développement
+L1138	Pauvreté	pauvreté	eau	eau
+L1139	Pauvreté	pauvreté	faim/famine	faim/famine
+L1140	Pauvreté	pauvreté	inégalité	inégalité
+L1141	Petits États insulairesen développement (PEID)	petits états insulairesen développement (peid)	autochtone (peuple)	autochtone (peuple)
+L1142	Petits États insulairesen développement (PEID)	petits états insulairesen développement (peid)	capitalisme	capitalisme
+L1143	Petits États insulairesen développement (PEID)	petits états insulairesen développement (peid)	changement climatique	changement climatique
+L1144	Petits États insulairesen développement (PEID)	petits états insulairesen développement (peid)	développement durable	développement durable
+L1145	Petits États insulairesen développement (PEID)	petits états insulairesen développement (peid)	État	État
+L1146	Petits États insulairesen développement (PEID)	petits états insulairesen développement (peid)	océan	océan
+L1147	Petits États insulairesen développement (PEID)	petits états insulairesen développement (peid)	organisation non gouvernementale (ONG)	organisation non gouvernementale (ONG)
+L1148	Petits États insulairesen développement (PEID)	petits états insulairesen développement (peid)	société civile	société civile
+L1149	Pétrole	pétrole	énergie	énergie
+L1150	Pétrole	pétrole	globalisation	globalisation
+L1151	Pétrole	pétrole	ressources naturelles	ressources naturelles
+L1152	Pétrole	pétrole	Terre	Terre
+L1153	Pétrole	pétrole	TIC	TIC
+L1154	Pétrole	pétrole	transport et échange	transport et échange
+L1155	Philanthropie	philanthropie	capitalisme	capitalisme
+L1156	Philanthropie	philanthropie	économie	économie
+L1157	Philanthropie	philanthropie	État	État
+L1158	Philanthropie	philanthropie	faim/famine	faim/famine
+L1159	Philanthropie	philanthropie	inégalité	inégalité
+L1160	Philanthropie	philanthropie	luxe (industries de)	luxe (industries de)
+L1161	Philanthropie	philanthropie	pauvreté	pauvreté
+L1162	Place financière	place financière	bourse	bourse
+L1163	Place financière	place financière	capitalisme	capitalisme
+L1164	Place financière	place financière	crise	crise
+L1165	Place financière	place financière	dette (extérieure)	dette (extérieure)
+L1166	Place financière	place financière	flux	flux
+L1167	Place financière	place financière	métropolisation	métropolisation
+L1169	Place financière	place financière	villa	NA
+L1168	Place financière	place financière	paradis fiscaux	paradis fiscaux
+L1170	Planétaire	planétaire	biodiversité	biodiversité
+L1171	Planétaire	planétaire	changement climatique	changement climatique
+L1172	Planétaire	planétaire	développement durable	développement durable
+L1173	Planétaire	planétaire	écologie	écologie
+L1174	Planétaire	planétaire	énergie	énergie
+L1175	Planétaire	planétaire	globalisation	globalisation
+L1176	Planétaire	planétaire	marché carbone	marché carbone
+L1177	Planétaire	planétaire	mondialisation	mondialisation
+L1178	Planétaire	planétaire	risque environnemental	risque environnemental
+L1179	Planétaire	planétaire	virtuel	virtuel
+L1180	Politique pénale internationale	politique pénale internationale	frontière	frontière
+L1181	Politique pénale internationale	politique pénale internationale	gouvernance	gouvernance
+L1182	Politique pénale internationale	politique pénale internationale	justice internationale	justice internationale
+L1183	Post-américain	post-américain	anglosphère	anglosphère
+L1184	Post-américain	post-américain	capitalisme	capitalisme
+L1185	Post-américain	post-américain	Chinamérique	Chinamérique
+L1186	Post-américain	post-américain	cinéma	cinéma
+L1187	Post-américain	post-américain	émergents (pays et puissances)	émergents (pays et puissances)
+L1188	Post-américain	post-américain	globalisation	globalisation
+L1189	Post-américain	post-américain	mondialisation	mondialisation
+L1190	Postcoloniales (études)	postcoloniales (études)	centre/périphérie	centre/périphérie
+L1191	Postcoloniales (études)	postcoloniales (études)	civilisations (choc des)	civilisations (choc des)
+L1192	Postcoloniales (études)	postcoloniales (études)	colonisation/décolonisation	colonisation/décolonisation
+L1193	Postcoloniales (études)	postcoloniales (études)	diaspora	diaspora
+L1194	Postcoloniales (études)	postcoloniales (études)	métissage	métissage
+L1195	Postcoloniales (études)	postcoloniales (études)	minorité	minorité
+L1196	Postcoloniales (études)	postcoloniales (études)	multiculturalisme	multiculturalisme
+L1197	Postcoloniales (études)	postcoloniales (études)	Nord/Sud	Nord/Sud
+L1198	Principe de précaution	principe de précaution	assurance	assurance
+L1199	Principe de précaution	principe de précaution	biodiversité	biodiversité
+L1200	Principe de précaution	principe de précaution	changement climatique	changement climatique
+L1201	Principe de précaution	principe de précaution	organisation internationale	organisation internationale
+L1202	Principe de précaution	principe de précaution	risque environnemental	risque environnemental
+L1203	Printemps arabe	printemps arabe	chômage	chômage
+L1204	Printemps arabe	printemps arabe	communautés en ligne	communautés en ligne
+L1205	Printemps arabe	printemps arabe	crise	crise
+L1206	Printemps arabe	printemps arabe	démocratie	démocratie
+L1207	Printemps arabe	printemps arabe	Droits de l'homme	droits de l'homme
+L1208	Printemps arabe	printemps arabe	état	État
+L1209	Printemps arabe	printemps arabe	indignés	indignés
+L1210	Printemps arabe	printemps arabe	mondialisation	mondialisation
+L1211	Printemps arabe	printemps arabe	pauvreté	pauvreté
+L1212	Privatisation	privatisation	capitalisme	capitalisme
+L1213	Privatisation	privatisation	État	État
+L1214	Privatisation	privatisation	gouvernance	gouvernance
+L1215	Privatisation	privatisation	marché	marché
+L1216	Privatisation	privatisation	régulation	régulation
+L1217	Privée (sphère)	privée (sphère)	connectivité	connectivité
+L1218	Privée (sphère)	privée (sphère)	géolocalisation	géolocalisation
+L1219	Privée (sphère)	privée (sphère)	numérique (écriture)	numérique (écriture)
+L1220	Privée (sphère)	privée (sphère)	propriété	propriété
+L1221	Privée (sphère)	privée (sphère)	public/privé (partenariat)	public/privé (partenariat)
+L1222	Privée (sphère)	privée (sphère)	réseau	réseau
+L1223	Productivité	productivité	avantage comparatif	avantage comparatif
+L1224	Productivité	productivité	compétitivité	compétitivité
+L1225	Productivité	productivité	division internationale du travail	division internationale du travail
+L1226	Productivité	productivité	libre-échange	libre-échange
+L1227	Profit	profit	capitalisme	capitalisme
+L1228	Profit	profit	compétitivité	compétitivité
+L1229	Profit	profit	firme globale	firme globale
+L1230	Profit	profit	firme multinationale	firme multinationale
+L1231	Profit	profit	restructuration industrielle	restructuration industrielle
+L1232	Progrès (social)	progrès (social)	capitalisme	capitalisme
+L1233	Progrès (social)	progrès (social)	crise	crise
+L1234	Progrès (social)	progrès (social)	développement durable	développement durable
+L1235	Progrès (social)	progrès (social)	économie	économie
+L1236	Progrès (social)	progrès (social)	inégalité	inégalité
+L1237	Progrès (social)	progrès (social)	pauvreté	pauvreté
+L1238	Propriété	propriété	bien commun	bien commun
+L1239	Propriété	propriété	capitalisme	capitalisme
+L1240	Propriété	propriété	classe(s) moyenne(s)	classe(s) moyenne(s)
+L1241	Propriété	propriété	compétitivité	compétitivité
+L1242	Propriété	propriété	développement	développement
+L1243	Propriété	propriété	gouvernance	gouvernance
+L1244	Propriété	propriété	médicament	médicament
+L1245	Propriété	propriété	micro-finance	microfinance
+L1246	Propriété	propriété	pauvreté	pauvreté
+L1247	Protectionnisme	protectionnisme	commerce international	commerce international
+L1248	Protectionnisme	protectionnisme	crise	crise
+L1249	Protectionnisme	protectionnisme	crises (financières)	crises (financières)
+L1250	Protectionnisme	protectionnisme	décroissance	décroissance
+L1251	Protectionnisme	protectionnisme	démondialisation	démondialisation
+L1252	Protectionnisme	protectionnisme	économie	économie
+L1253	Protectionnisme	protectionnisme	libéralisation	libéralisation
+L1254	Protectionnisme	protectionnisme	libre-échange	libre-échange
+L1255	Public/Privé (partenariat)	public/privé (partenariat)	bien commun	bien commun
+L1256	Public/Privé (partenariat)	public/privé (partenariat)	cluster	cluster
+L1258	Public/Privé (partenariat)	public/privé (partenariat)	crise	crise
+L1257	Public/Privé (partenariat)	public/privé (partenariat)	culture-monde	culture-monde
+L1259	Public/Privé (partenariat)	public/privé (partenariat)	économie	économie
+L1260	Public/Privé (partenariat)	public/privé (partenariat)	État	État
+L1261	Public/Privé (partenariat)	public/privé (partenariat)	globalisation	globalisation
+L1262	Public/Privé (partenariat)	public/privé (partenariat)	libéralisme	libéralisme
+L1263	Public/Privé (partenariat)	public/privé (partenariat)	mondialisation	mondialisation
+L1264	Public/Privé (partenariat)	public/privé (partenariat)	patrimoine	patrimoine
+L1265	Puissance	puissance	capitalisme	capitalisme
+L1266	Puissance	puissance	Chinamérique	Chinamérique
+L1267	Puissance	puissance	crise	crise
+L1268	Puissance	puissance	diaspora	diaspora
+L1269	Puissance	puissance	émergents (pays et puissances)	émergents (pays et puissances)
+L1270	Puissance	puissance	État	État
+L1271	Puissance	puissance	firme global	firme globale
+L1272	Puissance	puissance	firme multinationale	firme multinationale
+L1273	Puissance	puissance	globalisation	globalisation
+L1274	Puissance	puissance	gouvernance	gouvernance
+L1275	Puissance	puissance	organisation internationale	organisation internationale
+L1276	Puissance	puissance	organisation non gouvernementale (ONG)	organisation non gouvernementale (ONG)
+L1277	Puissance	puissance	souveraineté	souveraineté
+L1278	Puissance	puissance	terrorisme	terrorisme
+L1279	Reconnaissance mutuelle	reconnaissance mutuelle	capitalisme	capitalisme
+L1280	Reconnaissance mutuelle	reconnaissance mutuelle	globalisation	globalisation
+L1281	Reconnaissance mutuelle	reconnaissance mutuelle	libre-échange	libre-échange
+L1282	Reconnaissance mutuelle	reconnaissance mutuelle	norme technique	norme technique
+L1283	Réfugié	réfugié	catastrophe	catastrophe
+L1284	Réfugié	réfugié	changement climatique	changement climatique
+L1285	Réfugié	réfugié	développement durable	développement durable
+L1286	Réfugié	réfugié	Droits de l'homme	droits de l'homme
+L1287	Réfugié	réfugié	migrations internationales	migrations internationales
+L1288	Réfugié	réfugié	minorité	minorité
+L1289	Réfugié	réfugié	risque environnemental	risque environnemental
+L1290	Régionalisation	régionalisation	commerce international	commerce international
+L1291	Régionalisation	régionalisation	économie	économie
+L1292	Régionalisation	régionalisation	libéralisation	libéralisation
+L1293	Régionalisation	régionalisation	multilatéralisme	multilatéralisme
+L1294	Régulation	régulation	capitalisme	capitalisme
+L1296	Régulation	régulation	déréglementation	déréglementation
+L1295	Régulation	régulation	échelle	échelle
+L1297	Régulation	régulation	État	État
+L1298	Régulation	régulation	gouvernance	gouvernance
+L1299	Religion	religion	diaspora	diaspora
+L1300	Religion	religion	fondamentalisme	fondamentalisme
+L1301	Religion	religion	médias	médias
+L1302	Religion	religion	migrations internationales	migrations internationales
+L1303	Religion	religion	minorité	minorité
+L1304	Religion	religion	mondialisation	mondialisation
+L1305	Religion	religion	tourisme	tourisme
+L1306	Religion	religion	transnational	transnational
+L1307	Réseau	réseau	diaspora	diaspora
+L1308	Réseau	réseau	globalisation	globalisation
+L1309	Réseau	réseau	gouvernance	gouvernance
+L1310	Réseau	réseau	infrastructures	infrastructures
+L1311	Réseau	réseau	Internet	Internet
+L1312	Réseau	réseau	métropolisation	métropolisation
+L1313	Réseau	réseau	migrations internationales	migrations internationales
+L1314	Réseau	réseau	minorité	minorité
+L1315	Réseau	réseau	territoire	territoire
+L1316	Réseau	réseau	terrorisme	terrorisme
+L1317	Résilience	résilience	changement climatique	changement climatique
+L1318	Résilience	résilience	inégalité	inégalité
+L1319	Résilience	résilience	ressources naturelles	ressources naturelles
+L1320	Résilience	résilience	risque environnemental	risque environnemental
+L1321	Résilience	résilience	risque et mondialisation	risque et mondialisation
+L1322	Résilience	résilience	vulnérabilité	vulnérabilité
+L1323	Responsabilité sociale (de l'entreprise)	responsabilité sociale (de l'entreprise)	capitalisme	capitalisme
+L1324	Responsabilité sociale (de l'entreprise)	responsabilité sociale (de l'entreprise)	crise	crise
+L1325	Responsabilité sociale (de l'entreprise)	responsabilité sociale (de l'entreprise)	développement durable	développement durable
+L1326	Responsabilité sociale (de l'entreprise)	responsabilité sociale (de l'entreprise)	Droits de l'homme	droits de l'homme
+L1328	Responsabilité sociale (de l'entreprise)	responsabilité sociale (de l'entreprise)	firme globale	firme globale
+L1329	Responsabilité sociale (de l'entreprise)	responsabilité sociale (de l'entreprise)	firme multinationale	firme multinationale
+L1327	Responsabilité sociale (de l'entreprise)	responsabilité sociale (de l'entreprise)	gouvernance	gouvernance
+L1330	Responsabilité sociale (de l'entreprise)	responsabilité sociale (de l'entreprise)	propriété	propriété
+L1331	Responsabilité sociale (de l'entreprise)	responsabilité sociale (de l'entreprise)	ressources naturelles	ressources naturelles
+L1332	Responsabilité sociale (de l'entreprise)	responsabilité sociale (de l'entreprise)	société civile	société civile
+L1339	Ressources naturelles	ressources naturelles	biodiversité	biodiversité
+L1340	Ressources naturelles	ressources naturelles	développement	développement
+L1341	Ressources naturelles	ressources naturelles	développement durable	développement durable
+L1343	Ressources naturelles	ressources naturelles	échelle	échelle
+L1342	Ressources naturelles	ressources naturelles	écologie	écologie
+L1344	Ressources naturelles	ressources naturelles	État	État
+L1345	Ressources naturelles	ressources naturelles	globalisation	globalisation
+L1346	Ressources naturelles	ressources naturelles	industries créatives	industries créatives
+L1347	Ressources naturelles	ressources naturelles	ingérence (droit d')	ingérence (droit d')
+L1348	Ressources naturelles	ressources naturelles	interdépendance	interdépendance
+L1349	Ressources naturelles	ressources naturelles	organisation non gouvernementale (ONG)	organisation non gouvernementale (ONG)
+L1350	Ressources naturelles	ressources naturelles	patrimoine 	patrimoine
+L1351	Ressources naturelles	ressources naturelles	risque	risque
+L1333	Restitution des objets d'art	restitution des objets d'art	mondialisation	mondialisation
+L1334	Restitution des objets d'art	restitution des objets d'art	patrimoine	patrimoine
+L1335	Restitution des objets d'art	restitution des objets d'art	territoire	territoire
+L1336	Restitution des objets d'art	restitution des objets d'art	universel	universalisme
+L1337	Restitution des objets d'art	restitution des objets d'art	ville	ville
+L1338	Restitution des objets d'art	restitution des objets d'art	ville globale	ville globale
+L1352	Restructuration industrielle	restructuration industrielle	avantage comparatif	avantage comparatif
+L1353	Restructuration industrielle	restructuration industrielle	capitalisme	capitalisme
+L1354	Restructuration industrielle	restructuration industrielle	désindustrialisation	désindustrialisation
+L1355	Restructuration industrielle	restructuration industrielle	division internationale du travail	division internationale du travail
+L1356	Restructuration industrielle	restructuration industrielle	économie	économie
+L1357	Restructuration industrielle	restructuration industrielle	métropolisation	métropolisation
+L1375	Risque économique	risque économique	assurance	assurance
+L1376	Risque économique	risque économique	bourse	bourse
+L1377	Risque économique	risque économique	capitalisme	capitalisme
+L1378	Risque économique	risque économique	libéralisation	libéralisation
+L1379	Risque économique	risque économique	risque systémique	risque systémique
+L1380	Risque économique	risque économique	spéculation	spéculation
+L1381	Risque environnemental	risque environnemental	développement durable	développement durable
+L1382	Risque environnemental	risque environnemental	fondamentalisme	fondamentalisme
+L1383	Risque environnemental	risque environnemental	globalisation	globalisation
+L1384	Risque environnemental	risque environnemental	mondialisation	mondialisation
+L1385	Risque environnemental	risque environnemental	planétaire	planétaire
+L1386	Risque environnemental	risque environnemental	risque	risque
+L1387	Risque environnemental	risque environnemental	Terre	Terre
+L1365	Risques et mondialisation	risque et mondialisation	assurance	assurance
+L1366	Risques et mondialisation	risque et mondialisation	catastrophe	catastrophe
+L1367	Risques et mondialisation	risque et mondialisation	changement climatique	changement climatique
+L1368	Risques et mondialisation	risque et mondialisation	métropolisation	métropolisation
+L1369	Risques et mondialisation	risque et mondialisation	mondialisation	mondialisation
+L1370	Risques et mondialisation	risque et mondialisation	pandémie	pandémie
+L1371	Risques et mondialisation	risque et mondialisation	planétaire	planétaire
+L1372	Risques et mondialisation	risque et mondialisation	risque	risque
+L1373	Risques et mondialisation	risque et mondialisation	risque environnemental	risque environnemental
+L1374	Risque et mondialisation	risque et mondialisation	risque systémique	risque systémique
+L1388	Risque systémique	risque systémique	actifs toxiques	actifs toxiques
+L1389	Risque systémique	risque systémique	assurance	assurance
+L1390	Risque systémique	risque systémique	catastrophe	catastrophe
+L1391	Risque systémique	risque systémique	crise	crise
+L1392	Risque systémique	risque systémique	institution financière internationale	institution financière internationale
+L1393	Risque systémique	risque systémique	Internet	Internet
+L1358	Risque	risque	assurance	assurance
+L1359	Risque	risque	capitalisme	capitalisme
+L1360	Risque	risque	changement climatique	changement climatique
+L1361	Risque	risque	eau	eau
+L1362	Risque	risque	économie	économie
+L1363	Risque	risque	inégalité	inégalité
+L1364	Risque	risque	pauvreté	pauvreté
+L1394	Sécurité alimentaire	sécurité alimentaire	agro-impérialisme	agro-impérialisme
+L1395	Sécurité alimentaire	sécurité alimentaire	développement	développement
+L1396	Sécurité alimentaire	sécurité alimentaire	état	État
+L1397	Sécurité alimentaire	sécurité alimentaire	faim/famine	faim/famine
+L1398	Sécurité alimentaire	sécurité alimentaire	inégalité	inégalité
+L1399	Société civile	société civile	aide publique	aide publique au développement
+L1400	Société civile	société civile	développement	développement
+L1401	Société civile	société civile	État	État
+L1402	Société civile	société civile	globalisation	globalisation
+L1403	Société civile	société civile	gouvernance	gouvernance
+L1404	Société civile	société civile	humanitaire	humanitaire
+L1405	Société civile	société civile	organisation international	organisation internationale
+L1406	Société civile	société civile	organisation non gouvernementale(ONG)	organisation non gouvernementale (ONG)
+L1407	Société civile	société civile	philanthropie	philanthropie
+L1408	Société civile	société civile	printemps arabe	printemps arabe
+L1409	Société civile	société civile	syndicats	syndicats
+L1410	Sommet international	sommet international	altermondialisme	altermondialisme
+L1411	Sommet international	sommet international	crises (financières)	crises (financières)
+L1412	Sommet international	sommet international	émergents (pays et puissances)	émergents (pays et puissances)
+L1413	Sommet international	sommet international	gouvernance	gouvernance
+L1414	Sommet international	sommet international	institution financière internationale	institution financière internationale
+L1415	Sommet international	sommet international	organisation internationale	organisation internationale
+L1416	Sommet international	sommet international	organisation non gouvernementale (ONG)	organisation non gouvernementale (ONG)
+L1417	Sous-traitance	sous-traitance	compétitivité	compétitivité
+L1418	Sous-traitance	sous-traitance	délocalisation	délocalisation
+L1419	Sous-traitance	sous-traitance	désindustrialisation	désindustrialisation
+L1420	Sous-traitance	sous-traitance	firme globale	firme globale
+L1421	Sous-traitance	sous-traitance	firme multinationale	firme multinationale
+L1422	Sous-traitance	sous-traitance	globalisation	globalisation
+L1423	Sous-traitance	sous-traitance	productivité	productivité
+L1424	Sous-traitance	sous-traitance	restructuration industrielle	restructuration industrielle
+L1425	Souveraineté	souveraineté	Droits de l'homme	droits de l'homme
+L1426	Souveraineté	souveraineté	État	État
+L1428	Souveraineté	souveraineté	globalisation	globalisation
+L1429	Souveraineté	souveraineté	gouvernance	gouvernance
+L1427	Souveraineté	souveraineté	ingérence (droit d')	ingérence (droit d')
+L1430	Souveraineté	souveraineté	justice internationale	justice internationale
+L1431	Souveraineté	souveraineté	mondialisation	mondialisation
+L1432	Souveraineté	souveraineté	politique pénale internationale	politique pénale internationale
+L1433	Spéculation	spéculation	capitalisme	capitalisme
+L1434	Spéculation	spéculation	crise	crise
+L1435	Spéculation	spéculation	crises (financières)	crises (financières)
+L1436	Spéculation	spéculation	économie	économie
+L1437	Spéculation	spéculation	monnaie	monnaie
+L1438	Spéculation	spéculation	profit	profit
+L1439	Sport	sport	corruption	corruption
+L1440	Sport	sport	village global	village global
+L1441	Subprime	subprime	actifs toxiques	actifs toxiques
+L1442	Subprime	subprime	banque	banque
+L1443	Subprime	subprime	capitalisme	capitalisme
+L1444	Subprime	subprime	crise	crise
+L1445	Subprime	subprime	crises (financières)	crises (financières)
+L1446	Subprime	subprime	économie	économie
+L1447	Subprime	subprime	liquide (société)	liquide (société)
+L1448	Subprime	subprime	profit	profit
+L1449	Subsidiarité	subsidiarité	État	État
+L1450	Subsidiarité	subsidiarité	Europe	Europe
+L1451	Subsidiarité	subsidiarité	globalisation	globalisation
+L1452	Subsidiarité	subsidiarité	souveraineté	souveraineté
+L1453	Syndicats	syndicats	NA	NA
+L1454	Taxe Tobin	taxe tobin	altermondialisme	altermondialisme
+L1455	Taxe Tobin	taxe tobin	capitalisme	capitalisme
+L1456	Taxe Tobin	taxe tobin	économie	économie
+L1457	Taxe Tobin	taxe tobin	globalisation	globalisation
+L1458	Taxe Tobin	taxe tobin	institution financière internationale	institution financière internationale
+L1459	Taxe Tobin	taxe tobin	risque financier	risque économique
+L1460	Taxe Tobin	taxe tobin	spéculation	spéculation
+L1461	Temps du monde	temps du monde	cartes du monde	cartes du monde
+L1462	Temps du monde	temps du monde	civilisations (choc des)	civilisations (choc des)
+L1463	Temps du monde	temps du monde	globalisation	globalisation
+L1464	Temps du monde	temps du monde	Internet	Internet
+L1465	Temps du monde	temps du monde	territoire	territoire
+L1466	Temps du monde	temps du monde	ville globale	ville globale
+L1467	Territoire	territoire	capitalisme	capitalisme
+L1468	Territoire	territoire	délocalisation	délocalisation
+L1469	Territoire	territoire	État	État
+L1470	Territoire	territoire	sglobalisation	globalisation
+L1471	Territoire	territoire	sous-traitance	sous-traitance
+L1472	Territoire	territoire	souveraineté	souveraineté
+L1483	Terrorisme	terrorisme	état	État
+L1484	Terrorisme	terrorisme	gouvernance	gouvernance
+L1485	Terrorisme	terrorisme	guerre	guerre
+L1486	Terrorisme	terrorisme	minorité	minorité
+L1487	Terrorisme	terrorisme	réseau	réseau
+L1488	Terrorisme	terrorisme	virtuel	virtuel
+L1489	TIC	TIC	espace	espace (conquête de l')
+L1490	TIC	TIC	firme globale	firme globale
+L1491	TIC	TIC	fossé technologique	fossé technologique
+L1492	TIC	TIC	fracture numérique	fracture numérique
+L1493	TIC	TIC	globalisation	globalisation
+L1494	TIC	TIC	gouvernance	gouvernance
+L1495	TIC	TIC	infrastructures	infrastructures
+L1496	TIC	TIC	Internet	Internet
+L1497	TIC	TIC	organisation internationale	organisation internationale
+L1498	TIC	TIC	terrorisme	terrorisme
+L1499	Tourisme	tourisme	écotourisme	écotourisme
+L1500	Tourisme	tourisme	flux	flux
+L1501	Tourisme	tourisme	frontière	frontière
+L1502	Tourisme	tourisme	libre-circulation des personnes	libre-circulation des personnes
+L1503	Tourisme	tourisme	mobilité	mobilité
+L1504	Tourisme	tourisme	patrimoine	patrimoine
+L1505	Tourisme	tourisme	TIC	TIC
+L1506	Trame verte et bleue	trame verte et bleue	biodiversité	biodiversité
+L1507	Trame verte et bleue	trame verte et bleue	développement durable	développement durable
+L1508	Trame verte et bleue	trame verte et bleue	eau	eau
+L1509	Trame verte et bleue	trame verte et bleue	Grande muraille verte	grande muraille verte
+L1510	Transfert de technologie	transfert de technologie	fossé technologique	fossé technologique
+L1511	Transfert de technologie	transfert de technologie	organisation internationale	organisation internationale
+L1512	Transfert de technologie	transfert de technologie	propriété	propriété
+L1513	Transition démographique	transition démographique	civilisations (choc des)	civilisations (choc des)
+L1514	Transition démographique	transition démographique	croissance	croissance
+L1515	Transition démographique	transition démographique	inégalité	inégalité
+L1516	Transition démographique	transition démographique	inégalités (peuplement)	inégalités (peuplement)
+L1517	Transition démographique	transition démographique	vieillissante (société)	vieillissante (société)
+L1518	Transnational	transnational	citoyenneté	citoyenneté
+L1519	Transnational	transnational	économie	économie
+L1520	Transnational	transnational	État	État
+L1521	Transnational	transnational	firme globale	firme globale
+L1522	Transnational	transnational	libre-circulation des personnes	libre-circulation des personnes
+L1523	Transnational	transnational	métissage	métissage
+L1524	Transnational	transnational	migrations internationales	migrations internationales
+L1525	Transnational	transnational	minorité	minorité
+L1526	Transport et échange	transport et échange	aéroport	aéroport
+L1527	Transport et échange	transport et échange	délocalisation	délocalisation
+L1528	Transport et échange	transport et échange	marché carbone	marché carbone
+L1529	Transport et échange	transport et échange	migrations internationales	migrations internationales
+L1530	Transport et échange	transport et échange	risque environnemental	risque environnemental
+L1531	Transport et échange	transport et échange	tourisme	tourisme
+L1532	Universalisme	universalisme	art	art
+L1533	Universalisme	universalisme	civilisations (choc des)	civilisations (choc des)
+L1534	Universalisme	universalisme	démocratie	démocratie
+L1535	Universalisme	universalisme	genre	genre
+L1536	Universalisme	universalisme	ingérence (droit d')	ingérence (droit d')
+L1537	Universalisme	universalisme	métissage	métissage
+L1538	Universalisme	universalisme	mondialisation	mondialisation
+L1539	Universalisme	universalisme	multiculturalisme	multiculturalisme
+L1540	Vieillissante (société)	vieillissante (société)	économie	économie
+L1541	Vieillissante (société)	vieillissante (société)	inégalité	inégalité
+L1542	Vieillissante (société)	vieillissante (société)	inégalités (peuplement)	inégalités (peuplement)
+L1543	Vieillissante (société)	vieillissante (société)	progrès (social)	progrès (social)
+L1544	Village global	village global	altermondialisme	altermondialisme
+L1545	Village global	village global	communautés en ligne	communautés en ligne
+L1546	Village global	village global	espace (conquête de l')	espace (conquête de l')
+L1547	Village global	village global	fracture numérique	fracture numérique
+L1548	Village global	village global	Internet	Internet
+L1549	Village global	village global	médias	médias
+L1550	Village global	village global	métropolisation	métropolisation
+L1551	Village global	village global	pauvreté	pauvreté
+L1552	Village global	village global	société civile	société civile
+L1553	Village global	village global	ville globale	ville globale
+L1562	Ville globale	ville globale	bourse	bourse
+L1563	Ville globale	ville globale	diaspora	diaspora
+L1564	Ville globale	ville globale	esthétique urbaine	esthétique urbaine
+L1565	Ville globale	ville globale	globalisation	globalisation
+L1566	Ville globale	ville globale	Internet	Internet
+L1567	Ville globale	ville globale	métropolisation	métropolisation
+L1568	Ville globale	ville globale	village global	village global
+L1569	Ville globale	ville globale	ville	ville
+L1570	Ville mondiale	ville mondiale	NA	NA
+L1554	Ville	ville	capitalisme	capitalisme
+L1555	Ville	ville	citadinité	citadinité
+L1556	Ville	ville	économie informelle	économie informelle
+L1557	Ville	ville	esthétique urbaine	esthétique urbaine
+L1558	Ville	ville	gang	gang
+L1559	Ville	ville	métropolisation	métropolisation
+L1560	Ville	ville	mobilité	mobilité
+L1561	Ville	ville	ville globale	ville globale
+L1571	Virtuel	virtuel	bourse	bourse
+L1572	Virtuel	virtuel	communautés en ligne	communautés en ligne
+L1573	Virtuel	virtuel	délocalisation	délocalisation
+L1574	Virtuel	virtuel	diaspora	diaspora
+L1575	Virtuel	virtuel	firme globale	firme globale
+L1576	Virtuel	virtuel	géolocalisation	géolocalisation
+L1577	Virtuel	virtuel	sous-traitance	sous-traitance
+L1578	Virtuel	virtuel	terrorisme	terrorisme
+L1579	Virtuel	virtuel	TIC	TIC
+L1580	Virtuel	virtuel	village global	village global
+L1581	Virtuel	virtuel	ville globale	ville globale
+L1582	Vulnérabilité	vulnérabilité	catastrophe	catastrophe
+L1583	Vulnérabilité	vulnérabilité	globalisation	globalisation
+L1584	Vulnérabilité	vulnérabilité	métropolisation	métropolisation
+L1585	Vulnérabilité	vulnérabilité	mondialisation	mondialisation
+L1586	Vulnérabilité	vulnérabilité	risque	risque
+L1587	Vulnérabilité	vulnérabilité	risque environnemental	risque environnemental

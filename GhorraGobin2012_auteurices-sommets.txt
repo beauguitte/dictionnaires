@@ -1,0 +1,245 @@
+LNUM	ENTREE	NOM_Prenom
+L001	Actifs toxiques	AZUELOS_Martine
+L002	Aéroport	FRÉTIGNY_Jean-Baptiste
+L003	Agence de notation	JOSEPH_Didier
+L004	Agro-impérialisme	GHORRA-GOBIN_Cynthia
+L005	Aide d'État	DISTLER_Catherine
+L006	Aide publique au développement	DISTLER_Catherine
+L007	Altermondialisme	AZUELOS_Martine
+L008	Altermondialisme 2	AZUELOS_Martine
+L009	Américanisation	LHERM_Adrien
+L010	Anglosphère	AZUELOS_Martine
+L011	Architecture durable	CULOT_Maurice
+L012	Arctique	GHORRA-GOBIN_Cynthia
+L013	Art	GÉRIN-GRATALOUP_Anne-Marie
+L014	Assurance	DISTLER_Catherine
+L015	Autochtone (peuple)	LE-TOURNEAU_François-Michel
+L016	Autochtones	LE-TOURNEAU_François-Michel
+L017	Avantage comparatif	AZUELOS_Martine
+L018	Avantage comparatif	GHORRA-GOBIN_Cynthia
+L019	Avantage compétitif	AZUELOS_Martine
+L020	Banque	DISTLER_Catherine
+L021	Bien commun	APARECIDA-DI-MELLO-THÉRY_Neli
+L022	Biocarburants/agrocombustibles	THÉRY_Hervé
+L023	Biodiversité	COHEN_Marianne
+L024	Bourse	DISTLER_Catherine
+L025	Capitalisme	GHORRA-GOBIN_Cynthia
+L026	Cartes du monde	GRATALOUP_Christian
+L027	Catastrophe	REGHEZZA-ZITT_Magali
+L028	Centre/périphérie	CATTAN_Nadine
+L029	Changement climatique	KERGOMARD_Claude
+L030	Chinamérique	BOURDIN_Juliette
+L031	Chômage	AZUELOS_Martine
+L032	Cinéma	DEPREZ_Camille
+L033	Citadinité	GERVAIS-LAMBONY_Philippe
+L034	Citoyenneté	KASTORYANO_Riva
+L035	Civilisations (choc des)	GHORRA-GOBIN_Cynthia
+L036	Clandestin	GHORRA-GOBIN_Cynthia
+L037	Classe(s) moyenne(s)	GHORRA-GOBIN_Cynthia
+L038	Cluster	GHORRA-GOBIN_Cynthia
+L039	Colonisation/décolonisation	GRATALOUP_Christian
+L040	Commerce équitable	AZUELOS_Martine
+L041	Commerce international	AZUELOS_Martine
+L042	Communautés en ligne	GUICHARD_Éric
+L043	Comparaison	GHORRA-GOBIN_Cynthia
+L044	Compétitivité	AZUELOS_Martine
+L045	Conflit asymétrique	BOYER_Yves
+L046	Connectivité	GHORRA-GOBIN_Cynthia
+L047	Consommation (société de)	DAURIAC_Jean-Michel
+L048	Coopération	LECLERC-OLIVE_Michèle
+L049	Corruption	LASCOUMES_Pierre
+L050	Cosmopolitisme	GHORRA-GOBIN_Cynthia
+L051	Crise	AZUELOS_Martine
+L052	Crises (financières)	LACOSTE_Olivier
+L053	Croissance	AZUELOS_Martine
+L054	Culture-monde	GHORRA-GOBIN_Cynthia
+L055	Déchets	GARCIER_Romain
+L056	Décroissance	GADREY_Jean
+L057	Délocalisation	AZUELOS_Martine
+L058	Désindustrialisation	THÉRY_Hervé
+L059	Développement	VELUT_Sébastien
+L060	Développement durable	BRODHAG_Christian
+L061	Démocratie	SADOUN_Marc
+L062	Démondialisation	GHORRA-GOBIN_Cynthia
+L063	Dénationalisation	GHORRA-GOBIN_Cynthia
+L064	Déréglementation	AZUELOS_Martine
+L065	Dette (extérieure)	AZUELOS_Martine
+L066	Diaspora	BRUNEAU_Michel
+L067	Diplomatie	PETITEVILLE_Franck
+L068	Division internationale du travail	AZUELOS_Martine
+L069	Drogue	DAURIAC_Jean-Michel
+L070	Droit	AUBY_Bernard
+L071	Droits de l'homme	LOING_Bernard
+L072	Drone	GOBIN_Christophe
+L073	Eau	GHORRA-GOBIN_Cynthia
+L074	Échelle	DJAMENT_Géraldine
+L075	Écologie	COHEN_Marianne
+L076	Économie	AZUELOS_Martine
+L077	Économie informelle	GOBIN_Christophe
+L078	Économie-monde, empire-monde	GRATALOUP_Christian
+L079	Écosystémiques (services)	COHEN_Marianne
+L080	Écotourisme	LEFORT_Isabelle
+L081	Écoumène	BERQUE_Augustin
+L082	Éducation	AZUELOS_Martine
+L083	Émergents (pays et puissances)	JAFFRELOT_Christophe
+L084	Empreinte écologique	GHORRA-GOBIN_Cynthia
+L085	Énergie	VELUT_Sébastien
+L086	Enseignement supérieur	AZUELOS_Martine
+L087	Esclavage	COTTIAS_Myriam
+L088	Espace (conquête de l')	PASCO_Xavier
+L089	Espèce humaine	GRATALOUP_Christian
+L090	Esthétique urbaine	GHORRA-GOBIN_Cynthia
+L091	État	MORRIS_Christopher
+L092	État-providence	MORRIS_Christopher
+L093	Évolution des pratiques alimentaires	GRATALOUP_Christian
+L094	Europe	LACOSTE_Olivier
+L095	Euro (zone)	LACOSTE_Olivier
+L096	Expatrié	GHORRA-GOBIN_Cynthia
+L097	Faim/famine	GHORRA-GOBIN_Cynthia
+L098	Firme globale	DISTLER_Catherine
+L099	Firme multinationale	AZUELOS_Martine
+L100	Flux	CATTAN_Nadine
+L101	Fondamentalisme	GHORRA-GOBIN_Cynthia
+L102	Fonds de pension	AZUELOS_Martine
+L103	Fonds souverains	AZUELOS_Martine
+L104	Forestation/déforestation	LE-TOURNEAU_François-Michel
+L105	Forêts	LE-TOURNEAU_François-Michel
+L106	Fossé technologique	DISTLER_Catherine
+L107	Fracture numérique	DISTLER_Catherine
+L108	Fragmentation spatiale	GHORRA-GOBIN_Cynthia
+L109	France	PADIS_Marc-Olivier
+L110	Frontière	GRASLAND_Claude
+L111	Gang	GHORRA-GOBIN_Cynthia
+L112	Genre	GRATALOUP_Christian
+L113	Gentrification	GHORRA-GOBIN_Cynthia
+L114	Géolocalisation	DESBOIS_Henri
+L115	Globalisation	DISTLER_Catherine
+L116	Glocal	GHORRA-GOBIN_Cynthia
+L117	Gouvernance	DISTLER_Catherine
+L118	Grande muraille verte	BOËTSCH_Gilles
+L119	Grande muraille verte	DUCOURNEAU_Axel
+L120	Guerre	COHEN_Samy
+L121	Humanitaire	COHEN_Samy
+L122	Indicateurs	AZUELOS_Martine
+L123	Indignés	GHORRA-GOBIN_Cynthia
+L124	Industries créatives	DEPREZ_Camille
+L125	Inégalité	GHORRA-GOBIN_Cynthia
+L126	Inégalités (peuplement)	DURAND-DASTÈS_François
+L127	Infrastructures	DISTLER_Catherine
+L128	Ingérence (droit d')	MOREAU-DESFARGES_Philippe
+L129	Innovation	TOURNAY_Virginie
+L130	Institution financière internationale	DISTLER_Catherine
+L131	Interdépendance	AZUELOS_Martine
+L132	Internet	DISTLER_Catherine
+L133	Investissements directs étrangers (IDE)	AZUELOS_Martine
+L134	Justice internationale	SOREL_Jean-Marc
+L135	Libéralisation	AZUELOS_Martine
+L136	Libéralisme	AZUELOS_Martine
+L137	Libre-circulation des personnes	GHORRA-GOBIN_Cynthia
+L138	Libre-échange	AZUELOS_Martine
+L139	Liquide (société)	GHORRA-GOBIN_Cynthia
+L140	Logistique	GOBIN_Ulrique
+L141	Luxe (industries de)	GHORRA-GOBIN_Cynthia
+L142	Marché	DISTLER_Catherine
+L143	Marché carbone	AMBROSI_Philippe
+L144	Marché de l'art	GRUN_Jean-Paul
+L145	Marque	GHORRA-GOBIN_Cynthia
+L146	Matières premières	GHORRA-GOBIN_Cynthia
+L147	Médias	FRAU-MEIGGS_Divina
+L148	Médicament	BERNHEIM_Alain
+L149	Mégarégion	GHORRA-GOBIN_Cynthia
+L150	Métissage	LHERM_Adrien
+L151	Métropolisation	GHORRA-GOBIN_Cynthia
+L152	Microfinance	LAVRARD-MEYER_Cécile
+L153	Migrations internationales	GHORRA-GOBIN_Cynthia
+L154	Minorité	GHORRA-GOBIN_Cynthia
+L155	Mobilité	SCHONBRODT_René
+L156	Modèle	AZUELOS_Martine
+L157	Mondialisation	GRATALOUP_Christian
+L158	Monnaie	AZUELOS_Martine
+L159	Multiculturalisme	LHERM_Adrien
+L160	Multilatéralisme	PETITEVILLE_Franck
+L161	Murs	AMILHAT-SZARY_Anne-Laure
+L162	Nation/nationalisme	DIECKHOFF_Alain
+L163	Nord/Sud	GRATALOUP_Christian
+L164	Norme technique	DISTLER_Catherine
+L165	Notation	JOSEPH_Didier
+L166	Numérique (écriture)	HERRENSCHMIDT_Claire
+L167	Numérique (livre)	GUICHARD_Éric
+L168	Océan	GHORRA-GOBIN_Cynthia
+L169	Organisme génétiquement modifié (OGM)	GHORRA-GOBIN_Cynthia
+L170	Organisation internationale	AZUELOS_Martine
+L171	Organisation non gouvernementale (ONG)	COHEN_Samy
+L172	Pandémie	KERSVADOUÉ_Jean-de
+L173	Paradis fiscaux	SAINTEVILLE_Maude
+L174	Parité	NÈGRE_Anne
+L175	Patrimoine	DJAMENT_Géraldine
+L176	Pauvreté	LAVRARD-MEYER_Cécile
+L177	Petits États insulairesen développement (PEID)	GHORRA-GOBIN_Cynthia
+L178	Pétrole	DISTLER_Catherine
+L179	Philanthropie	GHORRA-GOBIN_Cynthia
+L180	Place financière	SAINTEVILLE_Maude
+L181	Planétaire	GHORRA-GOBIN_Cynthia
+L182	Politique pénale internationale	CHARPENEL_Yves
+L183	Post-américain	GHORRA-GOBIN_Cynthia
+L184	Postcoloniales (études)	VERDEIL_Éric
+L185	Principe de précaution	DISTLER_Catherine
+L186	Printemps arabe	KIENLE_Eberhard
+L187	Privatisation	DISTLER_Catherine
+L188	Privée (sphère)	GHORRA-GOBIN_Cynthia
+L189	Productivité	AZUELOS_Martine
+L190	Profit	AZUELOS_Martine
+L191	Progrès (social)	GHORRA-GOBIN_Cynthia
+L192	Propriété	DISTLER_Catherine
+L193	Propriété	GHORRA-GOBIN_Cynthia
+L194	Protectionnisme	AZUELOS_Martine
+L195	Public/Privé (partenariat)	GHORRA-GOBIN_Cynthia
+L196	Puissance	AZUELOS_Martine
+L197	Reconnaissance mutuelle	DISTLER_Catherine
+L198	Réfugié	GHORRA-GOBIN_Cynthia
+L199	Régionalisation	AZUELOS_Martine
+L200	Régulation	DISTLER_Catherine
+L201	Religion	GHORRA-GOBIN_Cynthia
+L202	Réseau	DISTLER_Catherine
+L203	Résilience	REGHEZZA-ZITT_Magali
+L204	Responsabilité sociale (de l'entreprise)	GOBIN_Christophe
+L205	Restitution des objets d'art	DJAMENT_Géraldine
+L206	Ressources naturelles	COHEN_Marianne
+L207	Restructuration industrielle	AZUELOS_Martine
+L208	Risque	REGHEZZA-ZITT_Magali
+L209	Risque et mondialisation	REGHEZZA-ZITT_Magali
+L210	Risque économique	DISTLER_Catherine
+L211	Risque environnemental	REGHEZZA-ZITT_Magali
+L212	Risque systémique	DISTLER_Catherine
+L213	Sécurité alimentaire	BRICAS_Nicolas
+L214	Société civile	GHORRA-GOBIN_Cynthia
+L215	Sommet international	DISTLER_Catherine
+L216	Sous-traitance	AZUELOS_Martine
+L217	Souveraineté	MORRIS_Christopher
+L218	Spéculation	AZUELOS_Martine
+L219	Sport	ATTALI_Michel
+L220	Sport	SAINT-MARTIN_Jean
+L221	Subprime	AZUELOS_Martine
+L222	Subsidiarité	DISTLER_Catherine
+L223	Syndicats	CLOTUCHE_Gabrielle
+L224	Syndicats	DEGRYZE_Christophe
+L225	Taxe Tobin	AZUELOS_Martine
+L226	Temps du monde	GRATALOUP_Christian
+L227	Territoire	THÉRY_Hervé
+L228	Mondialiser	THÉRY_Hervé
+L229	Terrorisme	BOYER_Yves
+L230	TIC	DISTLER_Catherine
+L231	Tourisme	DUHAMEL_Philippe
+L232	Trame verte et bleue	COHEN_Marianne
+L233	Transfert de technologie	DISTLER_Catherine
+L234	Transition démographique	DURAND-DASTÈS_François
+L235	Transnational	GHORRA-GOBIN_Cynthia
+L236	Transport et échange	CATTAN_Nadine
+L237	Universalisme	GRATALOUP_Christian
+L238	Vieillissante (société)	GHORRA-GOBIN_Cynthia
+L239	Village global	GHORRA-GOBIN_Cynthia
+L240	Ville	GHORRA-GOBIN_Cynthia
+L241	Ville globale	GHORRA-GOBIN_Cynthia
+L242	Ville mondiale	GHORRA-GOBIN_Cynthia
+L243	Virtuel	DISTLER_Catherine
+L244	Vulnérabilité	REGHEZZA-ZITT_Magali
