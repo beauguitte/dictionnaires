@@ -9,6 +9,8 @@ Brunet, Roger, Robert Ferras, et Hervé Théry. 1992. _Les mots de la géographi
 
 Lévy, Jacques, et Michel Lussault, éd. 2003. _Dictionnaire de la géographie et de l’espace des sociétés_. Paris : Belin.
 
+Ghorra-Gobin, Cynthia, éd. 2012. _Dictionnaire critique de la mondialisation_. 2e édition. Paris : Armand Colin.
+
 Groupe Cynorhodon, éd. 2020. _Dictionnaire critique de l’anthropocène_. Paris : CNRS Éditions.
 
 Bussi, Michel, Martine Drozdz, et Fabrice Argounès, éd. 2024. _Nos lieux communs. Une géographie du mode contemporain_. Paris : Fayard.
